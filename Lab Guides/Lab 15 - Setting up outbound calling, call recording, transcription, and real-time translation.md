@@ -1,4 +1,4 @@
-# Lab 1: Setting up outbound calling, call recording and transcription 
+# Setting up outbound calling, call recording and transcription 
 
 ## Exercise 1: Configure the voice channel
 

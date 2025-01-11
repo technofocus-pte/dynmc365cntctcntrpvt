@@ -1,4 +1,6 @@
-# Setting up outbound calling, call recording and transcription 
+# Lab 15 - Setting up outbound calling, call recording and transcription 
+
+**Objective** - In this Lab, you will can set up outbound calling for phone numbers in your organization, enable call recording and transcription for voice
 
 ## Exercise 1: Configure the voice channel
 
@@ -9,30 +11,27 @@
 
 2.  Select **+** **New workstream**.
 
-![](./media/media15/image1.png)
+    ![](./media/media15/image1.png)
 
 3.  In the **Create a workstream** dialog, enter the following details:
 
-    - **Name**: **Contoso voice workstream**
+    - **Name**: `Contoso voice workstream`
 
     - **Type**: Voice
 
-![](./media/media15/image2.png)
+    ![](./media/media15/image2.png)
 
-> ***Note***
->
-> *By default, **Owner** and **Channel** are predefined and unavailable,
-> and only push is available for work distribution mode.*
+    ***Note*** - By default, **Owner** and **Channel** are predefined and unavailable, and only push is available for work distribution mode.*
 
 4.  Select **Create**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image3.png)
 
 5.  The workstream that you created is displayed with the option to
     configure the selected channel instance.
 
-![](./media/media15/image4.png)
+    ![](./media/media15/image4.png)
 
 ### Task 2: Acquire a phone number
 
@@ -43,52 +42,54 @@ available phone numbers by selecting **Phone numbers** in the left pane.
 1.  Go to **Contoso voice workstream** that you created, and on the page
     that appears, select **Set up voice**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image5.png)
 
 2.  On the **Voice setup** page, enter **Contoso Voice Channel** in the
     **Name** field. Select **+ Add phone number**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image6.png)
 
 3.  On the **Phone numbers** page, select **+ New number** to add a new
     phone number.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image7.png)
 
 4.  On the **Add phone number** page, select **United States** for the
     **Country/Region** field.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image8.png)
 
 5.  Select the following values.
 
-[TABLE]
+    **Number type** - Toll free
 
-![A screenshot of a phone number Description automatically
+    **Calling plans** - Receive calls (Default setting)
+
+    ![A screenshot of a phone number Description automatically
 generated](./media/media15/image9.png)
 
 6.  Scroll down and select **Area code**. Select **Find numbers**.
 
-![A screenshot of a phone number Description automatically
+    ![A screenshot of a phone number Description automatically
 generated](./media/media15/image10.png)
 
 7.  Review the summary and select **Purchase phone number**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image11.png)
 
 8.  Once the phone number is purchased successfully, select **Done**.
 
-![](./media/media15/image12.png)
+    ![](./media/media15/image12.png)
 
 9.  The recently purchased phone number appears on the **Phone numbers**
     page.
 
-![](./media/media15/image13.png)
+    ![](./media/media15/image13.png)
 
 ### Task 3: Configure a voice channel
 
@@ -97,74 +98,68 @@ generated](./media/media15/image11.png)
 
 2.  Select the **Contoso voice workstream** from the list.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image14.png)
 
 3.  On the **Contoso voice workstream** select **Set up voice**.
 
-![](./media/media15/image15.png)
+    ![](./media/media15/image15.png)
 
 4.  On the **Voice setup** page, enter **Contoso Voice Channel** in the
     **Name** field. Select **Next**.
 
-![](./media/media15/image16.png)
+    ![](./media/media15/image16.png)
 
 5.  On the **Phone numbers** page, select the number that you have
     purchased in the last task, and select **Next**.
 
-![A screenshot of a phone number Description automatically
+    ![A screenshot of a phone number Description automatically
 generated](./media/media15/image17.png)
 
-> ** *Note***
+    ** *Note*** - Only those numbers are displayed that have inbound calls enabled and
+  are not already associated with any other workstream.
 
-- *Only those numbers are displayed that have inbound calls enabled and
-  are not already associated with any other workstream.*
-
-&nbsp;
-
-- *The voice channel supports anonymous inbound calls on those numbers
+    - The voice channel supports anonymous inbound calls on those numbers
   only that are configured via Azure Communication Services direct
-  routing.*
+  routing.
 
 6.  On the **Language** page, select **Add primary language**. 
 
-![](./media/media15/image18.png)
+    ![](./media/media15/image18.png)
 
 7.  Select your language and other fields and then select **Save and
     close**.
 
-![](./media/media15/image19.png)
+    ![](./media/media15/image19.png)
 
 8.  You will be navigated back to the **Language** page. Select
     **Next**.
 
-![](./media/media15/image20.png)
+    ![](./media/media15/image20.png)
 
 9.  On the **Behaviors** tab, turn on the **Customer wait time** toggle,
     and select the following options:
 
     - Notify position in queue
 
-    &nbsp;
-
     - Notify average wait time
 
 10. In the **Transcription and recording** area, select **Transcription
     and recording**.
 
-![](./media/media15/image21.png)
+    ![](./media/media15/image21.png)
 
 11. Select **+ Add** for **Custom automated messages**.
 
-![](./media/media15/image22.png)
+    ![](./media/media15/image22.png)
 
 12. On the **Add automated message** page, select **Agent assigned to
     conversation** template as the trigger, and then enter the custom
-    automated message text.
+    automated message text - `Hi, How can I help you?`
 
 13. Select **Confirm**.
 
-![](./media/media15/image23.png)
+    ![](./media/media15/image23.png)
 
 14. Turn on the **Call transfer to external phone number** toggle to
     allow agents to transfer the call to an external number.
@@ -173,23 +168,23 @@ generated](./media/media15/image17.png)
     users(Preview)** to enable the agents to consult other agents on
     **Microsoft Teams**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image24.png)
 
 16. Select **Next**.
 
 17. On the **Summary** page, select **Create channel**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image25.png)
 
 18. When the voice channel is successfully created, select **Done**.
 
-![](./media/media15/image26.png)
+    ![](./media/media15/image26.png)
 
 19. The phone number is associated with the workstream.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image27.png)
 
 ## Exercise 2: Create a queue for the voice channel
@@ -199,96 +194,84 @@ generated](./media/media15/image27.png)
 
 2.  On the **Queues** page, select **Mange** for **Advanced queues**.
 
-![](./media/media15/image28.png)
+    ![](./media/media15/image28.png)
 
 3.  On the **Queues** page, select **+ New queue**.
 
-![](./media/media15/image29.png)
+    ![](./media/media15/image29.png)
 
 4.  On **Create a queue** dialog, enter the following details.
 
-    - **Name**: **Test**
-
-    &nbsp;
+    - **Name**: `Test`
 
     - **Type**: Voice
-
-    &nbsp;
 
     - **Queue Priority**: 1
 
 5.  Select **Create**. The queue is created.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image30.png)
 
 6.  On the **Test** queue page, select **+ Add users**.
 
-![](./media/media15/image31.png)
+    ![](./media/media15/image31.png)
 
 7.  On the **Add users** flyout menu that appears, select **your admin**
     user, and select **Add**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image32.png)
 
-> ** *Note***
+    **Note** - You can add only those users who are configured for unified routing. After 20 minutes of being added to a queue, agents must refresh their
+  dashboards to be able to receive calls.
 
-- *You can add only those users who are configured for unified routing.*
-
-&nbsp;
-
-- *After 20 minutes of being added to a queue, agents must refresh their
-  dashboards to be able to receive calls.*
-
-![](./media/media15/image33.png)
+    ![](./media/media15/image33.png)
 
 8.  In the **Customer Service admin center**, navigate to the site map
     and select **Workstreams** under **Customer support** group.
 
 9.  Select **Contoso voice workstream**.
 
-![](./media/media15/image14.png)
+    ![](./media/media15/image14.png)
 
 10. On the **Contoso voice workstream**, in **Routing rules** area,
     select **+ Create ruleset** next to **Route to queues**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image34.png)
 
 11. On the **Create route-to-queues ruleset** dialog, enter **Contoso
     queue** in the **Name** field. Select **Create**.
 
-![](./media/media15/image35.png)
+    ![](./media/media15/image35.png)
 
 12. On the **Contoso queue** page, select **+ Create rule**.
 
-![](./media/media15/image36.png)
+    ![](./media/media15/image36.png)
 
 13. On the **Create route to queue rule** page, enter **Contoso queue
     rule** in the **Name** field.
 
 14. Under **Conditions** area, select **+ Add \> Add related entity**.
 
-![](./media/media15/image37.png)
+    ![](./media/media15/image37.png)
 
 15. Choose **Phone Call Engagement Context (Conversation)** entity.
 
-![](./media/media15/image38.png)
+    ![](./media/media15/image38.png)
 
-16. Provide the following condition:
-
-> **Customer phone number: Equals: (Your phone number)**
+16. Provide the following condition: **Customer phone number: Equals: (Your phone number)**
 
 17. Select **Test** for the **Queue** field.
 
 18. Select **Create**.
 
-![](./media/media15/image39.png)
+    ![](./media/media15/image39.png)
 
 19. The new ruleset is added to **Contoso queue**.
 
-![](./media/media15/image40.png)
+    ![](./media/media15/image40.png)
 
 The exercises outlined below can be performed only upon acquiring a paid
 license for Omnichannel for Customer Service.
@@ -301,29 +284,29 @@ to customers.
 1.  In the **Customer Service admin center**, navigate to the site map
     and then select **Channels** under **Customer support** group.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image41.png)
 
 2.  On the **Channels** page, select **Manage** for **Phone numbers**.
 
-![](./media/media15/image42.png)
+    ![](./media/media15/image42.png)
 
 3.  On the **Phone numbers** page, select the phone number which you
     have associated with the **Contoso voice workstream** and then
     select **Setup** in **Ready for setup**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image43.png)
 
 4.  In the dialog that appears, select **Assign to user**.
 
-![](./media/media15/image44.png)
+    ![](./media/media15/image44.png)
 
 5.  The **Omnichannel Users** page displays a list of all agents.
 
 6.  Select your admin as an agent to open the agent details page.
 
-![](./media/media15/image45.png)
+    ![](./media/media15/image45.png)
 
 7.  Select the **Omnichannel** tab and select a phone number from
     the **Omnichannel Phone** field. The phone number is now assigned
@@ -331,18 +314,16 @@ generated](./media/media15/image43.png)
 
 8.  Select **Save and close**.
 
-** *Note***
+    **Note**
 
-- *You can assign to agents local phone numbers only as personal phone
-  numbers; toll-free numbers can’t be assigned. Personal agent phone
-  number calls always apply the default scoped outbound profile.*
+    - *You can assign to agents local phone numbers only as personal phone numbers; toll-free numbers can’t be assigned. Personal agent phone number calls always apply the default scoped outbound profile.*
 
-- *You can add only those users who are configured for unified routing.*
+    - *You can add only those users who are configured for unified routing.*
 
-- *After 20 minutes of being added to a queue, agents must refresh their
+    - *After 20 minutes of being added to a queue, agents must refresh their
   dashboards to be able to make calls.*
 
-![](./media/media15/image46.png)
+    ![](./media/media15/image46.png)
 
 ## Exercise 4: Create outbound profiles
 
@@ -361,52 +342,43 @@ before you can use it.
 2.  On the **Productivity** page, select **Manage** for **Outbound and
     inbound profiles**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image47.png)
 
 3.  Select **+ New profile**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image48.png)
 
 4.  On the **Create new profile** dialog, in the **Profile
     settings** section, enter **Contoso profile** in **Profile name**
     field, select **Outbound** in **Profile type**, and select **Next**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image49.png)
 
 5.  In **Phone number**, select a phone number in the **Shared
     numbers** list, and select **Next**.
 
-> ***Note***
->
-> *The phone numbers list shows only those numbers that are enabled for
-> outbound calling and aren't used as a personal phone number.*
+    **Note** - The phone numbers list shows only those numbers that are enabled for outbound calling and aren't used as a personal phone number.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image50.png)
 
 6.  In **Outbound info**, do the following:
 
     - **Number label**: **Billing**
 
-    &nbsp;
-
     - **Queue**: Test
 
-    &nbsp;
-
     - **Capacity**: Default voice outbound
-
-    &nbsp;
 
     - **Caller ID number**: Select a number from the list.
       The **(Profile Number)** label against the number indicates that
       the caller ID displays the same number as the profile number. It's
       also the default setting.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image51.png)
 
 7.  In **Outbound behaviors**, do the following and then select
@@ -415,49 +387,35 @@ generated](./media/media15/image51.png)
     - **Allow list for countries/regions**: Allow list for
       countries/regions* *
 
-    &nbsp;
-
     - **Hold music**: Select a music file that you want played when the
       customer is put on hold during a call.
-
-    &nbsp;
 
     - **Wait music**: Select a music file that you want played when the
       customer is waiting to get into a call.
 
-    &nbsp;
-
     - **Call transfer to external phone number**: Set the toggle
       to **On** 
 
-    &nbsp;
-
     - **Consult with Microsoft Teams user**: Set the toggle to **On** 
-
-    &nbsp;
 
     - **Transcription and recording**: Transcription and recording
 
-    &nbsp;
-
     - **Start setting**: Keep default setting, which is **Off**.
-
-    &nbsp;
 
     - **Allow agents to pause and resume**: Keep default setting, which
       is **On**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image52.png)
 
 8.  Select **Save and close**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image53.png)
 
 9.  The **Contoso profile** is now created.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image54.png)
 
 ## Exercise 5: Enable call recording and transcription for voice
@@ -468,13 +426,13 @@ generated](./media/media15/image54.png)
 2.  On the **Workstreams** page, select **Contoso voice workstream** for
     which you want to enable recording and transcription.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image14.png)
 
 3.  In the **Phone number** section, next to the pencil icon,
     select **Edit**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image55.png)
 
 4.  On the **Voice settings** page, select the **Behaviors** tab.
@@ -483,7 +441,7 @@ generated](./media/media15/image55.png)
     the **Transcript and recording** dropdown menu, and then
     select **Transcription and recording**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image56.png)
 
 6.  Under **Start setting**, set the toggle to **Automatic** if you want
@@ -495,5 +453,7 @@ generated](./media/media15/image56.png)
 
 8.  Select **Save**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media15/image57.png)
+
+**Summary** - You have set up outbound calling for phone numbers in your organization, enabled call recording and transcription for voice upon acquiring license

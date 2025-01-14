@@ -1,6 +1,6 @@
-# Lab 8 - Set up an intelligent skill finder model
+# Lab 8 - Skill-based routing in unified routing
 
-**Objective** - 
+**Objective** - You will set up skill-based routing in unified routing
 
 ## Exercise 1: Create skills
 

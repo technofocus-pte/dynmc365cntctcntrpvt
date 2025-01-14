@@ -1,4 +1,4 @@
-# Lab 13 - Configure routing based on external schedules
+# Lab 12 - Configure routing based on external schedules
 
 **Objective** - In this Lab, you enable workforce management and shift based routing
 

@@ -1,4 +1,4 @@
-# Lab 6: Solving customer issues faster with Copilot in Dynamics 365 Customer Service
+# Lab 24: Solving customer issues faster with Copilot in Dynamics 365 Customer Service
 
 ## Exercise 1: Summarize cases
 

@@ -1,4 +1,4 @@
-# Using Omnichannel historical analytics dashboard and Customer Service historical dashboard
+# Lab 25 - Using Omnichannel historical analytics dashboard and Customer Service historical dashboard
 
 ## Task 1 - Omnichannel historical analytics dashboard
 

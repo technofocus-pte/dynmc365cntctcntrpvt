@@ -1,4 +1,4 @@
-# Lab 12 - Configure email and enable enhanced experience for email attachments
+# Lab 13 - Configure email and enable enhanced experience for email attachments
 
 **Objective** - In this Lab, you will enable Power Apps trial to enhance email experience. You will also configure email attachment size limitations and enable enhanced experience for email attachments.
 

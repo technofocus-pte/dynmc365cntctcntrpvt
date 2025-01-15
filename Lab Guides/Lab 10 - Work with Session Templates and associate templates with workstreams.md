@@ -55,20 +55,16 @@ started. Agents can't close these application tabs.
     ![A screenshot of a computer Description automatically
 generated](./media/media10/image3.png)
 
-4.  Select the **Agent scripts** tab and set the **Enable build
-    expression** toggle to **Yes** to define the expression to set an
-    agent script as default for a particular session template.
-
     ![A screenshot of a computer Description automatically
 generated](./media/media10/image4.png)
 
-5.  Select the **Agent scripts** tab and set the **Enable build
+4.  Select the **Agent scripts** tab and set the **Enable build
     expression** toggle to **Yes** to define the expression to set an
     agent script as default for a particular session template.
 
     ![](./media/media10/image5.png)
 
-6.  Select **Save and close**.
+5.  Select **Save and close**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media10/image6.png)

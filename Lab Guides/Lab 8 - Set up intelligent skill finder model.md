@@ -169,7 +169,7 @@ generated](./media/media8/image18.png)
     ![Graphical user interface, application, chat or text message
 Description automatically generated](./media/media8/image19.png)
 
-5.  On the** New Bookable Resource Characteristic** page, **Language
+5.  On the** New Bookable Resource Characteristic** page, select **Language
     rating value** for the **Rating Value** field and select **Mark
     Brown** for the **Resource** field.
 

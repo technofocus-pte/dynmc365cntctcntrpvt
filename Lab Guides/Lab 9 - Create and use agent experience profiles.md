@@ -57,11 +57,11 @@ generated](./media/media2/image10.png)
 3.  Select your **Customer Service Trial** environment.
 4.  Select **Settings** from the upper menu.
 
-4. Select **Users + permissions > Users**.
+5. Select **Users + permissions > Users**.
 
-5. From the upper menu, select **Add user**.
+6. From the upper menu, select **Add user**.
 
-6. In the Add user pane, search for and select **Megan Bowen**. Select **Add**.
+7. In the Add user pane, search for and select **Megan Bowen**. Select **Add**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media9/image15.jpg)
@@ -71,9 +71,9 @@ generated](./media/media9/image15.jpg)
     ![A screenshot of a computer Description automatically
 generated](./media/media9/image16.jpg)
    
-10. Switch back to Customer Service admin center tab. Go to **Agent experience profiles** in **Agent experience > Workspaces**.
-11. Select **Contoso Agent** profile.
-12. In the **Users** section, specify the agents this profile must be associated with. Select **Add Users.**
+9. Switch back to Customer Service admin center tab. Go to **Agent experience profiles** in **Agent experience > Workspaces**.
+10. Select **Contoso Agent** profile.
+11. In the **Users** section, specify the agents this profile must be associated with. Select **Add Users.**
 
     ![A screenshot of a computer Description automatically
 generated](./media/media9/image5.png)
@@ -85,31 +85,36 @@ generated](./media/media9/image6.png)
 
   ![](./media/media9/image7.png)
 
-2. Select **Add entity session template** to link a session template to
-  the profile. On the **Entity session templates** pane, Select **Add.**
-  Select **Case** under **Entity.** Select Session Template as **Case
-  Entity Session – Default Template.** Select **Add.** Select **Save and
-  Close.**
+13. Select **Add entity session template** to link a session template to
+  the profile.
 
-  ![A screenshot of a computer Description automatically
-generated](./media/media9/image7.5.png)
-
-  ![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media9/image8.png)
 
-  ![](./media/media9/image9.png)
+15. On the **Entity session templates** pane, Select **Add.**
+
+    ![A screenshot of a computer Description automatically
+generated](./media/media9/image7.5.png)
+
+17. Select **Case** under **Entity.** Select Session Template as **Case Entity Session – Default Template.**
+
+    ![](./media/media9/image9.png)
+        
+19. Select **Add.** Select **Save and Close.**
+
+ 
 
   ![](./media/media9/image10.png)
 
   ![A screenshot of a computer Description automatically
 generated](./media/media9/image11.png)
 
-3. In the **Productivity pane**, select **Turn on** 
+17. In the **Productivity pane**, select **Turn on** 
 
   ![A screenshot of a computer Description automatically
 generated](./media/media9/image12.png)
 
-4. To enable the productivity tools that the agents can access when they
+18. To enable the productivity tools that the agents can access when they
   work on their assigned tasks. The following productivity tool options
   are available:
 
@@ -125,7 +130,7 @@ generated](./media/media9/image12.png)
 
   - Copilot help pane
 
-5. Turn on the toggle against the option in the **Productivity Pane** as per the screnshot to
+19. Turn on the toggle against the option in the **Productivity Pane** as per the screnshot to
 enable it for the agent. Select **Save and Close**
 
   ![](./media/media9/image13.png)

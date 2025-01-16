@@ -15,7 +15,7 @@ generated](./media/media19/image1.1.png)
       ![A screenshot of a computer Description automatically
 generated](./media/media19/image2.1.1.png)
  
-5.	Next, set the toggle for **Turn on Enhanced Microsoft Teams Integration** to **Yes**. This setting requires tenant admin permission.
+5.	Next, set the toggle for **Turn on the linking of Dynamics 365 records to Microsoft Teams channels** to **Yes**. This setting requires tenant admin permission.
   
 6.	Select **Save**.
 

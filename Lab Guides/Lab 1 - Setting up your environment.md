@@ -16,7 +16,7 @@ generated](./media/media1/image0.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image1.png)
 
-2.  Select Country/Region - **India** and enter your Phone number and **submit**
+2.  Select Country/Region - **United States** and enter your Phone number and **submit**
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image2.png)

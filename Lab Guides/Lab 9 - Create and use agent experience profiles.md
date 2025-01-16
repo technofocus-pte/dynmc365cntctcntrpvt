@@ -96,7 +96,7 @@ generated](./media/media9/image8.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media9/image7.5.png)
 
-15. Select **Case** under **Entity.** Select **Case Entity Session – Default Template.** as **Session Template**.
+15. Select **Case** under **Entity.** Select **Case Entity Session – Default Template** as **Session Template**.
 
     ![](./media/media9/image9.png)
         

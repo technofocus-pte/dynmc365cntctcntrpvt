@@ -153,7 +153,7 @@ generated](./media/media5/image18.png)
 13.  Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.
 
-! [A screenshot of a computer Description automatically
+![A screenshot of a computer Description automatically
 generated](./media/media5/image19.png)
 
 12. On the **Contoso queue for supervisors** page, click **+** **Set

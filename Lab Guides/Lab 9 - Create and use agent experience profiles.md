@@ -64,12 +64,12 @@ generated](./media/media2/image10.png)
 6. In the Add user pane, search for and select **Megan Bowen**. Select **Add**.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media9/image15.png)
+generated](./media/media9/image15.jpg)
    
 8. In the Manage security roles page, select the **System administrator** role. Select **Save**.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media9/image16.png)
+generated](./media/media9/image16.jpg)
    
 10. Switch back to Customer Service admin center tab. Go to **Agent experience profiles** in **Agent experience > Workspaces**.
 11. Select **Contoso Agent** profile.

@@ -8,17 +8,34 @@
       ![A screenshot of a computer Description automatically
 generated](./media/media19/image1.1.png)
  
-4.	On the **Microsoft Teams collaboration and chat** page, turn on the toggle for **Turn on Microsoft Teams chats inside Dynamics 365**.
-5.	**Save** the changes
+3.	On the **Microsoft Teams collaboration and chat** page, turn on the toggle for **Turn on Microsoft Teams chats inside Dynamics 365**.
+  
+4.	**Save** the changes
+
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image2.1.1.png)
  
-6.	Next, set the toggle for **Turn on Enhanced Microsoft Teams Integration** to **Yes**. This setting requires tenant admin permission.
-7.	Select **Save**.
+5.	Next, set the toggle for **Turn on Enhanced Microsoft Teams Integration** to **Yes**. This setting requires tenant admin permission.
+  
+6.	Select **Save**.
+
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image3.1.png)
  
-8.	Next, set the toggle for **Turn on Enhanced Microsoft Teams Integration** to **Yes**. This setting requires the tenant admin permission. 
+7.	Next, set the toggle for **Turn on Enhanced Microsoft Teams Integration** to **Yes**. This setting requires the tenant admin permission.
+
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image4.1.png)
  
-9.	**Accept** the Consent.
+8.	**Accept** the Consent.
+
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image5.1.png)
  
-10.	Select **Save**.
+9.	Select **Save**.
+
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image6.1.png)
  
 ## Task 2: Configure the ability to connect chats to Dynamics 365 records
 1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience**, select **Collaboration**.

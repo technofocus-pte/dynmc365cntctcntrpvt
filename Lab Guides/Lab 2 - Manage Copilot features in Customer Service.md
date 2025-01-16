@@ -46,19 +46,20 @@ generated](./media/media2/image13.png)
 
 ## Task 2 - Set up your Copilot
 
-1.  Switch back to **Customer Service admin center** tab
+1.  Switch back to **Customer Service admin center** tab.
 2.  Select **Productivity** under **Agent experience**.
 3.  Select **Manage** for **Copilot for questions and emails**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image20.jpg)
 
-5.  Select **Ask a question**.
+5.  Select the checkbox for **Ask a question**.
+6.  Select **Save and close**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image21.jpg)
 
-6.  Select **Save & Close**.
+7.  Select **Save & Close**.
 
 ## Task 3 - Make Copilot available to agents
 

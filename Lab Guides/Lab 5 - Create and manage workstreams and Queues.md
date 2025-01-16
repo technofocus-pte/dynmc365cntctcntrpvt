@@ -44,10 +44,11 @@ generated](./media/media5/image2.png)
     - In **Fallback queue** – Select **Choose existing**: Select Default
       messaging queue ( All users)
 
-    - Select **Create**. The workstream that you created is displayed
-      with the option to configure the selected channel instance.
-
+    - Select **Create**.
+  
     ![](./media/media5/image3.png)
+    
+    The workstream that you created is displayed with the option to configure the selected channel instance.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image4.png)
@@ -55,7 +56,7 @@ generated](./media/media5/image4.png)
 ### Task 2 - Manage workstreams
 
 1.  Select **Workstreams** on the left navigation pane under **Customer
-    Support**
+    Support**.
 
 2.  Select **Contoso chat workstream** on the **All workstreams** page
     and select **Edit** on the command menu to edit the workstream.

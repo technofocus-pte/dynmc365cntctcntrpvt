@@ -144,13 +144,13 @@ generated](./media/media5/image17.png)
     dropdown next to **Select operation hours** and then click **+
     Create new**.
 
-    ![A screenshot of a computer Description automatically
+![A screenshot of a computer Description automatically
 generated](./media/media5/image18.png)
-
-11.  On the **New Operating Hour** page, enter **Contoso operation
+    
+12.  On the **New Operating Hour** page, enter **Contoso operation
     hours** in the **Name** field and **Description** field.
 
-12.  Click **Save & Close** to navigate back to the **Contoso queue for
+13.  Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.
 
     ![](./media/media5/image19.png)

@@ -4,7 +4,7 @@
 
 ## Task 1 - Create a website in Power Page trial
 
-1.  Open a tab in the browser. Open a Power Pages trial page.
+1.  Open a tab in the browser. Open a [Power Pages trial page](https://www.microsoft.com/en-in/power-platform/products/power-pages/).
 
 2.  Select **Try for Free**
 

@@ -91,18 +91,16 @@ generated](./media/media9/image6.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media9/image8.png)
 
-15. On the **Entity session templates** pane, Select **Add.**
+14. On the **Entity session templates** pane, Select **Add.**
 
     ![A screenshot of a computer Description automatically
 generated](./media/media9/image7.5.png)
 
-17. Select **Case** under **Entity.** Select Session Template as **Case Entity Session – Default Template.**
+15. Select **Case** under **Entity.** Select **Case Entity Session – Default Template.** as **Session Template**.
 
     ![](./media/media9/image9.png)
         
-19. Select **Add.** Select **Save and Close.**
-
- 
+16. Select **Add.** Select **Save and Close.**
 
   ![](./media/media9/image10.png)
 

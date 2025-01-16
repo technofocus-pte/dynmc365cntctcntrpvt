@@ -78,7 +78,7 @@ generated](./media/media9/image16.jpg)
     ![A screenshot of a computer Description automatically
 generated](./media/media9/image5.png)
 
-12. Select the user Meghan that we created earlier. Select **Add.**
+12. Select the user **Megan Bowen** that we created earlier. Select **Add.**
 
   ![A screenshot of a computer Description automatically
 generated](./media/media9/image6.png)

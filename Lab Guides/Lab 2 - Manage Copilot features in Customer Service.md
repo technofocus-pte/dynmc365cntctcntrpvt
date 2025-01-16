@@ -63,26 +63,24 @@ generated](./media/media2/image21.jpg)
 
 ## Task 3 - Make Copilot available to agents
 
-1.  Switch back to **Customer Service admin center** tab
-
-2.  On the left navigation pane, Under **Agent
+1.  On the left navigation pane, Under **Agent
     experience** select **Workspaces.**
 
     ![A screenshot of a phone Description automatically
 generated](./media/media2/image14.png)
 
-3.  Select **Manage** under **Agent Experience profiles.**
+2.  Select **Manage** under **Agent Experience profiles.**
 
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image15.png)
 
-4.  Select the **Customer Service Trial profile** agent experience
+3.  Select the **Customer Service Trial profile** agent experience
     profile from the list.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image16.png)
 
-5.  On the **Productivity Pane**, make sure **Copilot help pane** toggle
+4.  On the **Productivity Pane**, make sure **Copilot help pane** toggle
     is **ON** so that agents can use the Copilot features such suggest a
     response, ask a question, and write an email on the productivity
     pane.
@@ -90,7 +88,7 @@ generated](./media/media2/image16.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image17.png)
 
-6.  Scroll down to **Copilot AI features** section, you will see
+5.  Scroll down to **Copilot AI features** section, you will see
     features **Ask a question**, **Scan customer conversation and
     suggest a response**, **Write an email**, **Case summary**, **Live
     conversation summary**, you want to enable for that profile. are

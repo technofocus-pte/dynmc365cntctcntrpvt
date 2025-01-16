@@ -45,3 +45,7 @@ Exercise 5: Configure the ability for users to join chats
  
 4.	Select Save.
 
+   Select **Start free**.
+ 
+![](./media/image2.png)
+

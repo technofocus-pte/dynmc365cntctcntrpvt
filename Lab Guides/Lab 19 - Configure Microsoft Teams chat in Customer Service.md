@@ -5,7 +5,7 @@
 
 2.	In **Embedded chat using Teams**, select **Manage**.
 
-   ![A screenshot of a computer Description automatically
+      ![A screenshot of a computer Description automatically
 generated](./media/media19/image1.1.png)
  
 4.	On the **Microsoft Teams collaboration and chat** page, turn on the toggle for **Turn on Microsoft Teams chats inside Dynamics 365**.

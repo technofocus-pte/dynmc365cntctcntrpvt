@@ -44,7 +44,17 @@ generated](./media/media2/image13.png)
 6.  If any changes have been made, select **Save** to confirm them;
     otherwise, select **Cancel**.
 
-## Task 2 - Make Copilot available to agents
+## Task 2 - Set up your Copilot
+
+1.  Switch back to **Customer Service admin center** tab
+2.  Select the **Home** tab.
+3.  Select **Set up your Copilot** tile on the Home page.
+4.  Select **Ask a question**.
+
+    
+6.  Select **Save & Close**.
+
+Make Copilot available to agents
 
 1.  Switch back to **Customer Service admin center** tab
 

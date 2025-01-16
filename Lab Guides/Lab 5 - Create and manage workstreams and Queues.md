@@ -117,12 +117,13 @@ generated](./media/media5/image11.png)
 
 5.  The queue that you created is displayed.
 
+6.  Select **Add users**, and in the flyout menu, select the users who
+    should be part of the queue, and then select **Add**.
+
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image14.png)
 
-6.  Select **Add users**, and in the flyout menu, select the users who
-    should be part of the queue, and then select **Add**. The users are
-    added to the queue.
+    The users are added to the queue.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image15.png)
@@ -133,37 +134,37 @@ generated](./media/media5/image15.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image16.png)
 
-6.  To set the operating hours, in **Operation hours**, select **Set
+8.  To set the operating hours, in **Operation hours**, select **Set
     operation hours**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image17.png)
 
-7.  On the **Set operation hours** dialog that appears, click the
+9.  On the **Set operation hours** dialog that appears, click the
     dropdown next to **Select operation hours** and then click **+
     Create new**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image18.png)
 
-8.  On the **New Operating Hour** page, enter **Contoso operation
+10.  On the **New Operating Hour** page, enter **Contoso operation
     hours** in the **Name** field and **Description** field.
 
-9.  Click **Save & Close** to navigate back to the **Contoso queue for
+11.  Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.
 
     ![](./media/media5/image19.png)
 
-10. On the **Contoso queue for supervisors** page, click **+** **Set
+12. On the **Contoso queue for supervisors** page, click **+** **Set
     operation hours** again.
 
-11. On the **Set operation hours** pane, search for and select **Contoso
+13. On the **Set operation hours** pane, search for and select **Contoso
     operation hours** and click **Save and close.**
 
     ![A screenshot of a computer screen Description automatically
 generated](./media/media5/image20.png)
 
-12. The operation hours record that you selected is configured for the
+14. The operation hours record that you selected is configured for the
     queue.
 
     ![A screenshot of a computer Description automatically

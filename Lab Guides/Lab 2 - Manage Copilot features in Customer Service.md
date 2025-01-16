@@ -50,13 +50,15 @@ generated](./media/media2/image13.png)
 2.  Select **Productivity** under **Agent experience**.
 3.  Select **Manage** for **Copilot for questions and emails**.
 
-    
-4.  Select **Ask a question**.
+    ![A screenshot of a computer Description automatically
+generated](./media/media2/image20.jpg)
+
+5.  Select **Ask a question**.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media2/image19.jpg)
+generated](./media/media2/image21.jpg)
 
-5.  Select **Save & Close**.
+6.  Select **Save & Close**.
 
 ## Task 3 - Make Copilot available to agents
 

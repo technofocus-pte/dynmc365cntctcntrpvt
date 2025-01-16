@@ -19,7 +19,7 @@ must be a Power Platform administrator or Dynamics 365 administrator.
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image10.png)
 
-3.  Select your **Customer Service Trail** environment.
+3.  Select your **Customer Service Trial** environment.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image11.png)

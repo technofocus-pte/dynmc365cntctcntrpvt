@@ -45,23 +45,34 @@ such as specific session templates, conversation channels, and
 productivity tools.
 
 
-1. In the **Users** section, specify the agents this profile must be
-  associated with.
-2. Sign in to the Power Platform admin center with the admin credentials, select Environments in the navigation pane. Select the Sustainability Trial environment.
+1. Open a new tab in the browser. Sign in to the Power Platform admin
+    center - https://admin.powerplatform.microsoft.com/ with the
+    credentials provided to execute the lab in the home tab.
+ 
+2.  In the left side panel, select **Environments**.
 
-3. Select Settings from the upper menu.
+    ![A screenshot of a computer Description automatically
+generated](./media/media2/image10.png)
 
-4. Select Users + permissions > Users.
+3.  Select your **Customer Service Trial** environment.
+4.  Select **Settings** from the upper menu.
 
-5. From the upper menu, select Add user.
+4. Select **Users + permissions > Users**.
 
-6. In the Add user pane, search for and select Amber Rodriguez. Select Add.
-7. Select **Add Users.**
+5. From the upper menu, select **Add user**.
 
-8. Select the user Meghan that we created earlier. Select **Add.**
+6. In the Add user pane, search for and select **Megan Bowen**. Select **Add**.
+   
+8. In the Manage security roles page, select the System administrator role. Select **Save**.
+   
+10. Switch back to Customer Service admin center tab. Go to **Agent experience profiles** in **Agent experience > Workspaces**.
+11. Select **Contoso Agent** profile.
+12. In the **Users** section, specify the agents this profile must be associated with. Select **Add Users.**
 
-  ![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media9/image5.png)
+
+12. Select the user Meghan that we created earlier. Select **Add.**
 
   ![A screenshot of a computer Description automatically
 generated](./media/media9/image6.png)

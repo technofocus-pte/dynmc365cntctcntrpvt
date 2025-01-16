@@ -56,7 +56,7 @@ generated](./media/media2/image19.jpg)
 
 6.  Select **Save & Close**.
 
-Make Copilot available to agents
+## Task 3 - Make Copilot available to agents
 
 1.  Switch back to **Customer Service admin center** tab
 

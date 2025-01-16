@@ -118,7 +118,7 @@ generated](./media/media1/image14.png)
 
 6.  Click on **Close**
 
-7.  Now select your Admin \> Update user attributes \> Update
+7.  Now select your **Admin \> Update user attributes \> Update
     queues**
 
 8.  **Update queues**: On the dialog box that appears, in

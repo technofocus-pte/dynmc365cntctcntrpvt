@@ -46,7 +46,19 @@ productivity tools.
 
 
 1. In the **Users** section, specify the agents this profile must be
-  associated with. Select **Add Users.** Select the user Meghan that we created earlier. Select **Add.**
+  associated with.
+2. Sign in to the Power Platform admin center with the admin credentials, select Environments in the navigation pane. Select the Sustainability Trial environment.
+
+3. Select Settings from the upper menu.
+
+4. Select Users + permissions > Users.
+
+5. From the upper menu, select Add user.
+
+6. In the Add user pane, search for and select Amber Rodriguez. Select Add.
+7. Select **Add Users.**
+
+8. Select the user Meghan that we created earlier. Select **Add.**
 
   ![A screenshot of a computer Description automatically
 generated](./media/media9/image5.png)

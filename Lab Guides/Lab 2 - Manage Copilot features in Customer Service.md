@@ -26,7 +26,7 @@ generated](./media/media2/image11.png)
 
 4.  You will find the **Environment URL** under **Details**. This will take you to Customer Service page.
 
-5. One the Power Platform admin center page, scroll down until you see the **Generative AI features** card. Now,
+5. On the Power Platform admin center page, scroll down until you see the **Generative AI features** card. Now,
     select **Edit**.
 
     ![A screenshot of a computer Description automatically

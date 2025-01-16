@@ -157,7 +157,7 @@ generated](./media/media16/image18.png)
 
     - **Question text**: LastName
 
-    - **Answer type –** Single
+    - **Answer type –** Single line
 
     - **Required -** Yes
 
@@ -167,11 +167,11 @@ generated](./media/media16/image18.png)
 
 9.  Select **Add** again
 
-    - **Survey question name:** LastName
+    - **Survey question name:** Age
 
     - **Question text**: Enter your Age
 
-    - **Answer type –** Single
+    - **Answer type –** Single line
 
     - **Required -** Yes
 

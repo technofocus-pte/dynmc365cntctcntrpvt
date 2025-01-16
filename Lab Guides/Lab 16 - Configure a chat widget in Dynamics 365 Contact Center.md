@@ -127,7 +127,7 @@ generated](./media/media16/image18.png)
     - **Survey question name:** ContosoConsent
 
     - **Question text**: We collect demographic data. Please confirm
-      whether you agree to provide basic information
+      whether you agree to provide the basic information.
 
     - **Answer type –** User consent
 
@@ -143,7 +143,7 @@ generated](./media/media16/image18.png)
 
     - **Question text**: FirstName
 
-    - **Answer type –** Single
+    - **Answer type –** Single line
 
     - **Required -** Yes
 

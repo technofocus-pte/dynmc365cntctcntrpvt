@@ -40,7 +40,7 @@ generated](./media/media8/image2.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image4.png)
 
-3.  On the **Omnichannel Configuration** page, in the **Rating
+3.  On the **Omnichannel Configuration** page, set the toggle for **Enable update skill control** to **Yes**. In the **Rating
     Model** section, select **+ New Rating Model**.
 
     ![Graphical user interface, application Description automatically

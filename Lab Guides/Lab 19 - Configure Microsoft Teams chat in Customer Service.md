@@ -47,5 +47,6 @@ Exercise 5: Configure the ability for users to join chats
 
    Select **Start free**.
  
-![](./media/image2.1.png)
+![A screenshot of a computer Description automatically
+generated](./media/media19/image2.1.png)
 

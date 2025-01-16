@@ -30,7 +30,7 @@ generated](./media/media1/image2.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image3.png)
 
-5.  Now you are on the **Customer Service Workspace** home page be default.
+5.  Now you are on the **Customer Service Workspace** home page by default.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image4.png)

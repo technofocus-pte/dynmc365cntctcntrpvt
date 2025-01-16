@@ -9,9 +9,10 @@
 You can create workstreams for unified routing in the Customer Service
 admin center app.
 
-1.  Switch back to Customer Service Admin center. If you have closed the
-    window, launch from **Power Platform Admin center \> Environments\>
-    Your Environment \> Environment URL.**
+1.  Open a new tab in the browser, Sign in to the Power Platform admin
+    center - https://admin.powerplatform.microsoft.com/ with the
+    credentials provided to execute the lab in the home tab. Select **> Environments>
+    CustomerService Trial environment> Environment URL.**
 
 2.  Select **Customer Service Workspace** and Select **Customer Service Admin
     center** from the list of Apps.

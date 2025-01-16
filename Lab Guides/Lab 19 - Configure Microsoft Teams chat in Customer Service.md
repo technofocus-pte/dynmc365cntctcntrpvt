@@ -13,7 +13,7 @@
     ![A screenshot of a computer Description automatically
 generated](./media/media19/image1.png)
 
-3.  Select **Start with the Template**
+3.  Select **Home** tab and then select **Start with the Template**
 
     ![A screenshot of a computer Description automatically
 generated](./media/media19/image2.png)

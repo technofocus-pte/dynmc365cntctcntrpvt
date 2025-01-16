@@ -2,13 +2,15 @@
 
 Exercise 1: Access the Teams settings
 1.	In the Customer Service admin center or Contact Center admin center, go to Agent experience and select Collaboration.
-2.	In Embedded chat using Teams, select Manage.
+   ![A screenshot of a computer Description automatically
+generated](./media/media2/image10.png)
+3.	In Embedded chat using Teams, select Manage.
  
-3.	On the Microsoft Teams collaboration and chat page, turn on the toggle for Turn on Microsoft Teams chats inside Dynamics 365.
-4.	Save the changes
+4.	On the Microsoft Teams collaboration and chat page, turn on the toggle for Turn on Microsoft Teams chats inside Dynamics 365.
+5.	Save the changes
  
-5.	Next, set the toggle for Turn on Enhanced Microsoft Teams Integration to Yes. This setting requires tenant admin permission.
-6.	Select Save.
+6.	Next, set the toggle for Turn on Enhanced Microsoft Teams Integration to Yes. This setting requires tenant admin permission.
+7.	Select Save.
  
 9.	Next, set the toggle for Turn on Enhanced Microsoft Teams Integration to Yes. This setting requires the tenant admin permission. 
  

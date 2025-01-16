@@ -2,8 +2,10 @@
 
 ## Task 1: Access the Teams settings
 1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience** and select **Collaboration**.
+   
    ![A screenshot of a computer Description automatically
 generated](./media/media19/image10.png)
+
 3.	In **Embedded chat using Teams**, select **Manage**.
  
 4.	On the **Microsoft Teams collaboration and chat** page, turn on the toggle for **Turn on Microsoft Teams chats inside Dynamics 365**.

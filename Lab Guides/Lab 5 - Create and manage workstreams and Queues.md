@@ -84,8 +84,6 @@ automatically generated](./media/media5/image8.png)
 6.  To delete the workstream, select the workstream and click
     **Delete.**
 
-    ![](./media/media5/image9.png)
-
 ## Exercise 2 - Create and Manage Queues
 
 ### Task 1 - Create a queue for unified routing

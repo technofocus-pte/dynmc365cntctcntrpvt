@@ -52,7 +52,7 @@ generated](./media/media2/image13.png)
 4.  Select **Ask a question**.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media2/Screenshot 2025-01-16 143604.png)
+generated](./media/media2/Screenshot 2025-01-16 143604.jpg)
 
 6.  Select **Save & Close**.
 

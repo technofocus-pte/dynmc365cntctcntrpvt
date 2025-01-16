@@ -81,8 +81,8 @@ generated](./media/media8/image7.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image8.png)
 
-10. Select **Save & Close on the top of Language rating model page to
-    navigate back to the Omnichannel Configuration page**.
+10. Select **Save & Close** on the top of Language rating model page to
+    navigate back to the Omnichannel Configuration page.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image9.png)

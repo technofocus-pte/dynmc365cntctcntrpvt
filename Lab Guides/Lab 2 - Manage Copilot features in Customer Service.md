@@ -51,7 +51,9 @@ generated](./media/media2/image13.png)
 3.  Select **Set up your Copilot** tile on the Home page.
 4.  Select **Ask a question**.
 
-    
+    ![A screenshot of a computer Description automatically
+generated](./media/media2/Screenshot 2025-01-16 143604.png)
+
 6.  Select **Save & Close**.
 
 Make Copilot available to agents

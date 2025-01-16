@@ -121,36 +121,36 @@ generated](./media/media5/image11.png)
     should be part of the queue, and then select **Add**.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media5/image14.png)
-
+generated](./media/media5/image15.png)
+    
     The users are added to the queue.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media5/image15.png)
+generated](./media/media5/image14.png)
 
-7.  In **Assignment method**, You can see **Highest capacity** with
+8.  In **Assignment method**, You can see **Highest capacity** with
     **Read-only**
 
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image16.png)
 
-8.  To set the operating hours, in **Operation hours**, select **Set
+9.  To set the operating hours, in **Operation hours**, select **Set
     operation hours**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image17.png)
 
-9.  On the **Set operation hours** dialog that appears, click the
+10.  On the **Set operation hours** dialog that appears, click the
     dropdown next to **Select operation hours** and then click **+
     Create new**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image18.png)
 
-10.  On the **New Operating Hour** page, enter **Contoso operation
+11.  On the **New Operating Hour** page, enter **Contoso operation
     hours** in the **Name** field and **Description** field.
 
-11.  Click **Save & Close** to navigate back to the **Contoso queue for
+12.  Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.
 
     ![](./media/media5/image19.png)

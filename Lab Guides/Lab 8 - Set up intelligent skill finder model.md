@@ -163,7 +163,7 @@ generated](./media/media8/image17.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image18.png)
 
-4.  Select** + New Bookable Resource Characteristic** in the **Users
+4.  Select **+ New Bookable Resource Characteristic** in the **Users
     (Agents)** section.
 
     ![Graphical user interface, application, chat or text message

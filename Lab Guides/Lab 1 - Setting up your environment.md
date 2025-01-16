@@ -11,7 +11,7 @@
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image0.png)
 
-3. Enter the user id and click on **Start your free trial**
+3. Enter the user id, select the agreement terms and then select **Start your free trial**
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image1.png)

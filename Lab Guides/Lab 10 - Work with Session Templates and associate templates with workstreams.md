@@ -5,7 +5,7 @@
 ## Task 1 - Create a session template
 
 1.  In the site map of Customer Service admin center,
-    select **Workspaces** in **Agent experience**.
+    select **Workspaces** in **Agent experience** group.
 
 2.  On the **Workspaces** page, select **Manage** for **Session
     templates**.

@@ -1,6 +1,6 @@
 # Lab 14 - Configure the inbox setting for agents
 
-**Objective** - In this Lab, You configure the inbox in Contact Center admin center or Customer Service admin center by editing the agent experience profile to meet your preferred inbox settings.
+**Objective** - In this Lab, you configure the inbox in Contact Center admin center or Customer Service admin center by editing the agent experience profile to meet your preferred inbox settings.
 
 ## Task 1 - Exploring the inbox setting for agents
 
@@ -8,19 +8,18 @@ You can configure the inbox in Contact Center admin center or Customer
 Service admin center by editing the agent experience profile to meet
 your preferred inbox settings.
 
-1.  On the Customer Service admin center app, Under **Agent experience**, select **Workspaces**.
+1.  On the Customer Service admin center app, under **Agent experience**, select **Workspaces**.
 
-3.  In **Agent experience profiles**, select **Manage**.
+3.  In **Agent experience profiles** section, select **Manage**.
 
-4. Select the profile for which you want to configure the inbox.- **Contoso Agent**
+4. Select the **Contoso Agent** profile.
 
-5. Scroll down and select **Edit** under **Inbox**
+5. Scroll down and select **Edit** under **Inbox**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media14/image0.png)
 
-5.  In **Inbox**, select the **Settings** icon, and then turn on
-    the **Inbox** toggle.
+5.  On the **Inbox Settings** page, turn on the **Enable Inbox** toggle.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media14/image1.png)
@@ -51,8 +50,7 @@ their cases, conversations, emails, and voicemails all in a single view.
 
 To configure multiple views for the inbox, complete the following steps.
 
-1.  Go to the agent experience profile for which you want to configure a
-    custom view.
+1.  Go to the **Contoso Agent** Agent experience profile.
 
 2.  On the **Inbox** card, select **Edit**. The **Inbox** page is
     displayed.
@@ -80,11 +78,11 @@ To configure multiple views for the inbox, complete the following steps.
 
     ![](./media/media14/image4.png)
 
-6.  Select **Save and Close**
+6.  Select **Save and close**.
 
     ![](./media/media14/image5.png)
 
-7.  Select Save and Close again
+7.  Select **Save and close** on the **Contoso Agent** profile page.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media14/image6.png)

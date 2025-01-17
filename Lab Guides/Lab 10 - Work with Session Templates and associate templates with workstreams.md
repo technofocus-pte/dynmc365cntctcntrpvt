@@ -70,9 +70,6 @@ generated](./media/media10/image6.png)
 
 ## Task 3 - Associate or modify templates with workstreams
 
-After you create a workstream, you can modify the default templates that
-are attached to the workstream.
-
 1.  In the Customer Service Admin Center site map,
     select **Workstreams**.
 

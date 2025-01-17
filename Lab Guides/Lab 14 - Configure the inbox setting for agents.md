@@ -82,7 +82,7 @@ To configure multiple views for the inbox, complete the following steps.
 
     ![](./media/media14/image5.png)
 
-7.  Select **Save and close** on the **Contoso Agent** profile page.
+7.  Select **Save and close** again.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media14/image6.png)

@@ -41,7 +41,7 @@ generated](./media/media12/image4.png)
 
 4.  Expand **Entities**
 
-5.  Select and expand **Email** and then select **Forms**
+5.  Select and expand **Email** and then select **Forms**.
 
     ![A screenshot of a computer Description automatically generated](./media/media12/image5.png)
 
@@ -84,8 +84,7 @@ generated](./media/media12/image10.png)
 
     ![](./media/media12/image11.png)
 
-4.  Select **System Settings**. The **System Settings** window is
-    displayed. Select the **Email** tab
+4.  On the **System Settings** page select **Email** tab.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image12.png)
@@ -113,7 +112,7 @@ generated](./media/media12/image14.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image15.png)
 
-3.  Select **Email Configuration Settings**
+3.  Select **Email Configuration Settings**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image16.png)
@@ -165,16 +164,16 @@ following steps:
 1.  In Power Apps - https://make.powerapps.com/, select the **Customer
     Service Trial** environment that contains your solution.
 
-2.  Select **Tables**
+2.  Select **Tables**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image21.png)
 
-3.  Select **Email**
+3.  Select **Email**.
 
     ![](./media/media12/image22.png)
 
-4.  Select **Forms** under **Data experiences**
+4.  Select **Forms** under **Data experiences**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image23.png)
@@ -184,7 +183,7 @@ generated](./media/media12/image23.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image24.png)
 
-6.  Select Attachment and the subgrid displays on the right hand side of
+6.  Select **Attachment** and the subgrid displays on the right hand side of
     the page
 
     ![](./media/media12/image25.png)
@@ -192,12 +191,12 @@ generated](./media/media12/image24.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image26.png)
 
-7.  Scroll down and expand **Components** select **+Component**
+7.  Scroll down and expand **Components** select **+ Component**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image27.png)
 
-8.  Select **Get More Components**
+8.  Select **Get More Components**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image28.png)
@@ -206,7 +205,7 @@ generated](./media/media12/image28.png)
     the **Attachment** subgrid properties.
 
 10. Enter **Attachments control** and select the option from the list
-    and Select **Add**
+    and Select **Add**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image29.png)

@@ -87,8 +87,8 @@ generated](./media/media10/image7.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media10/image9.png)
 
-5.  On the **Sessions** panel that appears, select a template in
-    the **Default template** list.
+5.  On the **Sessions** panel that appears, select Chat session - default in
+    the **Default template** field.
 
     ![A screenshot of a chat session Description automatically
 generated](./media/media10/image10.png)

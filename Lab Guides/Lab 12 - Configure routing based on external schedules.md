@@ -1,14 +1,14 @@
 # Lab 12 - Configure routing based on external schedules
 
-**Objective** - In this Lab, you enable workforce management and shift based routing
+**Objective** - In this Lab, you enable workforce management and shift based routing.
 
-## Enable workforce management
+## Task 1 - Enable workforce management
 
 To enable Workforce Management, complete the following steps:
 
 1. Navigate to your environment in Power Platform admin
     center - https://admin.powerplatform.microsoft.com/ with the
-    credentials provided to execute the labs
+    credentials provided to execute the labs.
 
 2. On the command bar, select **Resources** \> **Dynamics 365 apps**.
     The Dynamics 365 apps page is displayed.
@@ -20,21 +20,20 @@ To enable Workforce Management, complete the following steps:
 
     ![](./media/media13/image2.png)
 
-4. Select the environment. You must agree to the terms of service, and
+4. Select your Customer Service Trial environment. Agree to the terms of service, and
     then select **Install**.
 
     ![](./media/media13/image3.png)
 
-5. Wait until the **Workforce Management for Customer Service** shows
-    as installed on the **Dynamics 365 apps** page.
+5. Wait until the **Workforce Management for Customer Service** is installed on the **Dynamics 365 apps** page.
 
-    **Note** – The installation approximately takes 10 minutes to complete
+    **Note** – The installation approximately takes 10 minutes to complete.
 
     ![](./media/media13/image4.png)
 
     ![](./media/media13/image5.png)
 
-## Enable shift-based routing
+## Task 2 - Enable shift-based routing
 
 1.  In the Customer Service admin center site map, select **Workforce
     management** under **Operations**.

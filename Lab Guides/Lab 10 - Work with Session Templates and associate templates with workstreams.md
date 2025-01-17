@@ -47,9 +47,8 @@ started. Agents can't close these application tabs.
 
     ![](./media/media10/image2.png)
 
-3.  The **Lookup Records** pane appears. Type **customer** the
-    application tab names in the search box and select the **Customer
-    Summary** icon. Select **Add**. The application tabs are added to
+3.  The **Lookup Records** pane appears. Search for and select **Customer
+    Summary**. Select **Add**. The application tabs are added to
     the session template.
 
     ![A screenshot of a computer Description automatically

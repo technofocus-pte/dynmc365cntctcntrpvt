@@ -93,7 +93,7 @@ generated](./media/media10/image9.png)
     ![A screenshot of a chat session Description automatically
 generated](./media/media10/image10.png)
 
-6.  Select **Cancel.**
+6.  Select **Save and close**
 
 7.  Select **Edit** beside **Agent notifications**
 

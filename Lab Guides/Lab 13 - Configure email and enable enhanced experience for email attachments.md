@@ -39,7 +39,7 @@ To enable email:
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image4.png)
 
-4.  Expand **Entities**
+4.  Expand **Entities**.
 
 5.  Select and expand **Email** and then select **Forms**.
 
@@ -212,6 +212,6 @@ generated](./media/media12/image29.png)
 
     ![](./media/media12/image30.png)
 
-11. Save and publish the form.
+11. **Save and publish** the form.
 
 **Summary** - You enabled Power Apps trial to enhance email experience. You also configured email attachment size limitations and enable enhanced experience for email attachments.

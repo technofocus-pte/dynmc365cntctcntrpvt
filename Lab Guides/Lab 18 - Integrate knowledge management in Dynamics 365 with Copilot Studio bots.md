@@ -151,17 +151,20 @@ generated](./media/media18/image30.jpg)
 14.  Select **New connection**.
 
    ![A screenshot of a computer Description automatically
-generated](./media/media18/image28.jpg)
+generated](./media/media18/image35.jpg)
 
 10.  Search for and select **Content Conversion**.
 
      ![A screenshot of a computer Description automatically
-generated](./media/media18/image29.jpg)
+generated](./media/media18/image36.jpg)
 
 12.  Sign in and then select **Create**. Sign in with your credentials if prompted.
 
      ![A screenshot of a computer Description automatically
-generated](./media/media18/image29.jpg)
+generated](./media/media18/image37.jpg)
+
+     ![A screenshot of a computer Description automatically
+generated](./media/media18/image37.jpg)
 
 15.  From the left navigation of the Power Apps portal, select **Solutions** and then select **Default Solution**.
 

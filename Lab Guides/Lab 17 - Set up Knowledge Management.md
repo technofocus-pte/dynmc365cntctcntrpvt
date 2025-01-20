@@ -41,7 +41,7 @@ generated](./media/media17/image4.png)
 8.  Select **Save and Close**.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media17/image5.png)
+generated](./media/media17/image15.png)
 
     ![A screenshot of a computer Description automatically
 generated](./media/media17/image6.png)

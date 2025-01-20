@@ -21,7 +21,7 @@ generated](./media/media23/image1.png)
 
     1.  **Display Name** of the solution – `Test`
 
-    2.  **Publisher –** CDS default publisher
+    2.  **Publisher –** Default publisher for your organization
 
     3.  Select **Create**
 

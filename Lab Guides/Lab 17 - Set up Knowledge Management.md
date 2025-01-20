@@ -119,26 +119,26 @@ generated](./media/media17/image12.png)
 
 ## Task 4 - Filters Section
 
-Go back and select **Knowledge**. In the **Filters** section,
+1.  Go back and select **Knowledge**. In the **Filters** section,
 select **Manage**.
 
-1.  Set the **Enable search filters** toggle to **Yes**.
+2.  Set the **Enable search filters** toggle to **Yes**.
 
-2.  Set the **Allow agent to personalize** toggle to **Yes**. This
+3.  Set the **Allow agent to personalize** toggle to **Yes**. This
     allows the service representatives to save the search filters
     relevant to their areas.
 
-3.  Select **Save**.
+4.  Select **Save**.
 
     ![A close-up of a text Description automatically
 generated](./media/media17/image13.png)
 
 ## Task 5 - Portal Section
 
-Go back and select **Knowledge**. In the **Portal** section,
+1.  Go back and select **Knowledge**. In the **Portal** section,
 select **Manage**. The **Portals** page appears.
 
-1.  In the **Support portal connection** section, Let us understand the
+2.  In the **Support portal connection** section, Let us understand the
     options available.
 
     - Set the **Use an external portal** toggle to **Yes** to integrate

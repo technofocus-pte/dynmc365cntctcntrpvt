@@ -143,9 +143,7 @@ To set connection references:
 ![A screenshot of a computer Description automatically
 generated](./media/media18/image18.png)
 
-12.  From the left navigation, select **Connection references** and then select **Microsoft Dataverse**.
-
-13.  In the edit box that opens, select the connection that you created from the Connection dropdown menu.
+12. In the edit box that opens, select the connection that you created from the **Connection** dropdown menu.
    
 14.  Select **Save**.
 

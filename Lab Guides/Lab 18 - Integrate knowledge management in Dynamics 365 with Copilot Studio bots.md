@@ -135,13 +135,22 @@ generated](./media/media18/image27.jpg)
   
 8.  Select **New connection**.
 
-9.  Search for **Dataverse** and then select **Microsoft Dataverse**.
+   ![A screenshot of a computer Description automatically
+generated](./media/media18/image28.jpg)
 
-10.  Sign in and then select **Create**. Sign in with your credentials if prompted.
+10.  Search for **Dataverse** and then select **Microsoft Dataverse**.
 
-11.  From the left navigation of the Power Apps portal, select **Solutions** and then select **Default Solution**.
+     ![A screenshot of a computer Description automatically
+generated](./media/media18/image29.jpg)
 
-12.  From the left navigation, select **Connection references** and then select **Microsoft Dataverse CDS Connection**.
+12.  Sign in and then select **Create**. Sign in with your credentials if prompted.
+
+     ![A screenshot of a computer Description automatically
+generated](./media/media18/image30.jpg)
+
+14.  From the left navigation of the Power Apps portal, select **Solutions** and then select **Default Solution**.
+
+15.  From the left navigation, select **Connection references** and then select **Microsoft Dataverse CDS Connection**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media18/image18.png)

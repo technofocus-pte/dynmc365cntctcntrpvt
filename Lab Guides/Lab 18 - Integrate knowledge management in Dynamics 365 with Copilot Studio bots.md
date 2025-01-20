@@ -181,7 +181,7 @@ generated](./media/media18/image31.jpg)
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image32.jpg)
    
-14.  Select **Save**.
+14.  Select **Save changes**.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image33.jpg)
@@ -196,7 +196,7 @@ generated](./media/media18/image39.jpg)
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image40.jpg)
 
-7.  Select **Save**.
+7.  Select **Save changes**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media18/image41.jpg)

@@ -221,21 +221,23 @@ generated](./media/media18/image42.jpg)
 
 5.  Select **Add node** (**+**) and select **Call an action**.
 
-![A screenshot of a computer Description automatically
-generated](./media/media18/image42.jpg)
-
 6.  Select **Search Dynamics 365 knowledge article flow** action.
 
 7.  Provide the input to the flow. An error might appear if the filter
     isn't provided to the flow.
 
-![Describes the search flow](./media/media18/image22.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media18/image43.jpg)
 
-8.  Add a message node to show the results returned by the flow. More
+    ![A screenshot of a computer Description automatically
+generated](./media/media18/image44.jpg)
+
+9.  Add a message node to show the results returned by the flow. More
     information: [Render
     results](https://learn.microsoft.com/en-us/dynamics365/customer-service/administer/integrate-KM-with-PVA?context=%2Fdynamics365%2Fcontact-center%2Fcontext%2Fadminister-context#render-results)
 
-![Add message node.](./media/media18/image23.png)
+![A screenshot of a computer Description automatically
+generated](./media/media18/image45.jpg)
 
 9.  Select **Save**.
 
@@ -245,20 +247,6 @@ generated](./media/media18/image42.jpg)
 
 If your search doesn’t return any results, modify the search terms or
 filter conditions. You can also add a filter condition if required.
-
-![Add a condition when no search results are
-returned](./media/media18/image24.png)
-
-11. After the topic is configured, replace the **Search Dynamics 365
-    knowledge article flow** with the **Search Dynamics 365 knowledge
-    articles** action. You can now configure any bot in the organization
-    to access knowledge articles using the **Search Dynamics 365
-    knowledge articles** action.
-
-![Add action to Copilot Studio topic](./media/media18/image25.png)
-
-12. Remove the filter question node. More information: [Work with
-    filters](https://learn.microsoft.com/en-us/dynamics365/customer-service/administer/integrate-KM-with-PVA?context=%2Fdynamics365%2Fcontact-center%2Fcontext%2Fadminister-context#work-with-filters).
 
 13. Update the message node with the output from the action and
     select **Save**.

@@ -128,18 +128,28 @@ To set connection references:
 2.  Select Customer Service Trial environment on the top right corner of
     the home page.
 
-3.  Go to **Solutions**. The **Solutions** page displays a notification
-    with a link to configure connection references.
+3.  Search for **Connection references** from the list.
 
-4.  Select **Default Solutions** 
+6.  Select **More** from the left navigation and then select **Connections**.
+  
+8.  Select **New connection**.
+
+9.  Search for **Dataverse** and then select **Microsoft Dataverse**.
+
+10.  Sign in and then select **Create**. Sign in with your credentials if prompted.
+
+11.  From the left navigation of the Power Apps portal, select **Solutions** and then select **Default Solution**.
+
+12.  From the left navigation, select **Connection references** and then select **Microsoft Dataverse CDS Connection**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media18/image18.png)
 
-5.  Search for **Connection references** from the list.
+12.  From the left navigation, select **Connection references** and then select **Microsoft Dataverse**.
 
-6.  Select the connections for **Microsoft Dataverse** and **Content
-    Conversion** on the **Connection references** page.
+13.  In the edit box that opens, select the connection that you created from the Connection dropdown menu.
+   
+14.  Select **Save**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media18/image19.png)

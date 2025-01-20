@@ -164,7 +164,7 @@ generated](./media/media18/image36.jpg)
 generated](./media/media18/image37.jpg)
 
      ![A screenshot of a computer Description automatically
-generated](./media/media18/image37.jpg)
+generated](./media/media18/image38.jpg)
 
 15.  From the left navigation of the Power Apps portal, select **Solutions** and then select **Default Solution**.
 

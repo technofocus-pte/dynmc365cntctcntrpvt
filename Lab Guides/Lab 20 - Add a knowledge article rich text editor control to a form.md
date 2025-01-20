@@ -18,32 +18,32 @@ generated](./media/media20/image1.png)
     ![A screenshot of a computer menu Description automatically
 generated](./media/media20/image2.png)
 
-5.  Select **Email** table
+5.  Select **Email** table.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media20/image3.png)
 
-6.  Select Forms under **Data experiences**
+6.  Select Forms under **Data experiences**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media20/image4.png)
 
-7.  Select **Email**
+7.  Select **Email**.
 
     ![](./media/media20/image5.png)
 
 8.  Double click on the Email body to open the properties on the right
-    hand side
+    hand side.
 
     ![A screenshot of a email Description automatically
 generated](./media/media20/image6.png)
 
-9.  Expand **components** by scrolling down
+9.  Expand **components** by scrolling down.
 
     ![A screenshot of a computer Description automatically generated](./media/media20/image7.png)
 
-10. Under **Rich Text Editor Control** component, select the three
-    vertical dots
+10. For **Rich Text Editor Control** component, select the three
+    vertical dots and then select **Edit**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media20/image8.png)
@@ -53,4 +53,4 @@ generated](./media/media20/image8.png)
 
     ![](./media/media20/image9.png)
 
-12. Select **OK** \> **OK**, and then select **Save and Publish**.
+12. Select **Done**, and then select **Save and Publish**.

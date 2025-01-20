@@ -150,14 +150,23 @@ generated](./media/media18/image30.jpg)
 
 14.  From the left navigation of the Power Apps portal, select **Solutions** and then select **Default Solution**.
 
-15.  From the left navigation, select **Connection references** and then select **Microsoft Dataverse CDS Connection**.
-
-![A screenshot of a computer Description automatically
+     ![A screenshot of a computer Description automatically
 generated](./media/media18/image18.png)
 
+16.  From the left navigation, select **Connection references** and then select **Microsoft Dataverse CDS Connection**.
+
+     ![A screenshot of a computer Description automatically
+generated](./media/media18/image31.jpg)
+
 12. In the edit box that opens, select the connection that you created from the **Connection** dropdown menu.
+
+     ![A screenshot of a computer Description automatically
+generated](./media/media18/image32.jpg)
    
 14.  Select **Save**.
+
+      ![A screenshot of a computer Description automatically
+generated](./media/media18/image33.jpg)
 
 ![A screenshot of a computer Description automatically
 generated](./media/media18/image19.png)
@@ -165,7 +174,8 @@ generated](./media/media18/image19.png)
 7.  Go back to **Default Solution** \> **Cloud flows** and turn
     on **Search Dynamics 365 knowledge article flow** flow.
 
-![](./media/media18/image20.png)
+     ![A screenshot of a computer Description automatically
+generated](./media/media18/image34.jpg)
 
 ### Task 2 - Add the action to the Copilot Studio topic.
 

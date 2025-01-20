@@ -213,12 +213,16 @@ articles** action.
 1.  In the **Store hours** topic, create a question node to ask the user to search
     for the input text.
 
+    ![A screenshot of a computer Description automatically
+generated](./media/media18/image42.jpg)
+
 4.  Create a question node for the filter and provide the sample filter
     value after you trigger the topic.
 
 5.  Select **Add node** (**+**) and select **Call an action**.
 
-![](./media/media18/image21.png)
+![A screenshot of a computer Description automatically
+generated](./media/media18/image42.jpg)
 
 6.  Select **Search Dynamics 365 knowledge article flow** action.
 

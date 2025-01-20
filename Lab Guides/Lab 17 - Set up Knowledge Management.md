@@ -30,12 +30,15 @@ generated](./media/media17/image2.png)
 
 5.  The **Add record type** dialog appears. On the **Add record
     type** dialog, from the **Select record type** dropdown list, select
-    the record type – **Account**
+    the record type – **Account**.
+
+6.  Set the toggle for **Turn on autometic search**.
+7.  Select **Account Name** for **Provide search results using** field.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media17/image4.png)
 
-6.  Select **Save and Close**.
+8.  Select **Save and Close**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media17/image5.png)
@@ -88,7 +91,7 @@ generated](./media/media17/image6.png)
 
     ![](./media/media17/image10.png)
 
-8.  Scroll up towards the top of the page and select **Save**
+8.  Scroll up towards the top of the page and select **Save**.
 
 ## Task 3 - Creating Categories 
 

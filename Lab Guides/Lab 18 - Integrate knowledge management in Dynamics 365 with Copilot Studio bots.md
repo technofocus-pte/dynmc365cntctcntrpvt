@@ -12,37 +12,37 @@ To set connection references:
 2.  Select **Customer Service Trial** environment on the top right corner of
     the home page.
 
-6.  Select **More** from the left navigation and then select **Connections**.
+3.  Select **More** from the left navigation and then select **Connections**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media18/image27.jpg)
   
-8.  Select **New connection**.
+4.  Select **New connection**.
 
    ![A screenshot of a computer Description automatically
 generated](./media/media18/image28.jpg)
 
-10.  Search for **Dataverse** and then select **Microsoft Dataverse**.
+5.  Search for **Dataverse** and then select **Microsoft Dataverse**.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image29.jpg)
 
-12.  Sign in and then select **Create**. Sign in with your credentials if prompted.
+6.  Sign in and then select **Create**. Sign in with your credentials if prompted.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image30.jpg)
 
-14.  Select **New connection**.
+7.  Select **New connection**.
 
    ![A screenshot of a computer Description automatically
 generated](./media/media18/image35.jpg)
 
-10.  Search for and select **Content Conversion**.
+8.  Search for and select **Content Conversion**.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image36.jpg)
 
-12.  Sign in and then select **Create**. Sign in with your credentials if prompted.
+9.  Sign in and then select **Create**. Sign in with your credentials if prompted.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image37.jpg)
@@ -50,12 +50,12 @@ generated](./media/media18/image37.jpg)
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image38.jpg)
 
-15.  From the left navigation of the Power Apps portal, select **Solutions** and then select **Default Solution**.
+10.  From the left navigation of the Power Apps portal, select **Solutions** and then select **Default Solution**.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image18.png)
 
-16.  From the left navigation, select **Connection references** and then select **Microsoft Dataverse CDS Connection**.
+11.  From the left navigation, select **Connection references** and then select **Microsoft Dataverse CDS Connection**.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image31.jpg)
@@ -65,27 +65,27 @@ generated](./media/media18/image31.jpg)
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image32.jpg)
    
-14.  Select **Save changes**.
+13.  Select **Save changes**.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image33.jpg)
 
-16.  Similarly select **Content Conversion**.
+14.  Similarly select **Content Conversion**.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image39.jpg)
 
-18.  In the edit box that opens, select the connection that you created from the **Connection** dropdown menu.
+15.  In the edit box that opens, select the connection that you created from the **Connection** dropdown menu.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image40.jpg)
 
-7.  Select **Save changes**.
+16.  Select **Save changes**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media18/image41.jpg)
 
-9.  Go back to **Default Solution** \> **Cloud flows** and turn
+17.  Go back to **Default Solution** \> **Cloud flows** and turn
     on **Search Dynamics 365 knowledge article flow** flow.
 
      ![A screenshot of a computer Description automatically
@@ -216,14 +216,13 @@ articles** action.
     ![A screenshot of a computer Description automatically
 generated](./media/media18/image42.jpg)
 
-4.  Create a question node for the filter and provide the sample filter
-    value after you trigger the topic.
+2.  Provide the sample filter value after you trigger the topic.
 
-5.  Select **Add node** (**+**) and select **Call an action**.
+3.  Select **Add node** (**+**) and select **Call an action**.
 
-6.  Select **Search Dynamics 365 knowledge article flow** action.
+4.  Select **Search Dynamics 365 knowledge article flow** action.
 
-7.  Provide the input to the flow. An error might appear if the filter
+5.  Provide the input to the flow. An error might appear if the filter
     isn't provided to the flow.
 
     ![A screenshot of a computer Description automatically
@@ -232,18 +231,16 @@ generated](./media/media18/image43.jpg)
     ![A screenshot of a computer Description automatically
 generated](./media/media18/image44.jpg)
 
-9.  Add a message node to show the results returned by the flow. More
-    information: [Render
-    results](https://learn.microsoft.com/en-us/dynamics365/customer-service/administer/integrate-KM-with-PVA?context=%2Fdynamics365%2Fcontact-center%2Fcontext%2Fadminister-context#render-results)
+6.  Add a message node to show the results returned by the flow. 
 
 ![A screenshot of a computer Description automatically
 generated](./media/media18/image45.jpg)
 
-9.  Select **Save**.
+7.  Select **Save**.
 
 10. Use the trigger phase and run the topic to verify the flow.
 
-** Tip**
+**Tip**
 
 If your search doesn’t return any results, modify the search terms or
 filter conditions. You can also add a filter condition if required.

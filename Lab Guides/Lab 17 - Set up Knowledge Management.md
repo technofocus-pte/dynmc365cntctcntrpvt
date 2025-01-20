@@ -36,7 +36,7 @@ generated](./media/media17/image2.png)
 7.  Select **Account Name** for **Provide search results using** field.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media17/image4.png)
+generated](./media/media17/image15.png)
 
 8.  Select **Save and Close**.
 

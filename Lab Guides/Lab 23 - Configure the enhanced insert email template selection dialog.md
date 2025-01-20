@@ -25,7 +25,7 @@ generated](./media/media23/image1.png)
 
     3.  Select **Create**
 
-      ![](./media/media23/image3.png)
+      ![](./media/media23/image14.png)
 
 5.  Select **Add Existing** \> **More** \> **Setting**.
 

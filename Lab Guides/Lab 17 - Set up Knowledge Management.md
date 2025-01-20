@@ -95,13 +95,13 @@ generated](./media/media17/image6.png)
 
 ## Task 3 - Creating Categories 
 
-Go back and select K**nowledge**. In the **Categories** section,
+1. Go back and select K**nowledge**. In the **Categories** section,
 select **Manage**. The **Categories System Views** page appears. You can
 create and manage a logical structure of categories for your records.
 
-1.  On the command bar, select **New** to create a new category record.
+2.  On the command bar, select **New** to create a new category record.
 
-2.  Enter the required information in the **General** section:
+3.  Enter the required information in the **General** section:
 
     - **Title**: Contoso Demo Category
 
@@ -126,9 +126,9 @@ select **Manage**.
 
 2.  Set the **Allow agent to personalize** toggle to **Yes**. This
     allows the service representatives to save the search filters
-    relevant to their areas
+    relevant to their areas.
 
-3.  Select **Save**
+3.  Select **Save**.
 
     ![A close-up of a text Description automatically
 generated](./media/media17/image13.png)
@@ -143,7 +143,7 @@ select **Manage**. The **Portals** page appears.
 
     - Set the **Use an external portal** toggle to **Yes** to integrate
       an external portal to publish knowledge articles. For this lab,
-      toggle to **No**
+      toggle to **No**.
 
     - **URL Format**: Type the portal URL to use to create external
       (public-facing) portal links for knowledge articles, which the
@@ -155,7 +155,7 @@ select **Manage**. The **Portals** page appears.
     - In the **Sync knowledge article attachments to portal** section,
       set the **Sync attachments to the portal** toggle to **Yes**.
 
-    - Select **Save**
+    - Select **Save**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media17/image14.png)

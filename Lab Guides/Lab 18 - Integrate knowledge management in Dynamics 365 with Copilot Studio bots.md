@@ -125,7 +125,7 @@ To set connection references:
 1.  Open a new tab and navigate
     to [make.powerapps.com](https://make.powerapps.com/).
 
-2.  Select Customer Service Trial environment on the top right corner of
+2.  Select **Customer Service Trial** environment on the top right corner of
     the home page.
 
 6.  Select **More** from the left navigation and then select **Connections**.
@@ -148,7 +148,22 @@ generated](./media/media18/image29.jpg)
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image30.jpg)
 
-14.  From the left navigation of the Power Apps portal, select **Solutions** and then select **Default Solution**.
+14.  Select **New connection**.
+
+   ![A screenshot of a computer Description automatically
+generated](./media/media18/image28.jpg)
+
+10.  Search for and select **Content Conversion**.
+
+     ![A screenshot of a computer Description automatically
+generated](./media/media18/image29.jpg)
+
+12.  Sign in and then select **Create**. Sign in with your credentials if prompted.
+
+     ![A screenshot of a computer Description automatically
+generated](./media/media18/image29.jpg)
+
+15.  From the left navigation of the Power Apps portal, select **Solutions** and then select **Default Solution**.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image18.png)

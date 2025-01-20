@@ -168,9 +168,6 @@ generated](./media/media18/image32.jpg)
       ![A screenshot of a computer Description automatically
 generated](./media/media18/image33.jpg)
 
-![A screenshot of a computer Description automatically
-generated](./media/media18/image19.png)
-
 7.  Go back to **Default Solution** \> **Cloud flows** and turn
     on **Search Dynamics 365 knowledge article flow** flow.
 

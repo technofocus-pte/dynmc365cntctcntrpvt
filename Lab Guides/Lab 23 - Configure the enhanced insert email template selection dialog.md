@@ -47,13 +47,13 @@ generated](./media/media23/image1.png)
       ![](./media/media23/image7.png)
 
 9.  Set the **Setting environment value** option to **Yes** on
-    the **Edit Enable the New Insert Template Dialog** pane.
+    the **Edit Enable the New Insert Template Dialog** pane. Select **Save**.    
 
       ![](./media/media23/image8.png)
 
       ![](./media/media23/image9.png)
 
-10. Unselect and Select **Publish All Customizations**.
+11. Unselect and Select **Publish All Customizations**.
 
       ![](./media/media23/image10.png)
 

@@ -6,28 +6,28 @@
 
 1.  Open a new tab in the browser. Go to **Power Pages** using https://www.microsoft.com/en-in/power-platform/products/power-pages.
 
-2.  Select **Try for Free**
+2.  Select **Try for Free**.
 
     ![](./media/media16/image1.png)
 
-3.  Enter the Email and check the option agreeing to the terms. Select
-    **Start your free Trial**
+3.  Enter the Email and select the checkbox for aggrement terms. Select
+    **Start your free Trial**.
 
     ![](./media/media16/image2.png)
 
-4.  Select the **Region** as **India** and Enter your **Phone number**
-    and click on **Submit** for enabling the free trial
+4.  Select the **Region** as **United States**, enter your **Phone number**
+    and click on **Submit** for enabling the free trial.
 
     ![](./media/media16/image3.png)
 
-5.  You will be navigated to Power pages home page.
+5.  You will be navigated to **Power pages Home** page.
 
 6.  Select the environment – **Customer Service Trial.** Select **Get
     Started**
 
     ![](./media/media16/image4.png)
 
-7.  Select **Start with a template**
+7.  Select **Start with a template**.
 
     ![](./media/media16/image5.png)
 
@@ -36,11 +36,11 @@
 
     ![](./media/media16/image6.png)
 
-9.  Select **Choose this template**
+9.  Select **Choose this template**.
 
     ![](./media/media16/image7.png)
 
-10. Enter the site name – **Contoso.** Click on **Next**
+10. Enter the site name – **Contoso.** Click on **Done**.
 
     ![](./media/media16/image8.png)
 
@@ -96,7 +96,7 @@ generated](./media/media16/image14.png)
     ![A screenshot of a chat Description automatically
 generated](./media/media16/image15.png)
 
-6.  On the **Chat Widget** page, Leave the details as it is. Enable the
+6.  On the **Chat Widget** page, leave the details as it is. Enable the
     **Proactive chat** toggle to **Yes.** Select **Next.**
 
     ![](./media/media16/image16.png)
@@ -181,10 +181,7 @@ generated](./media/media16/image18.png)
 
     ![](./media/media16/image24.png)
 
-10. Post-conversation survey – Enable the toggle for this option.
-
-    ![A screenshot of a computer Description automatically
-generated](./media/media16/image25.png)
+10. Set the toggle for **Post-conversation survey** to **Off**.
 
 **Note - Authentication settings** option is enabled by default. Select
 drop-down under **Authentication name** and select **Create

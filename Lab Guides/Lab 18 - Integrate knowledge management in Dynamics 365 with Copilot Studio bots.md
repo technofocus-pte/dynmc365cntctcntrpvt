@@ -129,6 +129,9 @@ To set connection references:
     the home page.
 
 6.  Select **More** from the left navigation and then select **Connections**.
+
+    ![A screenshot of a computer Description automatically
+generated](./media/media18/image27.jpg)
   
 8.  Select **New connection**.
 

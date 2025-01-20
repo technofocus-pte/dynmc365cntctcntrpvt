@@ -245,5 +245,3 @@ generated](./media/media18/image45.jpg)
 If your search doesn’t return any results, modify the search terms or
 filter conditions. You can also add a filter condition if required.
 
-13. Update the message node with the output from the action and
-    select **Save**.

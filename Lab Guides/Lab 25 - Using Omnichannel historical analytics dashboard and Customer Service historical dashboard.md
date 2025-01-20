@@ -72,17 +72,17 @@ historical analytics – insights**
 
 2. The dashboard is displayed. You have tabs for each category – Summary, Agent and Topics. You can click on each tab to explore each category.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media24/image12.png)
 
 -    **Summary dashboard** - The summary dashboard includes various charts with graphical views of key performance indicators (KPIs) in Customer Service.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media24/image25.31.jpg)
   
 -    **Agent dashboard** - The Agent dashboard shows charts and KPIs that you can use to guide agents and understand overall agent performance.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media24/image25.29.jpg)
   
 -    **Topics dashboard** - The Topics dashboard shows a detailed breakdown of cases and their assigned topics.

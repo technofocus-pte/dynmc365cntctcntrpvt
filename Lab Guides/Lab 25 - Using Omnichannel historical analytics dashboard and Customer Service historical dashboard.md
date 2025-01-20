@@ -32,9 +32,9 @@ generated](./media/media24/image3.png)
 generated](./media/media24/image5.png)
 
 You have tabs for each category – **Conversation, Queue, Agent, Bot and
-Topic.** You can click on each tab to explore each category.
+Topics.** You can click on each tab to explore each category.
 
-**Conversation** - The Conversation dashboard gives you a broad overview of the customer service experience in your organization. It uses AI to surface insights into the topics that generate the highest volume and the topics that are emerging with the fastest increase in volume.
+-    **Conversation** - The Conversation dashboard gives you a broad overview of the customer service experience in your organization. It uses AI to surface insights into the topics that generate the highest volume and the topics that are emerging with the fastest increase in volume.
 
 Conversation dashboard in Omnichannel for Customer Service.
 
@@ -43,50 +43,50 @@ The dashboard includes various charts with graphical views of your organization'
 ![A screenshot of a computer Description automatically
 generated](./media/media24/image6.png)
 
-**Queue** - The Queue dashboard gives you a broad overview of the customer service experience in your organization by providing insights into how specific queues are operating.
+-    **Queue** - The Queue dashboard gives you a broad overview of the customer service experience in your organization by providing insights into how specific queues are operating.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24/image7.png)
 
-**Agent** - The Agent dashboard shows charts and KPIs that you can use to guide agents and understand overall agent performance.
+-    **Agent** - The Agent dashboard shows charts and KPIs that you can use to guide agents and understand overall agent performance.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24/image8.png)
 
-**Bot** - The bot dashboard shows key performance indicators (KPIs) and charts for chat and IVR bots. You can use the dashboard to understand how bots are performing in a support organization.
+-    **Bot** - The bot dashboard shows key performance indicators (KPIs) and charts for chat and IVR bots. You can use the dashboard to understand how bots are performing in a support organization.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24/image9.png)
 
-**Topics** - The Topics dashboard shows a detailed breakdown of conversations and their assigned topics. 
+-    **Topics** - The Topics dashboard shows a detailed breakdown of conversations and their assigned topics. 
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24/image10.png)
 
 ## Task 2 - Customer Service historical analytics - Insights Dashboard
 
-Select the three horizontal lines and select **Customer Service
+1. Select the three horizontal lines and select **Customer Service
 historical analytics – insights**
 
 ![](./media/media24/image11.png)
 
-The dashboard is displayed
+2. The dashboard is displayed. You have tabs for each category – Summary, Agent and Topics. You can click on each tab to explore each category.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24/image12.png)
 
-### Key Insights discovered
+-    **Summary dashboard** - The summary dashboard includes various charts with graphical views of key performance indicators (KPIs) in Customer Service.
 
-The Key Insights discovered section has two areas:
+    ![A screenshot of a computer Description automatically
+generated](./media/media24/image13.png)
+  
+-    **Agent dashboard** - The Agent dashboard shows charts and KPIs that you can use to guide agents and understand overall agent performance.
 
-- **KPI insights**: Important subjects that impact performance, such as
-  CSAT pertaining to priority, volume pertaining to channel, and open
-  cases pertaining to queues.
+    ![A screenshot of a computer Description automatically
+generated](./media/media24/image13.png)
+  
+-    **Topics dashboard** - The Topics dashboard shows a detailed breakdown of cases and their assigned topics.
 
-- **Topics to watch**: Topics that rank high across the three key areas
-  to make it easier for customer service managers to discover top
-  issues.
-
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media24/image13.png)
 

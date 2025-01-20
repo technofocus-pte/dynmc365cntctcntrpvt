@@ -210,12 +210,7 @@ Perform the following steps to ensure that flow is properly configured
 and can now be replaced with **Search Dynamics 365 knowledge
 articles** action.
 
-1.  Switch back to Copilot Studio portal
-
-2.  On the agent page navigate to page where you created a topic –
-    **Store hours**
-
-3.  Within the topic, create a question node to ask the user to search
+1.  In the **Store hours** topic, create a question node to ask the user to search
     for the input text.
 
 4.  Create a question node for the filter and provide the sample filter

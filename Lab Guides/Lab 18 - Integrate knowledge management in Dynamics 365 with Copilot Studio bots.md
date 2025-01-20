@@ -1,122 +1,6 @@
 # Integrate knowledge management in Dynamics 365 with Copilot Studio bots
 
-## Exercise 1 – Create a Copilot Bot
-
-1.  Open a tab in the browser and go to the Copilot Studio home page -
-    <https://copilotstudio.microsoft.com/> . Login with the credentials
-    provided to execute the lab.
-
-2.  Select the Environment as **Customer Service Trial** on top right
-    corner of the homepage
-
-![A screenshot of a computer Description automatically
-generated](./media/media18/image1.png)
-
-3.  Select **Agents** in the left navigation.
-
-> ![A screenshot of a phone Description automatically
-> generated](./media/media18/image2.png)
-
-4.  Select **+ New agent**.
-
-![A screenshot of a computer Description automatically
-generated](./media/media18/image3.png)
-
-5.  Select **Skip to configure**
-
-![](./media/media18/image4.png)
-
-6.  Select **Create**.
-
-![](./media/media18/image5.png)
-
-![](./media/media18/image6.png)
-
-7.  Your Agent is created.
-
-![A screenshot of a computer Description automatically
-generated](./media/media18/image7.png)
-
-## Exercise 2 - Create a Topic in Copilot Studio Bot
-
-1.  For better visibility, close the **Test your agent** panel for now.
-
-![A screenshot of a computer Description automatically
-generated](./media/media18/image8.png)
-
-2.  On the top menu bar, select **Topics**.
-
-![A screenshot of a computer Description automatically
-generated](./media/media18/image9.png)
-
-3.  Select **Add a topic** and select **From blank**.
-
-![A screenshot of a computer Description automatically
-generated](./media/media18/image10.png)
-
-4.  Click on **Allow** if you are asked that copilot wants to access
-    images and text.
-
-![A screenshot of a computer Description automatically
-generated](./media/media18/image11.png)
-
-A **Trigger** node appears on an otherwise blank topic authoring canvas.
-
-5.  Select the **More** icon (**…**) of the **Trigger** node, and then
-    select **Properties**.
-
-![](./media/media18/image12.png)
-
-6.  The **On Recognized Intent properties** panel appears. In this
-    panel, select the **Phrases** box.
-
-![A screenshot of a phone Description automatically
-generated](./media/media18/image13.png)
-
-7.  The **Phrases** secondary panel appears. Under **Add phrases**, Add
-    the trigger phrase and click on plus icon. Enter the below phrases.
-
-    - Store hours
-
-    - What time do you open
-
-    - Is the store open today
-
-    - Are you open on Sunday
-
-    - Hours of operation
-
-8.  Your agent needs 5 to 10 trigger phrases to train the AI model to
-    understand your customers' responses. To add more trigger phrases,
-    you can either:
-
-    - Select the **Add** icon ![](./media/media18/image14.png) next to the text
-      field and enter the desired phrase.
-
-    &nbsp;
-
-    - Enter a phrase and select **Enter**.
-
-Note - You can include punctuation in a trigger phrase, but it's best to
-use short phrases rather than long sentences.
-
-![A screenshot of a computer Description automatically
-generated](./media/media18/image15.png)
-
-![A screenshot of a computer Description automatically
-generated](./media/media18/image16.png)
-
-9.  Select **Details** on the toolbar to open the **Topic
-    details** panel. Enter the name of the Topic as **Store hours**.
-
-10.  Select **Save**.
-
-![](./media/media18/image17.png)
-
-The exercise outlined below can be performed only upon acquiring a paid
-license for Customer Service.
-
-## Exercise 3 - Use the Search Dynamics 365 knowledge article flow action
+## Exercise 1 - Use the Search Dynamics 365 knowledge article flow action
 
 ### Task 1 - Set connection references
 
@@ -207,7 +91,120 @@ generated](./media/media18/image41.jpg)
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image34.jpg)
 
-### Task 2 - Add the action to the Copilot Studio topic.
+## Exercise 2 – Create a Copilot Bot
+
+1.  Open a tab in the browser and go to the Copilot Studio home page -
+    <https://copilotstudio.microsoft.com/> . Login with the credentials
+    provided to execute the lab.
+
+2.  Select the Environment as **Customer Service Trial** on top right
+    corner of the homepage
+
+![A screenshot of a computer Description automatically
+generated](./media/media18/image1.png)
+
+3.  Select **Agents** in the left navigation.
+
+> ![A screenshot of a phone Description automatically
+> generated](./media/media18/image2.png)
+
+4.  Select **+ New agent**.
+
+![A screenshot of a computer Description automatically
+generated](./media/media18/image3.png)
+
+5.  Select **Skip to configure**
+
+![](./media/media18/image4.png)
+
+6.  Select **Create**.
+
+![](./media/media18/image5.png)
+
+![](./media/media18/image6.png)
+
+7.  Your Agent is created.
+
+![A screenshot of a computer Description automatically
+generated](./media/media18/image7.png)
+
+## Exercise 3 - Create a Topic in Copilot Studio Bot
+
+1.  For better visibility, close the **Test your agent** panel for now.
+
+![A screenshot of a computer Description automatically
+generated](./media/media18/image8.png)
+
+2.  On the top menu bar, select **Topics**.
+
+![A screenshot of a computer Description automatically
+generated](./media/media18/image9.png)
+
+3.  Select **Add a topic** and select **From blank**.
+
+![A screenshot of a computer Description automatically
+generated](./media/media18/image10.png)
+
+4.  Click on **Allow** if you are asked that copilot wants to access
+    images and text.
+
+![A screenshot of a computer Description automatically
+generated](./media/media18/image11.png)
+
+A **Trigger** node appears on an otherwise blank topic authoring canvas.
+
+5.  Select the **More** icon (**…**) of the **Trigger** node, and then
+    select **Properties**.
+
+![](./media/media18/image12.png)
+
+6.  The **On Recognized Intent properties** panel appears. In this
+    panel, select the **Phrases** box.
+
+![A screenshot of a phone Description automatically
+generated](./media/media18/image13.png)
+
+7.  The **Phrases** secondary panel appears. Under **Add phrases**, Add
+    the trigger phrase and click on plus icon. Enter the below phrases.
+
+    - Store hours
+
+    - What time do you open
+
+    - Is the store open today
+
+    - Are you open on Sunday
+
+    - Hours of operation
+
+8.  Your agent needs 5 to 10 trigger phrases to train the AI model to
+    understand your customers' responses. To add more trigger phrases,
+    you can either:
+
+    - Select the **Add** icon ![](./media/media18/image14.png) next to the text
+      field and enter the desired phrase.
+
+    &nbsp;
+
+    - Enter a phrase and select **Enter**.
+
+Note - You can include punctuation in a trigger phrase, but it's best to
+use short phrases rather than long sentences.
+
+![A screenshot of a computer Description automatically
+generated](./media/media18/image15.png)
+
+![A screenshot of a computer Description automatically
+generated](./media/media18/image16.png)
+
+9.  Select **Details** on the toolbar to open the **Topic
+    details** panel. Enter the name of the Topic as **Store hours**.
+
+10.  Select **Save**.
+
+![](./media/media18/image17.png)
+
+### Exercise 4 - Add the action to the Copilot Studio topic.
 
 Perform the following steps to ensure that flow is properly configured
 and can now be replaced with **Search Dynamics 365 knowledge

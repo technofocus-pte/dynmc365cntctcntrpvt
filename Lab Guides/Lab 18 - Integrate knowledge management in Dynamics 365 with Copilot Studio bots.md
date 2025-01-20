@@ -136,8 +136,7 @@ To set connection references:
 ![A screenshot of a computer Description automatically
 generated](./media/media18/image18.png)
 
-5.  Search for Connection references and select the option from the list
-    that says Type - Table
+5.  Search for **Connection references** from the list.
 
 6.  Select the connections for **Microsoft Dataverse** and **Content
     Conversion** on the **Connection references** page.

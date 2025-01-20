@@ -82,11 +82,11 @@ generated](./media/media25/image25.31.jpg)
   
 -    **Agent dashboard** - The Agent dashboard shows charts and KPIs that you can use to guide agents and understand overall agent performance.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media24/image25.29.jpg)
+  ![A screenshot of a computer Description automatically
+generated](./media/media25/image25.29.jpg)
   
 -    **Topics dashboard** - The Topics dashboard shows a detailed breakdown of cases and their assigned topics.
 
 ![A screenshot of a computer Description automatically
-generated](./media/media24/image25.30.jpg)
+generated](./media/media25/image25.30.jpg)
 

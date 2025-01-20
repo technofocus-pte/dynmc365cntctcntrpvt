@@ -77,8 +77,8 @@ generated](./media/media24/image12.png)
 
 -    **Summary dashboard** - The summary dashboard includes various charts with graphical views of key performance indicators (KPIs) in Customer Service.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media24/image25.31.jpg)
+   ![A screenshot of a computer Description automatically
+generated](./media/media25/image25.31.jpg)
   
 -    **Agent dashboard** - The Agent dashboard shows charts and KPIs that you can use to guide agents and understand overall agent performance.
 

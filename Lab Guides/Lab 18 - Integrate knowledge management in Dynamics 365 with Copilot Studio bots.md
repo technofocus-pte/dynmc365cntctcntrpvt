@@ -128,8 +128,6 @@ To set connection references:
 2.  Select Customer Service Trial environment on the top right corner of
     the home page.
 
-3.  Search for **Connection references** from the list.
-
 6.  Select **More** from the left navigation and then select **Connections**.
   
 8.  Select **New connection**.

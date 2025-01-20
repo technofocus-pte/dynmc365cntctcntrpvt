@@ -71,7 +71,7 @@ supervisor who might know the answers.
 ![](./media/media25/image9.png)
 
 3.  You can ask more questions like, **what is the summary of the above
-    titled case? and** click on **Send** icon. Copilot will give
+    titled case?** and click on **Send** icon. Copilot will give
     response to your question.
 
 ![](./media/media25/image10.png)
@@ -146,7 +146,7 @@ generated](./media/media25/image16.png)
 
 ![](./media/media25/image18.png)
 
-7.  You can now review the response*.* Make any necessary changes, and
+7.  You can now review the response. Make any necessary changes, and
     then select **Copy to email** to copy the entire response to your
     draft. Or select part of the response and use the right-click menu
     to copy and paste the selection.

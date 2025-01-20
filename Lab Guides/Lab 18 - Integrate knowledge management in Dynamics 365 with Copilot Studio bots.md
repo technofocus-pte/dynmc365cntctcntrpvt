@@ -12,7 +12,7 @@
 ![A screenshot of a computer Description automatically
 generated](./media/media18/image1.png)
 
-3.  Select **Create** in the left navigation.
+3.  Select **Agents** in the left navigation.
 
 > ![A screenshot of a phone Description automatically
 > generated](./media/media18/image2.png)
@@ -32,7 +32,7 @@ generated](./media/media18/image3.png)
 
 ![](./media/media18/image6.png)
 
-7.  Agent is created.
+7.  Your Agent is created.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media18/image7.png)
@@ -68,7 +68,7 @@ A **Trigger** node appears on an otherwise blank topic authoring canvas.
 ![](./media/media18/image12.png)
 
 6.  The **On Recognized Intent properties** panel appears. In this
-    panel, select the on **Phrases** box.
+    panel, select the **Phrases** box.
 
 ![A screenshot of a phone Description automatically
 generated](./media/media18/image13.png)
@@ -86,7 +86,7 @@ generated](./media/media18/image13.png)
 
     - Hours of operation
 
-8.  Your agent needs 5 to 10 trigger phrases to train the AI to
+8.  Your agent needs 5 to 10 trigger phrases to train the AI model to
     understand your customers' responses. To add more trigger phrases,
     you can either:
 
@@ -109,14 +109,16 @@ generated](./media/media18/image16.png)
 9.  Select **Details** on the toolbar to open the **Topic
     details** panel. Enter the name of the Topic as **Store hours**.
 
+10.  Select **Save**.
+
 ![](./media/media18/image17.png)
 
-The exercises outlined below can be performed only upon acquiring a paid
+The exercise outlined below can be performed only upon acquiring a paid
 license for Customer Service.
 
 ## Exercise 3 - Use the Search Dynamics 365 knowledge article flow action
 
-### Task 1 - Set connection references.
+### Task 1 - Set connection references
 
 To set connection references:
 

@@ -189,17 +189,17 @@ generated](./media/media18/image33.jpg)
 16.  Similarly select **Content Conversion**.
 
      ![A screenshot of a computer Description automatically
-generated](./media/media18/image32.jpg)
+generated](./media/media18/image39.jpg)
 
 18.  In the edit box that opens, select the connection that you created from the **Connection** dropdown menu.
 
      ![A screenshot of a computer Description automatically
-generated](./media/media18/image32.jpg)
+generated](./media/media18/image40.jpg)
 
 7.  Select **Save**.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media18/image32.jpg)
+generated](./media/media18/image41.jpg)
 
 9.  Go back to **Default Solution** \> **Cloud flows** and turn
     on **Search Dynamics 365 knowledge article flow** flow.

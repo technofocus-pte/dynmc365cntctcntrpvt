@@ -44,7 +44,7 @@ generated](./media/media19/image6.1.png)
 13. Select **Save**.
 
       ![A screenshot of a computer Description automatically
-generated](./media/media19/image6.1.png)
+generated](./media/media19/image19.15.jpg)
  
 ## Task 2: Configure the ability to connect chats to Dynamics 365 records
 1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience**, select **Collaboration**.

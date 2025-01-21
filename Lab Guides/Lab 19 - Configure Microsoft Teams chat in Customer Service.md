@@ -36,6 +36,15 @@ generated](./media/media19/image5.1.png)
 
       ![A screenshot of a computer Description automatically
 generated](./media/media19/image6.1.png)
+
+10. Next, set the toggle for **Turn on Confidential Labels** to **Yes**. This setting requires the tenant admin permission.
+
+12. **Accept** the Consent.
+
+13. Select **Save**.
+
+      ![A screenshot of a computer Description automatically
+generated](./media/media19/image6.1.png)
  
 ## Task 2: Configure the ability to connect chats to Dynamics 365 records
 1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience**, select **Collaboration**.

@@ -6,26 +6,26 @@
 
 1.  Open a broswer and paste the link https://www.microsoft.com/en-in/dynamics-365/free-trial for enabling the **Customer Service Trial license**
 
-2. Scroll down and select Dynamics 365 Customer Service. Click on **Try for free**
+2. Scroll down and select Dynamics 365 Customer Service. Click on **Try for free**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image0.png)
 
-3. Enter the user id, select the agreement terms and then select **Start your free trial**
+3. Enter the user id, select the agreement terms and then select **Start your free trial**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image1.png)
 
-2.  Select Country/Region - **United States** and enter your Phone number and **submit**
+2.  Select Country/Region - **United States** and enter your Phone number and **submit**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image2.png)
 
-3.  You will be navigated to Customer Service workspace
+3.  You will be navigated to Customer Service workspace.
 
     **Note** - If you are prompted with a pop-up for using a microphone, click on
     **Allow while visiting the site**. If you are not prompted, you can
-    proceed to the next step
+    proceed to the next step.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image3.png)
@@ -42,12 +42,12 @@ application. In the Power Platform admin center, while you can view
 existing environments and channels, you can't enable, edit, or delete
 channels.
 
-1.  Click on **Customer Service workspace** to display the list of apps
+1.  Click on **Customer Service workspace** to display the list of apps.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image5.png)
 
-2.  Select **Customer Service admin center** from the list of apps
+2.  Select **Customer Service admin center** from the list of apps.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image6.png)
@@ -90,7 +90,7 @@ generated](./media/media1/image12.png)
 
 4.  To update user attributes, select **Update user attributes**, and
     you will see three options available. You can select one of the
-    option based on your requirements
+    option based on your requirements.
 
     ![](./media/media1/image13.png)
 
@@ -116,10 +116,10 @@ generated](./media/media1/image12.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image14.png)
 
-6.  Click on **Close**
+6.  Click on **Close**.
 
 7.  Now select your **Admin \> Update user attributes \> Update
-    queues**
+    queues**.
 
 8.  **Update queues**: On the dialog box that appears, in
     the **Queues** box, select the queues to add or remove, and then
@@ -128,9 +128,9 @@ generated](./media/media1/image14.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image15.png)
 
-9.  Click on **Close**
+9.  Click on **Close**.
 
-10. Now perform step 7 again and select **Update capacity profile**
+10. Now perform step 7 again and select **Update capacity profile**.
 
 11. On this dialog box , in the **Capacity profiles** box, select the
     profiles that you want to add or remove, and then select **Add to

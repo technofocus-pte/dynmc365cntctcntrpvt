@@ -6,8 +6,7 @@
 
 ### Task 1 - To enable collaboration with Microsoft Teams and chat
 
-1.  In the site map of Customer Service admin center or Contact Center
-    admin center, in **Agent experience**, select **Collaboration**.
+1.  In the site map of Customer Service admin center, in **Agent experience**, select **Collaboration**.
 
     ![A screenshot of a phone Description automatically generated](./media/media22/image1.png)
 

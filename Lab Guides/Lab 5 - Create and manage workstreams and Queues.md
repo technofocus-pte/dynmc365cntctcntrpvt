@@ -14,21 +14,22 @@ admin center app.
     credentials provided to execute the lab in the home tab. Select **> Environments>
     CustomerService Trial environment> Environment URL.**
 
-2.  Select **Customer Service Workspace** and select **Customer Service Admin
-    center** from the list of Apps.
+2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
+   
+4.  Select **Customer Service Admin center** from the list of Apps.
 
-3.  In the site map of admin center,
+5.  In the site map of admin center,
     select **Workstreams** under **Customer support**.
 
     ![A screenshot of a phone Description automatically
 generated](./media/media5/image1.png)
 
-4.  Select **New workstream**.
+6.  Select **New workstream**.
 
     ![A screenshot of a chat Description automatically
 generated](./media/media5/image2.png)
 
-5.  In the **Create a workstream** dialog, enter the following details:
+7.  In the **Create a workstream** dialog, enter the following details:
 
     - **Name**: Enter an intuitive name - `Contoso chat workstream`.
 

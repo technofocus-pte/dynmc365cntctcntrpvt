@@ -14,7 +14,7 @@ admin center app.
     credentials provided to execute the lab in the home tab. Select **> Environments>
     CustomerService Trial environment> Environment URL.**
 
-2.  Select **Customer Service Workspace** and Select **Customer Service Admin
+2.  Select **Customer Service Workspace** and select **Customer Service Admin
     center** from the list of Apps.
 
 3.  In the site map of admin center,

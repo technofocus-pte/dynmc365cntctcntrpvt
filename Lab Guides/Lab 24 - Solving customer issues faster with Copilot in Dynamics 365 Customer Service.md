@@ -7,30 +7,7 @@ case and resolve customer issues more efficiently. The case summary
 includes key information such as the case title, customer, subject,
 product, priority, case type, and description.
 
-1.  To navigate to your **Customer Service workspace**, go to the
-    **Power Platform admin center** using the given link
-    <https://admin.powerplatform.microsoft.com>.
-
-2.  Select the **Environments** tab and then select **Customer Service
-    Trial** environment.
-
-![A screenshot of a computer Description automatically
-generated](./media/media25/image1.png)
-
-3.  On the **Customer Service Trial environment** page, click on the
-    **Environment URL**.
-
-![A screenshot of a computer Description automatically
-generated](./media/media25/image2.png)
-
-4.  You will be navigated to your **Customer Service workspace**. If you
-    are navigated to Published app page, select **Customer Service
-    workspace.**
-
-![A screenshot of a computer Description automatically
-generated](./media/media25/image3.png)
-
-5.  Select the **Customer Service Agent Dashboard**.
+1. In the Customer Service workspace, select the **Customer Service Agent Dashboard**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image4.png)

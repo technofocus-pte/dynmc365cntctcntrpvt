@@ -35,7 +35,7 @@ To enable Workforce Management, complete the following steps:
 
 ## Task 2 - Enable shift-based routing
 
-1.  In the Customer Service admin center site map, select **Workforce
+1.  Switch back to the Customer Service admin center site map, refresh the portal and then select **Workforce
     management** under **Operations**.
 
     ![](./media/media13/image6.png)

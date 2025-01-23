@@ -21,7 +21,7 @@ generated](./media/media1/image1.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image2.png)
 
-3.  You will be navigated to Customer Service workspace.
+3.  You will be navigated to **Customer Service workspace**.
 
     **Note** - If you are prompted with a pop-up for using a microphone, click on
     **Allow while visiting the site**. If you are not prompted, you can

@@ -14,8 +14,9 @@ issues.
     credentials provided to execute the lab in the home tab. Select **> Environments>
     CustomerService Trial environment> Environment URL.**
 
-2.  Select **Customer Service Workspace** and select **Customer Service Admin
-    center** from the list of Apps.
+2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
+   
+4.  Select **Customer Service Admin center** from the list of Apps.
 
 3.  Go to **Agent experience profiles** in **Agent
     experience** \> **Workspaces**.

@@ -2,7 +2,7 @@
 
 ## Task 1 - Omnichannel historical analytics dashboard
 
-1.  Select the App selector from the top ribbon. 
+1.  Select the **App selector** from the top ribbon. 
  
 2.	Click on **Customer Service admin center** to list the available
     apps.

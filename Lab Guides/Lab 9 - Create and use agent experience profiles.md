@@ -9,7 +9,15 @@ agents and supervisors. Profiles help access the features that your
 agents and supervisors can use in their daily tasks to resolve customer
 issues.
 
-1.  Go to **Agent experience profiles** in **Agent
+1.  Open a new tab in the browser. Sign in to the Power Platform admin
+    center - https://admin.powerplatform.microsoft.com/ with the
+    credentials provided to execute the lab in the home tab. Select **> Environments>
+    CustomerService Trial environment> Environment URL.**
+
+2.  Select **Customer Service Workspace** and select **Customer Service Admin
+    center** from the list of Apps.
+
+3.  Go to **Agent experience profiles** in **Agent
     experience** \> **Workspaces**.
 
     ![A screenshot of a phone Description automatically

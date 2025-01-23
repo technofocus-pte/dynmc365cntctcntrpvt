@@ -1,7 +1,7 @@
 # Lab 19 - Configure Microsoft Teams chat in Customer Service
 
 ## Task 1: Access the Teams settings
-1.	In the Customer Service admin center or Contact Center admin center, go to **Agent experience** and select **Collaboration**.
+1.	In the Customer Service admin center, go to **Agent experience** and select **Collaboration**.
 
 2.	In **Embedded chat using Teams**, select **Manage**.
 

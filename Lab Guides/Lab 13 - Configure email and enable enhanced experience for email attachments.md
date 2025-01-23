@@ -73,7 +73,7 @@ generated](./media/media12/image9.png)
 Enhanced email is the default setting, but you must enable email for
 users to access and use the features.
 
-1.  Navigate to Customer Service Admin Center App.
+1.  Open your **Customer Service Admin Center** App.
 
 2.  In the app, go to **Settings** \> **Advanced Settings**.
 

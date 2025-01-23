@@ -2,11 +2,9 @@
 
 ## Task 1 - Omnichannel historical analytics dashboard
 
-1.  Switch back to Customer Service Admin Trial tab. If you have closed
-    the tab. Navigate to Power Platform Admin center \> Environments \>
-    Select your environment\> Select the environment URL.
-
-2.  Click on **Customer Service admin center** to list the available
+1.  Select the App selector from the top ribbon. 
+ 
+2.	Click on **Customer Service admin center** to list the available
     apps.
 
 ![A screen shot of a computer Description automatically

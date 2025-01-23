@@ -2,20 +2,7 @@
 
 ## Task 1 - Omnichannel historical analytics dashboard
 
-1.  Select the **App selector** from the top ribbon. 
- 
-2.	Click on **Customer Service admin center** to list the available
-    apps.
-
-![A screen shot of a computer Description automatically
-generated](./media/media24/image1.png)
-
-3.  Select **Customer Service workspace.**
-
-![A screenshot of a computer Description automatically
-generated](./media/media24/image2.png)
-
-4.  Select three horizontal lines to view the navigation pane.
+1.  On the **Customer Service workspace** select the Site Map and then .
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24/image3.png)

@@ -2,12 +2,7 @@
 
 ## Task 1 - Omnichannel historical analytics dashboard
 
-1.  On the **Customer Service workspace** select the Site Map and then .
-
-![A screenshot of a computer Description automatically
-generated](./media/media24/image3.png)
-
-5.  Select **Omnichannel historical analytic -Insights**.
+1.  On the **Customer Service workspace** select the Site Map and then select **Omnichannel historical analytic -Insights**.
 
 ![](./media/media24/image4.png)
 

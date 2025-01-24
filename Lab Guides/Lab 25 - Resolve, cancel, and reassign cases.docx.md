@@ -36,14 +36,14 @@ generated](./media/media25-new/image5.png)
 
 5.  Select **Confirm**.
 
-6.  On the Resolve Case dialog box, enter the resolution and then
-    Select **Resolve**.
+6.  On the **Resolve Case dialog** box, enter the resolution and then
+    select **Resolve**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25-new/image6.png)
 
-7.  To check if the updated status of the case, select the My Active
-    Cases dropdown and then select All Cases.
+7.  To check if the updated status of the case, select the **My Active
+    Cases** dropdown and then select **All Cases**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25-new/image7.png)
@@ -63,7 +63,7 @@ All case activities must be closed before you can cancel a case.
 ![A screenshot of a computer Description automatically
 generated](./media/media25-new/image1.png)
 
-2.  In the list of My Active Cases, open the case you want to cancel,
+2.  In the list of **My Active Cases**, open the case you want to cancel,
     and then on the command bar, select **Cancel Case**.
 
 ![A screenshot of a computer Description automatically
@@ -81,7 +81,7 @@ generated](./media/media25-new/image9.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media25-new/image10.png)
 
-4.  Select Cancelled.
+4.  Select **Cancelled**.
 
 5.  Select **Confirm**.
 
@@ -144,7 +144,7 @@ generated](./media/media25-new/image17.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media25-new/image18.png)
 
-7.  Select the Details tab, scroll down and you'll find the merged case
+7.  Select the **Details** tab, scroll down and you'll find the merged case
     listed in the **Merged Cases** section.
 
 ![A white screen with black text Description automatically

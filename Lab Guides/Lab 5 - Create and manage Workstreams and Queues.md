@@ -1,4 +1,4 @@
-# Lab 5 - Create and manage workstreams and Queues
+# Lab 5 - Create and manage Workstreams and Queues
 
 **Objective** - In this Lab, you will create workstream and Queue in the customer service admin center. You will also navigate through how we manage them in the Customer Service admin center.
 

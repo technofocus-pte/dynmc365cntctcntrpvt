@@ -1,4 +1,4 @@
-# Integrate knowledge management in Dynamics 365 with Copilot Studio bots
+# Lab 17 - Integrate knowledge management in Dynamics 365 with Copilot Studio bots
 
 ## Exercise 1 - Use the Search Dynamics 365 knowledge article flow action
 

@@ -6,39 +6,47 @@
 
 ## Task 1 - Record Types section
 
-1.  In the site map of Customer Service admin center,
+1.  Open a new tab in the browser. Sign in to the Power Platform admin
+    center - https://admin.powerplatform.microsoft.com/ with the
+    credentials provided to execute the lab in the home tab. Select **> Environments>
+    CustomerService Trial environment> Environment URL.**
+
+2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
+   
+3.  Select **Customer Service Admin center** from the list of Apps.
+4.  In the site map of Customer Service admin center,
     select **Knowledge** in **Agent experience**. The **Knowledge** page
     appears.
 
     ![A screenshot of a phone Description automatically
 generated](./media/media17/image1.png)
 
-1.  In the **Record types** section, select **Manage**.
+5.  In the **Record types** section, select **Manage**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media17/image2.png)
 
-2.  On the **Record Types** page, we can add and configure the record
+6.  On the **Record Types** page, we can add and configure the record
     types for which you want to turn on knowledge management.
 
-3.  By default, knowledge management is enabled
+7.  By default, knowledge management is enabled
     for **Case** and **Conversation** record types.
 
     ![](./media/media17/image3.png)
 
-4.  On the **Record Types** page, select **Add**.
+8.  On the **Record Types** page, select **Add**.
 
-5.  The **Add record type** dialog appears. On the **Add record
+9.  The **Add record type** dialog appears. On the **Add record
     type** dialog, from the **Select record type** dropdown list, select
     the record type – **Account**.
 
-6.  Set the toggle for **Turn on autometic search**.
-7.  Select **Account Name** for **Provide search results using** field.
+10.  Set the toggle for **Turn on autometic search**.
+11.  Select **Account Name** for **Provide search results using** field.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media17/image4.png)
 
-8.  Select **Save and Close**.
+12.  Select **Save and Close**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media17/image15.jpg)

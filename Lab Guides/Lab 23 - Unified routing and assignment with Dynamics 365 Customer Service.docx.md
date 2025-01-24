@@ -12,19 +12,19 @@ generated](./media/media23-new/image1.png)
     items**.
 
 ![A screenshot of a search box Description automatically
-generated](./media/image2.png)
+generated](./media/media23-new/image2.png)
 
 3.  Next, from the dropdown for **Queues I’m member of**, select **All
     Queues**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image3.png)
+generated](./media/media23-new/image3.png)
 
 4.  Select the checkbox next to the required item, and then
     select **Pick** from the command menu.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image4.png)
+generated](./media/media23-new/image4.png)
 
 5.  The **Pick** dialog appears. For the **Also remove the item(s) from
     the Queue** dropdown, if you select **Yes,** the item is removed
@@ -33,7 +33,7 @@ generated](./media/image4.png)
 6.  Select **Pick**. The item is assigned to you.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image5.png)
+generated](./media/media23-new/image5.png)
 
 7.  If the item is in an advanced queue and is tracked through unified
     routing, the following actions occur:
@@ -43,20 +43,20 @@ generated](./media/image5.png)
       indicator of work assignment.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image6.png)
+generated](./media/media23-new/image6.png)
 
 8.  To manually add another user or team, select the item. Select
     **Queue Item details** from the command menu.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image7.png)
+generated](./media/media23-new/image7.png)
 
 9.  Select the lookup for the **Worked By** field and then select the
     user. If the queue item is assigned to a private queue, the lookup
     displays only the members of that queue. 
 
 ![A screenshot of a computer Description automatically
-generated](./media/image8.png)
+generated](./media/media23-new/image8.png)
 
 **Note**
 
@@ -70,37 +70,37 @@ work items are routed through workstreams.
     select **Queues**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image1.png)
+generated](./media/media23-new/image1.png)
 
 2.  From the dropdown for **Items, I am working on**, select **All
     items**.
 
 ![A screenshot of a search box Description automatically
-generated](./media/image2.png)
+generated](./media/media23-new/image2.png)
 
 3.  Next, from the dropdown for **Queues I’m member of**, select **All
     Queues**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image3.png)
+generated](./media/media23-new/image3.png)
 
 4.  Select the item that you want to release, and on the command bar
     select **Release**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image9.png)
+generated](./media/media23-new/image9.png)
 
 5.  On the **Release Queue Item** dialog box, select **Release**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image10.png)
+generated](./media/media23-new/image10.png)
 
 6.  When you release an item, your name is removed from the **Worked
     By** field, and the item is no longer assigned to you; it’s assigned
     to the queue owner.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image11.png)
+generated](./media/media23-new/image11.png)
 
 ## Task 3 - Route an activity or case to another queue or assign to a different user or team
 
@@ -108,7 +108,7 @@ generated](./media/image11.png)
     select **Route**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image12.png)
+generated](./media/media23-new/image12.png)
 
 2.  On the **Route Queued Item** dialog box, select **Queue** for the
     **Route to** field. Select **Contoso queue** for **supervisors**
@@ -117,12 +117,12 @@ generated](./media/image12.png)
 3.  Select **Route**.
 
 ![A screenshot of a computer screen Description automatically
-generated](./media/image13.png)
+generated](./media/media23-new/image13.png)
 
 4.  The queue is routed to **Contoso queue for supervisors**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image14.png)
+generated](./media/media23-new/image14.png)
 
 ## Task 4 - Assign to another user or team
 
@@ -130,13 +130,13 @@ generated](./media/image14.png)
     select **Activities**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image15.png)
+generated](./media/media23-new/image15.png)
 
 2.  Select the activity you want, and on the command bar and then
     select **Assign**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image16.png)
+generated](./media/media23-new/image16.png)
 
 3.  In the **Assign To** field select **User or team**, and then select
     the user or team you want to assign the activity to. For this
@@ -145,7 +145,7 @@ generated](./media/image16.png)
 4.  Select **Assign**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image17.png)
+generated](./media/media23-new/image17.png)
 
 ## Task 5 - Add to queue
 
@@ -155,7 +155,7 @@ generated](./media/image17.png)
 2.  Select the activity you want, and then select **Add to Queue**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image18.png)
+generated](./media/media23-new/image18.png)
 
 3.  The **Queue** field displays the queue the activity belongs to. The
     queue lookup displays only the queues that the activity can be added
@@ -165,7 +165,7 @@ generated](./media/image18.png)
     select **Add**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image19.png)
+generated](./media/media23-new/image19.png)
 
 ## Task 6 - Add a case to a queue
 
@@ -176,7 +176,7 @@ you can move the case to a queue so that someone else can pick it up.
     select **Cases**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image20.png)
+generated](./media/media23-new/image20.png)
 
 2.  In the list of cases, select the case that you want to add to a
     queue.
@@ -184,13 +184,13 @@ generated](./media/image20.png)
 3.  On the command bar, select **Add to Queue**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image21.png)
+generated](./media/media23-new/image21.png)
 
 4.  In the **Queue** field, select the queue that you want to add the
     case to, and then select **Add**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image22.png)
+generated](./media/media23-new/image22.png)
 
 If a case is already added to a queue, the **Queue** field displays the
 current queue by default.
@@ -209,11 +209,11 @@ Save a case record and route it to a queue in a single action.
 2.  Make any changes, and on the command bar, select **Save & Route**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image23.png)
+generated](./media/media23-new/image23.png)
 
 3.  In the **Route Case** dialog, select **Route**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image24.png)
+generated](./media/media23-new/image24.png)
 
 The case will be routed based on the active routing rule set.

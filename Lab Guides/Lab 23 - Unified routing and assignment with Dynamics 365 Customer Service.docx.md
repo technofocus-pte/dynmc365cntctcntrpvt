@@ -6,7 +6,7 @@
     select **Queues**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image1.png)
+generated](./media/media23-new/image1.png)
 
 2.  From the dropdown for **Items, I am working on**, select **All
     items**.

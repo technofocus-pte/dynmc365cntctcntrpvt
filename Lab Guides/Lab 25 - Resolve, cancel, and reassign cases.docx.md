@@ -1,4 +1,4 @@
-# Lab - Resolve, cancel, reassign and merge cases
+# Lab 25 - Resolve, cancel, reassign and merge cases
 
 ## Task 1 - Resolve a case
 
@@ -28,7 +28,7 @@ generated](./media/media25-new/image3.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media25-new/image4.png)
 
-- **Confirm**: If you select **Confirm** on the warning, the system
+    - **Confirm**: If you select **Confirm** on the warning, the system
   automatically cancels the open activities when the case is resolved.
 
 ![A blue square with black text Description automatically

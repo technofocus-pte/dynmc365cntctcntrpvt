@@ -231,8 +231,8 @@ generated](./media/media24-new/image26.png)
 1.  On Customer Service Workspace, select the **Home** tab and then
     select **Customer Service Agent Dashboard**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media24-new/image27.png)
+![A screenshot of a computer Description automatically
+generated](./media/media24-new/image27.png)
 
 2.  In the **My Active Cases** list, select the **Fluctuations in
     electric supply** case that you have created. The case opens in a
@@ -243,7 +243,7 @@ generated](./media/media24-new/image26.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image28.png)
 
-3.  In the **Knowledge article suggestion** area, do any of the
+4.  In the **Knowledge article suggestion** area, do any of the
     following:
 
     - Select an article title to go through and get relevant
@@ -253,21 +253,21 @@ generated](./media/media24-new/image28.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image29.png)
 
-4.  Select more commands to do the following:
+5.  Select more commands to do the following:
 
- - **Email Content:** Select to open the email compose form with the
+    - **Email Content:** Select to open the email compose form with the
     contents of the knowledge article pasted in the mail body.
 
 ![A screenshot of a computer screen Description automatically
 generated](./media/media24-new/image30.png)
 
-5. Select the link icon to associate the article with the case as a
+6. Select the link icon to associate the article with the case as a
   related article.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image31.png)
 
-6.  In the **Similar case suggestions** area, do any of the following:
+7.  In the **Similar case suggestions** area, do any of the following:
 
     - Select a case title to drill through the details of the resolved
       case.
@@ -285,7 +285,7 @@ generated](./media/media24-new/image31.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image32.png)
 
-7. Select the link icon to link or clear the link with the similar case.
+8. Select the link icon to link or clear the link with the similar case.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image33.png)

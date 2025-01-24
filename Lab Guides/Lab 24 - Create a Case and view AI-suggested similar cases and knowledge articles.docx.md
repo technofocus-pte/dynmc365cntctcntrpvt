@@ -253,9 +253,9 @@ generated](./media/media24-new/image28.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image29.png)
 
-    - Select more commands to do the following:
+4.  Select more commands to do the following:
 
-    - **Email Content:** Select to open the email compose form with the
+ - **Email Content:** Select to open the email compose form with the
     contents of the knowledge article pasted in the mail body.
 
 ![A screenshot of a computer screen Description automatically

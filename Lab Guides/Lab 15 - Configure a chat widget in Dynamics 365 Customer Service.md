@@ -2,8 +2,7 @@
 
 **Objective** - In this Lab, you will configure a chat widget in Dynamics 365 Customer Service
 
-1.  Switch back to Customer Service admin center or Contact Center admin
-    center, select **Channels** in **Customer support**.
+1.  Switch back to Customer Service admin center, select **Channels** in **Customer support**.
     The **Channels** page appears.
 
     ![A screenshot of a phone Description automatically

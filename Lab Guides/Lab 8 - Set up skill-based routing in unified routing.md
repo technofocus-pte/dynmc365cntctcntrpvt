@@ -1,9 +1,9 @@
 # Lab 8 - Set up skill-based routing in unified routing
 
 
-**Objective** - You will set up skill-based routing in unified routing
+**Objective** - You will set up skill-based routing in unified routing.
 
-## Exercise 1: Create skills
+## Task 1: Create skills
 
 1.  In the **Customer Service admin center** navigate to the site map
     and select **User management** under **Customer support** group.
@@ -31,7 +31,7 @@ generated](./media/media8/image2.png)
 
     ![](./media/media8/image3.png)
 
-## Exercise 2: Create a rating model and rating value
+## Task 2: Create a rating model and rating value
 
 1.  In the **Customer Service admin center** navigate to the site map
     and select **Routing** under **Customer support** group.
@@ -93,7 +93,7 @@ generated](./media/media8/image9.png)
     ![Graphical user interface, text, application, email Description
 automatically generated](./media/media8/image10.png)
 
-## Exercise 3: Add agent as bookable resource
+## Task 3: Add agent as bookable resource
 
 1.  In **Dynamics 365 Customer Service admin center**, in the site map,
     select **User management** under **Customer support** group.
@@ -148,7 +148,7 @@ generated](./media/media8/image16.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image17.png)
 
-## Exercise 4: Assign agents to skill
+## Task 4: Assign agents to skill
 
 1.  In the **Customer Service admin center** navigate to the site map
     and select **User management** under **Customer support** group.

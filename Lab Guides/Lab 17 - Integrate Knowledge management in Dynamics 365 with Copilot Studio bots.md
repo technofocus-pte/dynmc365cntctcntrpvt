@@ -1,4 +1,4 @@
-# Lab 17 - Integrate knowledge management in Dynamics 365 with Copilot Studio Agents
+# Lab 17 - Integrate Knowledge management in Dynamics 365 with Copilot Studio Agents
 
 **Objective** - In this lab, you will create a Copilot bot, add Topics to it and add the action to the Copilot Studio topic.
 

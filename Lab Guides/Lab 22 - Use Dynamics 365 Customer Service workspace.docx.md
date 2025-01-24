@@ -1,4 +1,4 @@
-# Lab - Use Contact Center workspace
+# Lab - Use Dynamics 365 Customer Service workspace
 
 **Objective** - In this lab, you will use Customer Service workspace to help agents increase productivity with a browser-like, tabbed experience. Agents can use the app to work on multiple cases and conversations.
 

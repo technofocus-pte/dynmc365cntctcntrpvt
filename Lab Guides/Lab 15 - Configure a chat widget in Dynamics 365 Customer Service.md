@@ -1,6 +1,6 @@
 # Lab 16 - Configure a chat widget in Dynamics 365 Customer Service
 
-**Objective** - In this Lab, you will configure a chat widget in Dynamics 365 Contact Center
+**Objective** - In this Lab, you will configure a chat widget in Dynamics 365 Customer Service
 
 ## Task 1 - Create a website in Power Page trial
 

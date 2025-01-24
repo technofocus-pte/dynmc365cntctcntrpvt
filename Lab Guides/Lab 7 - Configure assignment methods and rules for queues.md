@@ -1,8 +1,6 @@
 # Lab 7 - Configure assignment methods and rules for queues
 
-**Objective** - In this Lab, you will create an assignment method and assignment rulesets comprising rules in admin center
- 
-## Task 1 - Create an assignment method and configure rules
+**Objective** - In this Lab, you will create an assignment method and assignment rulesets comprising rules in admin center.
 
 1.  In the **Customer Service admin center**, navigate to the site map
     and select **Queues** under **Customer support** group.

@@ -12,7 +12,7 @@
     Trial** environment.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image1.png)
+generated](./media22/image1.png)
 
 3.  On the **Customer Service Trial environment** page, click on
     the **Environment URL**.

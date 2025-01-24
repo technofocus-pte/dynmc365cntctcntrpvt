@@ -1,5 +1,7 @@
 # Lab 18 - Configure Microsoft Teams chat in Customer Service
 
+**Objective** - In this lab, you will enable Microsoft Teams chats inside Dynamics 365 and Enhanced Microsoft Teams Integration. You will also add a record type to link chats to Dynamics 365 records.
+
 ## Task 1: Access the Teams settings
 1.	In the Customer Service admin center, go to **Agent experience** and select **Collaboration**.
 
@@ -91,3 +93,4 @@ generated](./media/media19/image12.1.png)
  
 4.	Select **Save**.
 
+**Summary** - You have enabled Microsoft Teams chats inside Dynamics 365 and Enhanced Microsoft Teams Integration. You have added a record type to link chats to Dynamics 365 records.

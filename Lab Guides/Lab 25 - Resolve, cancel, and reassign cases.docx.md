@@ -6,7 +6,7 @@
     select **Cases**.
 
 > ![A screenshot of a computer Description automatically
-> generated](./media/image1.png)
+> generated](./media/media25-new/image1.png)
 
 2.  In the list **My Active Cases**, open the one you want to resolve.
 

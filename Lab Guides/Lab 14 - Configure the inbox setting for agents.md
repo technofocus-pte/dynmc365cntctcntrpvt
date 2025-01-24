@@ -1,6 +1,6 @@
 # Lab 14 - Configure the inbox setting for agents
 
-**Objective** - In this Lab, you configure the inbox in Contact Center admin center or Customer Service admin center by editing the agent experience profile to meet your preferred inbox settings.
+**Objective** - In this Lab, you configure the inbox in Customer Service admin center by editing the agent experience profile to meet your preferred inbox settings.
 
 ## Task 1 - Exploring the inbox setting for agents
 

@@ -1,4 +1,4 @@
-# Lab 22 - Configure rules-based suggestions for contacts in Microsoft Teams
+# Lab 21 - Configure rules-based suggestions for contacts in Microsoft Teams
 
 **Objective** - In this Lab, you will configure rules-based suggestions for contacts in Microsoft Teams
 

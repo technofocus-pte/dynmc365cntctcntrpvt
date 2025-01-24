@@ -131,10 +131,12 @@ generated](./media/media16/image18.png)
 drop-down under **Authentication name** and select **Create
 authentication setting.** The steps outlined below can be performed only
 upon acquiring a paid license for Power Pages so that the custom
-certificates can be uploaded to acquire a public Key URL
+certificates can be uploaded to acquire a public Key URL.
 
 A Chat widget is then created. You can click on **Cancel** for this lab
 as we have explored how to create a chat widget in Customer Service
-Trail.
+Trial.
+
+**Summary** - You have configured a **Contoso Chat Widget** in Dynamics 365 Customer Service.
 
 

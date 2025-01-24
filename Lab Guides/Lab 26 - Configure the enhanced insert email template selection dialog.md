@@ -1,4 +1,4 @@
-# Lab 23 - Configure the enhanced insert email template selection dialog
+# Lab 26 - Configure the enhanced insert email template selection dialog
 
 **Objective** - In this lab, you will configure the enhanced insert email template selection dialog
 

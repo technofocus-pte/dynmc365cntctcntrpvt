@@ -1,4 +1,4 @@
-# Lab - Unified routing and assignment with Dynamics 365 Customer Service
+# Lab 23 - Unified routing and assignment with Dynamics 365 Customer Service
 
 ## Task 1 - Pick queue items
 

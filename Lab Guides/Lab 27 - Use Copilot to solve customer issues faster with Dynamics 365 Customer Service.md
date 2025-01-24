@@ -1,6 +1,8 @@
 # Lab 27: Use Copilot to solve customer issues faster with Dynamics 365 Customer Service
 
-## Exercise 1: Summarize cases
+**Objective** - In this lab, you will use Copilot to summarize cases, draft email and questions.
+
+## Task 1: Summarize cases
 
 Copilot case summaries help you to quickly understand the context of a
 case and resolve customer issues more efficiently. The case summary
@@ -34,7 +36,7 @@ generated](./media/media25/image7.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image8.png)
 
-## Exercise 2: Draft questions
+## Task 2: Draft questions
 
 You can ask free-form questions just as you'd ask your colleague or
 supervisor who might know the answers.
@@ -73,7 +75,7 @@ supervisor who might know the answers.
 > customer keywords to prompt Copilot to generate a more accurate
 > response.
 
-## Exercise 3: Draft emails
+## Task 3: Draft emails
 
 1.  Select “**Write an email**” tab on the **Copilot** pane.
 
@@ -140,3 +142,5 @@ generated](./media/media25/image20.png)
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image21.png)
+
+**Summary** - You used Copilot to summarize cases, draft email and questions.

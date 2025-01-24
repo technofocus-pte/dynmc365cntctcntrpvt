@@ -6,7 +6,7 @@
 
 1.  Open a broswer and paste the link https://www.microsoft.com/en-in/dynamics-365/free-trial for enabling the **Dynamics 365 Customer Service Trial license**
 
-2. Scroll down and select Dynamics 365 Customer Service. Click on **Try for free**.
+2. Scroll down and select **Dynamics 365 Customer Service**. Click on **Try for free**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image0.png)

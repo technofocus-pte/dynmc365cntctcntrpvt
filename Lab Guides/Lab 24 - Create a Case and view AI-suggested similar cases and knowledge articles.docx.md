@@ -238,8 +238,7 @@ generated](./media/media24-new/image26.png)
     electric supply** case that you have created. The case opens in a
     session tab, and the **Smart assist** pane appears on the right.
 
-> The **Smart assist** pane lists the knowledge articles and similar
-> cases suggested by AI based on the case context.
+3.  The **Smart assist** pane lists the knowledge articles and similar cases suggested by AI based on the case context.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image28.png)

@@ -1,4 +1,4 @@
-# Lab 16 - Configure a chat widget in Dynamics 365 Customer Service
+# Lab 15 - Configure a chat widget in Dynamics 365 Customer Service
 
 **Objective** - In this Lab, you will configure a chat widget in Dynamics 365 Customer Service
 

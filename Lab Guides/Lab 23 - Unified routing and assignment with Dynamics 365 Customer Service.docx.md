@@ -1,5 +1,7 @@
 # Lab 23 - Unified routing and assignment with Dynamics 365 Customer Service
 
+**Objective** - In this lab, you will use queues to organize, prioritize, and monitor the progress of your work.
+
 ## Task 1 - Pick queue items
 
 1.  In the Customer Service workspace, select the **Site Map** and then
@@ -217,3 +219,5 @@ generated](./media/media23-new/image23.png)
 generated](./media/media23-new/image24.png)
 
 The case will be routed based on the active routing rule set.
+
+**Summary** - You have used queues to organize, prioritize, and monitor the progress of your work.

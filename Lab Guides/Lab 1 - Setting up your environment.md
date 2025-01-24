@@ -1,6 +1,6 @@
 # Lab 1 - Setting up your environment
 
-**Objective** -  In this lab, you will activate the Customer Service trial, configure Channels, and manage user access within the Customer Service Admin Center.
+**Objective** -  In this lab, you will activate the Customer Service trial, configure Channels, and manage user access within the Customer Service admin center.
 
 ## Ta 1 - Enabling Customer Service Trial License 
 

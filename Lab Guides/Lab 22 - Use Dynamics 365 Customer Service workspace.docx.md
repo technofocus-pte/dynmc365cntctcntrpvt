@@ -12,25 +12,25 @@
     Trial** environment.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image1.png)
+generated](./media/media22/image1.png)
 
 3.  On the **Customer Service Trial environment** page, click on
     the **Environment URL**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image2.png)
+generated](./media/media22/image2.png)
 
 4.  You will be navigated to your **Customer Service workspace**. If you
     are navigated to Published app page, select **Customer Service
     workspace.**
 
 ![A screenshot of a computer Description automatically
-generated](./media/image3.png)
+generated](./media/media22/image3.png)
 
 5.  Select **Inbox** from the upper ribbon.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image4.png)
+generated](./media/media22/image4.png)
 
 6.  In the inbox, select the **Filter** icon.
 
@@ -41,37 +41,25 @@ generated](./media/image4.png)
 
       - **All** - Displays both read and unread items.
 
-      &nbsp;
-
       - **Unread** - Displays only unopened items.
 
-      &nbsp;
-
       - **Read** - Displays only opened items.
-
-    &nbsp;
 
     - **Sort by**
 
       - **Customer** - Displays items based on the customer record.
 
-      &nbsp;
-
       - **Date** - Displays items based on the date they were created.
-
-    &nbsp;
 
     - **Sort order**
 
       - **Oldest on top** - Displays oldest items first in the inbox.
 
-      &nbsp;
-
       - **Latest on top** - Displays most recent items first in the
         inbox.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image5.png)
+generated](./media/media22/image5.png)
 
 ### Task 2 – View Cases
 
@@ -81,33 +69,33 @@ generated](./media/image5.png)
 2.  Select **Cases**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image6.png)
+generated](./media/media22/image6.png)
 
 3.  Select any of the cases to work on. It opens in a new tab.
     Alternatively, you can open an item in a new tab by selecting
     the **new session** icon.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image7.png)
+generated](./media/media22/image7.png)
 
 ## Exercise 2 - Use Timeline
 
 1.  Access the command bar to perform common actions quickly.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image8.png)
+generated](./media/media22/image8.png)
 
 2.  Filter and view important notes, posts, and activities using
     multiple filter options, and keep the filtered settings across
     activities.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image9.png)
+generated](./media/media22/image9.png)
 
 3.  Work with filters.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image10.png)
+generated](./media/media22/image10.png)
 
 ## Exercise 3 - Manage presence in Customer Service
 
@@ -118,7 +106,7 @@ up work in Dynamics 365 Customer Service.
     on the navigation bar.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image11.png)
+generated](./media/media22/image11.png)
 
 2.  Select the presence icon to launch the presence dialog and update
     your presence. You can select any of the following statuses.
@@ -134,9 +122,9 @@ generated](./media/image11.png)
     - Offline
 
 ![A screenshot of a computer Description automatically
-generated](./media/image12.png)
+generated](./media/media22/image12.png)
 
 3.  Select **OK**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image13.png)
+generated](./media/media22/image13.png)

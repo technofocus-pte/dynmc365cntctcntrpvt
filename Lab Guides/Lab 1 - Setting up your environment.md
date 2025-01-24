@@ -2,7 +2,7 @@
 
 **Objective** -  In this lab, you will activate the Customer Service trial, configure Channels, and manage user access within the Customer Service admin center.
 
-## Ta 1 - Enabling Customer Service Trial License 
+## Task 1 - Enabling Customer Service Trial License 
 
 1.  Open a broswer and paste the link https://www.microsoft.com/en-in/dynamics-365/free-trial for enabling the **Dynamics 365 Customer Service Trial license**
 

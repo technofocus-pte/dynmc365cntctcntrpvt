@@ -57,29 +57,29 @@ generated](./media/media16/image15.png)
 9.  In the **Automated message** box, type the message – **Hi, how can I
     help you?** to be displayed.
 
-10.  Select **Confirm**
+10.  Select **Confirm**.
 
-    ![A screenshot of a chat Description automatically
+ ![A screenshot of a chat Description automatically
 generated](./media/media16/image18.png)
 
-    ![](./media/media16/image19.png)
+  ![](./media/media16/image19.png)
 
 11.  Enable the **Pre-conversation survey.** Select **Add**
 
 12.  Enter the details
 
-    - **Survey question name:** ContosoConsent
+     -  **Survey question name:** ContosoConsent
 
-    - **Question text**: We collect demographic data. Please confirm
+     - **Question text**: We collect demographic data. Please confirm
       whether you agree to provide the basic information.
 
-    - **Answer type –** User consent
+     - **Answer type –** User consent
 
-    - **Required -** Yes
+     - **Required -** Yes
 
     - Select **Confirm**.
 
-    ![](./media/media16/image20.png)
+ ![](./media/media16/image20.png)
 
 13.  Select **Add** again
 

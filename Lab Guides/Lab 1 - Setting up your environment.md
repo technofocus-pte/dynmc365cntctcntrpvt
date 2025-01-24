@@ -42,7 +42,7 @@ application. In the Power Platform admin center, while you can view
 existing environments and channels, you can't enable, edit, or delete
 channels.
 
-1.  Click on the **App selector** to display the list of apps.
+1.  Click on the **App selector** from the top.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image5.png)

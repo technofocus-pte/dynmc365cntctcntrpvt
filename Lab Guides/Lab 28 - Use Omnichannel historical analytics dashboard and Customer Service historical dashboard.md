@@ -1,5 +1,7 @@
 # Lab 28 - Use Omnichannel historical analytics dashboard and Customer Service historical dashboard
 
+**Objective** - In this lab, you will use the Omnichannel historical analytics dashboard and Customer Service historical dashboard that will help you understand the factors that can improve customer service for your organization.
+
 ## Task 1 - Omnichannel historical analytics dashboard
 
 1.  On the **Customer Service workspace** select the Site Map and then select **Omnichannel historical analytic -Insights**.
@@ -70,3 +72,4 @@ generated](./media/media25/image25.29.jpg)
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image25.30.jpg)
 
+**Summary** - You have explored the Omnichannel historical analytics dashboard and Customer Service historical dashboard.

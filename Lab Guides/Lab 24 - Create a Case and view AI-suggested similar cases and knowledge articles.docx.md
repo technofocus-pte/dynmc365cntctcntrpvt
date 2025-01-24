@@ -10,7 +10,7 @@ generated](./media/media24-new/image1.png)
 2.  Select **Customer Service admin center** from the **Apps** page.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image2.png)
+generated](./media/media24-new/image2.png)
 
 3.  On the left navigation in Customer Service admin center,
     select **Case Settings**.
@@ -18,7 +18,7 @@ generated](./media/image2.png)
 4.  Select **Manage** for **Enhanced case experience**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image3.png)
+generated](./media/media24-new/image3.png)
 
 5.  Switch the **Enhanced case experience** toggle to **Yes**.
 
@@ -34,13 +34,13 @@ generated](./media/image3.png)
           Power Apps form page opens on a new tab.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image4.png)
+generated](./media/media24-new/image4.png)
 
 2.  The Enhanced full case form will be opened in the Power Apps tab.
     You can edit the form as per your requirements.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image5.png)
+generated](./media/media24-new/image5.png)
 
 - Switch back to the **Customer Service admin center** tab. To enable
   the enhanced quick case form:
@@ -54,13 +54,13 @@ generated](./media/image5.png)
       case. By default, this is set to **Enhanced quick case form**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image6.png)
+generated](./media/media24-new/image6.png)
 
 1.  Select **Configure** to customize the form in Power Apps. The Power
     Apps form page opens on a new tab.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image7.png)
+generated](./media/media24-new/image7.png)
 
 ## Exercise 2: Create a case
 
@@ -69,35 +69,35 @@ generated](./media/image7.png)
 2.  Select **Customer Service workspace** from the **Apps** page.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image8.png)
+generated](./media/media24-new/image8.png)
 
 3.  In the Customer Service workspace, select the **Site Map** and then
     select **Cases**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image9.png)
+generated](./media/media24-new/image9.png)
 
 4.  The **My Active Cases** view is displayed. You can switch between
     the different case views by selecting the current view.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image10.png)
+generated](./media/media24-new/image10.png)
 
 5.  Select **Show Chart** on the command bar to see the chart view.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image11.png)
+generated](./media/media24-new/image11.png)
 
 6.  Select the three dots on the command bar and then select **Open
     Dashboards**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image12.png)
+generated](./media/media24-new/image12.png)
 
 7.  To switch back to views, select **Open Views**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image13.png)
+generated](./media/media24-new/image13.png)
 
 8.  If you select a case record from the case view, you see these
     additional options on the command bar:
@@ -108,23 +108,19 @@ generated](./media/image13.png)
 
     - **Cancel Case**
 
-    &nbsp;
-
     - **Assign** 
-
-    &nbsp;
 
     - **Add to Queue** 
 
     - **Queue Item Details**
 
 ![A screenshot of a computer Description automatically
-generated](./media/image14.png)
+generated](./media/media24-new/image14.png)
 
 9.  Switch back to the **My Active Cases** tab and select **New Case**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image15.png)
+generated](./media/media24-new/image15.png)
 
 10. Enter the following information on the **New Case** page and then
     select **Save**.
@@ -144,7 +140,7 @@ generated](./media/image15.png)
     - **Priority** – Normal
 
 ![A screenshot of a computer Description automatically
-generated](./media/image16.png)
+generated](./media/media24-new/image16.png)
 
 ## Exercise 3: Create a child case
 
@@ -152,7 +148,7 @@ generated](./media/image16.png)
     Child Case**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image17.png)
+generated](./media/media24-new/image17.png)
 
 2.  On the **New Case** pane that appears on the right side, enter the
     following information and then select **Save**.
@@ -164,7 +160,7 @@ generated](./media/image17.png)
     - **Title** – Share a quotation for replacement
 
 ![A screenshot of a computer Description automatically
-generated](./media/image18.png)
+generated](./media/media24-new/image18.png)
 
 3.  Select **Save & Close**.
 
@@ -173,7 +169,7 @@ generated](./media/image18.png)
 5.  You will the Child case on the **Child Cases** tile.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image19.png)
+generated](./media/media24-new/image19.png)
 
 6.  Select **Save & Close**.
 
@@ -188,7 +184,7 @@ one case as parent and set other cases as its child cases.
 2.  On the command bar, select **Associate Child Cases**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image20.png)
+generated](./media/media24-new/image20.png)
 
 3.  The **Set Parent Child Relationship** dialog appears.
 
@@ -196,12 +192,12 @@ generated](./media/image20.png)
     then select **Set**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image21.png)
+generated](./media/media24-new/image21.png)
 
 5.  Select **OK**.
 
 ![A white background with black text Description automatically
-generated](./media/image22.png)
+generated](./media/media24-new/image22.png)
 
 6.  Select the case that was selected as a Parent case by you.
 
@@ -210,7 +206,7 @@ generated](./media/image22.png)
 8.  You will the Child case on the **Child Cases** tile.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image23.png)
+generated](./media/media24-new/image23.png)
 
 ## Exercise 5: Convert a case to a Knowledge article
 
@@ -221,16 +217,16 @@ generated](./media/image23.png)
     to **Convert To** \> **To Knowledge Article**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image24.png)
+generated](./media/media24-new/image24.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image25.png)
+generated](./media/media24-new/image25.png)
 
 3.  On **Convert to knowledge article** page, keep the default values
     and then select **Convert**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image26.png)
+generated](./media/media24-new/image26.png)
 
 4.  The knowledge article is created.
 
@@ -240,7 +236,7 @@ generated](./media/image26.png)
     select **Customer Service Agent Dashboard**.
 
 > ![A screenshot of a computer Description automatically
-> generated](./media/image27.png)
+> generated](./media/media24-new/image27.png)
 
 2.  In the **My Active Cases** list, select the **Fluctuations in
     electric supply** case that you have created. The case opens in a
@@ -250,7 +246,7 @@ generated](./media/image26.png)
 > cases suggested by AI based on the case context.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image28.png)
+generated](./media/media24-new/image28.png)
 
 3.  In the **Knowledge article suggestion** area, do any of the
     following:
@@ -260,7 +256,7 @@ generated](./media/image28.png)
       application tab.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image29.png)
+generated](./media/media24-new/image29.png)
 
 - Select more commands to do the following:
 
@@ -268,13 +264,13 @@ generated](./media/image29.png)
     contents of the knowledge article pasted in the mail body.
 
 ![A screenshot of a computer screen Description automatically
-generated](./media/image30.png)
+generated](./media/media24-new/image30.png)
 
 - Select the link icon to associate the article with the case as a
   related article.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image31.png)
+generated](./media/media24-new/image31.png)
 
 4.  In the **Similar case suggestions** area, do any of the following:
 
@@ -296,9 +292,9 @@ generated](./media/image31.png)
         link to the resolved case filled in.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image32.png)
+generated](./media/media24-new/image32.png)
 
 - Select the link icon to link or clear the link with the similar case.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image33.png)
+generated](./media/media24-new/image33.png)

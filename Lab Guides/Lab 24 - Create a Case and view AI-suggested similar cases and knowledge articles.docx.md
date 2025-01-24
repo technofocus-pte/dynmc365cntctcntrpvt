@@ -34,25 +34,25 @@ generated](./media/media24-new/image3.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image4.png)
 
-2.  The Enhanced full case form will be opened in the Power Apps tab.
+6.  The Enhanced full case form will be opened in the Power Apps tab.
     You can edit the form as per your requirements.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image5.png)
 
-- Switch back to the **Customer Service admin center** tab. To enable
+7.  Switch back to the **Customer Service admin center** tab. To enable
   the enhanced quick case form:
 
-  1.  Switch the **Quick case form** toggle to **Yes**.
+8.  Switch the **Quick case form** toggle to **Yes**.
 
-  1.  Select the option in the **Choose Form** dropdown. The selected
+9.  Select the option in the **Choose Form** dropdown. The selected
       main form appears as the side pane when the agent creates a new
       case. By default, this is set to **Enhanced quick case form**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image6.png)
 
-1.  Select **Configure** to customize the form in Power Apps. The Power
+10.  Select **Configure** to customize the form in Power Apps. The Power
     Apps form page opens on a new tab.
 
 ![A screenshot of a computer Description automatically
@@ -286,7 +286,7 @@ generated](./media/media24-new/image31.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image32.png)
 
-- Select the link icon to link or clear the link with the similar case.
+5. Select the link icon to link or clear the link with the similar case.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image33.png)

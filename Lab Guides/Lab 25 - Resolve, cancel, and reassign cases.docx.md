@@ -1,5 +1,7 @@
 # Lab 25 - Resolve, cancel, reassign and merge cases
 
+**Objective** - In this lab, you will work with Cases to resolve them, cancel them, reassign them or merge cases.
+
 ## Task 1 - Resolve a case
 
 1.  In the Customer Service workspace, select the **Site Map** and then
@@ -183,3 +185,5 @@ generated](./media/media25-new/image23.png)
 
 ![A white screen with black text Description automatically
 generated](./media/media25-new/image24.png)
+
+**Summary** - You worked with Cases to resolve them, cancel them, reassign them or merge cases.

@@ -22,7 +22,7 @@ generated](./media/media4/image2.png)
     ![A list of information on a white background Description automatically
 generated](./media/media4/image3.png)
 
-**Note** – For this lab, we are not adding or removing any roles for the
+    **Note** – For this lab, we are not adding or removing any roles for the
 persona
 
 5.  Select **Save and Close** after you have made any changes.

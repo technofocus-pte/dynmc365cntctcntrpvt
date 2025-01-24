@@ -1,5 +1,7 @@
 # Lab 17 - Integrate knowledge management in Dynamics 365 with Copilot Studio bots
 
+**Objective** - In this lab, you will create a Copilot bot, add Topics to it and add the action to the Copilot Studio topic.
+
 ### Task 1 - Set connection references
 
 To set connection references:
@@ -202,7 +204,7 @@ generated](./media/media18/image16.png)
 
 ![](./media/media18/image17.png)
 
-### Task 4 - Add the action to the Copilot Studio topic.
+### Task 4 - Add the action to the Copilot Studio topic
 
 Perform the following steps to ensure that flow is properly configured
 and can now be replaced with **Search Dynamics 365 knowledge
@@ -243,3 +245,4 @@ generated](./media/media18/image45.jpg)
 If your search doesn’t return any results, modify the search terms or
 filter conditions. You can also add a filter condition if required.
 
+**Summary** - You have created a Copilot bot, added Topics to it and then added the action to the Copilot Studio topic.

@@ -5,7 +5,7 @@
 1.  Select the **App selector** from the top ribbon.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image1.png)
+generated](./media/media24-new/image1.png)
 
 2.  Select **Customer Service admin center** from the **Apps** page.
 

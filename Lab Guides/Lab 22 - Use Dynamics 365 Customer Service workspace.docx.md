@@ -41,31 +41,19 @@ generated](./media/media22/image4.png)
 
       - **All** - Displays both read and unread items.
 
-      &nbsp;
-
       - **Unread** - Displays only unopened items.
 
-      &nbsp;
-
       - **Read** - Displays only opened items.
-
-    &nbsp;
 
     - **Sort by**
 
       - **Customer** - Displays items based on the customer record.
 
-      &nbsp;
-
       - **Date** - Displays items based on the date they were created.
-
-    &nbsp;
 
     - **Sort order**
 
       - **Oldest on top** - Displays oldest items first in the inbox.
-
-      &nbsp;
 
       - **Latest on top** - Displays most recent items first in the
         inbox.

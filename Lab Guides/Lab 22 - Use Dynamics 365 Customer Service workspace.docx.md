@@ -1,5 +1,7 @@
 # Lab - Use Contact Center workspace
 
+**Objective** - In this lab, you will use Customer Service workspace to help agents increase productivity with a browser-like, tabbed experience. Agents can use the app to work on multiple cases and conversations.
+
 ## Exercise 1 - Use the inbox
 
 ### Task 1 - View and filter your inbox
@@ -128,3 +130,5 @@ generated](./media/media22/image12.png)
 
 ![A screenshot of a computer Description automatically
 generated](./media/media22/image13.png)
+
+**Summary** - You have used Customer Service workspace to help view Inbox, Cases, Timeline and Agent presence.

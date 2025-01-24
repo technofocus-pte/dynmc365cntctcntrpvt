@@ -5,8 +5,8 @@
 1.  In the Customer Service workspace, select the **Site Map** and then
     select **Cases**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media25-new/image1.png)
+![A screenshot of a computer Description automatically
+generated](./media/media25-new/image1.png)
 
 2.  In the list **My Active Cases**, open the one you want to resolve.
 

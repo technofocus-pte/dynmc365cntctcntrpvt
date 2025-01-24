@@ -1,4 +1,4 @@
-# Lab 20 - Add a knowledge article rich text editor control to a form
+# Lab 19 - Add a knowledge article rich text editor control to a form
 
 **Objective** - In this Lab, you will be adding a knowledge rich text editor to a form.
 

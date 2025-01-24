@@ -27,4 +27,4 @@ persona
 
 5.  Select **Save and Close** after you have made any changes.
 
-**Summary** - You checked the personas and different roles that can be assigned in the Customer service 
+    **Summary** - You checked the personas and different roles that can be assigned in the Customer service 

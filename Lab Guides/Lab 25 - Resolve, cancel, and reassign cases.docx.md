@@ -74,8 +74,6 @@ generated](./media/media25-new/image9.png)
     - **Canceled**: The case is canceled and is no longer assigned to
       you.
 
-    &nbsp;
-
     - **Merged**: The case is merged with another case. When the case is
       merged, the case activities are moved to the case it was merged
       with.

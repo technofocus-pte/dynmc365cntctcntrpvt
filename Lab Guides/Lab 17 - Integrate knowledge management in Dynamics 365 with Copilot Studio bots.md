@@ -1,7 +1,5 @@
 # Lab 17 - Integrate knowledge management in Dynamics 365 with Copilot Studio bots
 
-## Exercise 1 - Use the Search Dynamics 365 knowledge article flow action
-
 ### Task 1 - Set connection references
 
 To set connection references:
@@ -82,7 +80,7 @@ generated](./media/media18/image40.jpg)
 
 16.  Select **Save changes**.
 
-    ![A screenshot of a computer Description automatically
+   ![A screenshot of a computer Description automatically
 generated](./media/media18/image41.jpg)
 
 17.  Go back to **Default Solution** \> **Cloud flows** and turn
@@ -91,7 +89,7 @@ generated](./media/media18/image41.jpg)
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image34.jpg)
 
-## Exercise 2 – Create a Copilot Bot
+## Task 2 – Create a Copilot Bot
 
 1.  Open a tab in the browser and go to the Copilot Studio home page -
     <https://copilotstudio.microsoft.com/> . Login with the credentials
@@ -128,7 +126,7 @@ generated](./media/media18/image3.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media18/image7.png)
 
-## Exercise 3 - Create a Topic in Copilot Studio Bot
+## Task 3 - Create a Topic in Copilot Studio Bot
 
 1.  For better visibility, close the **Test your agent** panel for now.
 
@@ -204,7 +202,7 @@ generated](./media/media18/image16.png)
 
 ![](./media/media18/image17.png)
 
-### Exercise 4 - Add the action to the Copilot Studio topic.
+### Task 4 - Add the action to the Copilot Studio topic.
 
 Perform the following steps to ensure that flow is properly configured
 and can now be replaced with **Search Dynamics 365 knowledge

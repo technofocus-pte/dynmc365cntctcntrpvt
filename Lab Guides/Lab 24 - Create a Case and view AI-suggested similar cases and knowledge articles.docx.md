@@ -28,8 +28,6 @@ generated](./media/media24-new/image3.png)
           to see the enhanced full case form when they create a new
           case.
 
-      &nbsp;
-
       1.  Select **Configure** to customize the form in Power Apps. The
           Power Apps form page opens on a new tab.
 
@@ -46,8 +44,6 @@ generated](./media/media24-new/image5.png)
   the enhanced quick case form:
 
   1.  Switch the **Quick case form** toggle to **Yes**.
-
-  &nbsp;
 
   1.  Select the option in the **Choose Form** dropdown. The selected
       main form appears as the side pane when the agent creates a new
@@ -277,14 +273,10 @@ generated](./media/media24-new/image31.png)
     - Select a case title to drill through the details of the resolved
       case.
 
-    &nbsp;
-
     - Select more commands to do the following:
 
       - **Copy resolution:** Select to copy the resolution notes
         information from the resolved case to the clipboard.
-
-      &nbsp;
 
       - **Email agent:** Select to open the email compose form to send
         your questions to the agent who handled the similar case. The

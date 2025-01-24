@@ -1,4 +1,4 @@
-## Lab 4 - Manage Personas and Custom Security roles in Customer Service
+## Lab 4 - Manage Personas and custom security roles in Customer Service
 
 **Objective** - In this Lab, you will check the personas in the Customer service and configure the roles
 

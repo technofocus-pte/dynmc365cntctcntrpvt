@@ -79,18 +79,18 @@ supervisor who might know the answers.
 
 1.  Select “**Write an email**” tab on the **Copilot** pane.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media25/image13.png)
+![A screenshot of a computer Description automatically
+ generated](./media/media25/image13.png)
 
 2.  On the case overview page, select **Related** tab and then select
     **Activities.**
 
-> ![](./media/media25/image14.png)
+![](./media/media25/image14.png)
 
 3.  Select **+New Activity \> Email**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/media25/image15.png)
+![A screenshot of a computer Description automatically
+generated](./media/media25/image15.png)
 
 4.  When you start to draft an email, Copilot opens in the right-side
     panel and presents five predefined prompts and one custom prompt:
@@ -117,7 +117,7 @@ supervisor who might know the answers.
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image16.png)
 
-> ![](./media/media25/image17.png)
+![](./media/media25/image17.png)
 
 5.  Select **Empathize with feedback** from the predefined prompts list.
 
@@ -130,8 +130,8 @@ generated](./media/media25/image16.png)
     draft. Or select part of the response and use the right-click menu
     to copy and paste the selection.
 
-> ![A screenshot of a message Description automatically
-> generated](./media/media25/image19.png)
+![A screenshot of a message Description automatically
+generated](./media/media25/image19.png)
 
 8.  Response is now available in body part on left side.
 

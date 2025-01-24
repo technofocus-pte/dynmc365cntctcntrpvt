@@ -43,15 +43,15 @@ generated](./media/media17/image2.png)
 10.  Set the toggle for **Turn on autometic search**.
 11.  Select **Account Name** for **Provide search results using** field.
 
-    ![A screenshot of a computer Description automatically
+   ![A screenshot of a computer Description automatically
 generated](./media/media17/image4.png)
 
 12.  Select **Save and Close**.
 
-    ![A screenshot of a computer Description automatically
+  ![A screenshot of a computer Description automatically
 generated](./media/media17/image15.jpg)
 
-    ![A screenshot of a computer Description automatically
+  ![A screenshot of a computer Description automatically
 generated](./media/media17/image6.png)
 
 ## Task 2 - General Settings

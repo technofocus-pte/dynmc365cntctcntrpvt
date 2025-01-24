@@ -1,4 +1,4 @@
-# Lab 21 - Configure AI suggestions for contacts in Microsoft Teams
+# Lab 20 - Configure AI suggestions for contacts in Microsoft Teams
 
 **Objective** - In this lab, you will configure AI suggestions for contacts in Microsoft Teams
 

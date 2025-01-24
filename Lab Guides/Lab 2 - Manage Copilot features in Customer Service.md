@@ -1,4 +1,4 @@
-# Lab 2 - Manage Copilot features in Ciustomer Service
+# Lab 2 - Manage Copilot features in Customer Service
 
 **Objective** - In this lab, you will check and configure the copilot features available in Customer service
 

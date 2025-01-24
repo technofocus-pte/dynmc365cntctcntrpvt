@@ -1,4 +1,4 @@
-# Lab 17 - Set up Knowledge Management
+# Lab 16 - Set up Knowledge Management
 
 **Objective** - In this Lab, you set up knowledge management. You also create and manage knowledge management.
 

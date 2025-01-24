@@ -1,6 +1,8 @@
 # Lab 9 – Create a Case and view AI-suggested similar cases and knowledge articles
 
-## Exercise 1: Enable enhanced case forms for multisession apps
+**Objective** - In this lab, you will create Cases, associate cases as parent and child, convert a case to a Knowledge article and view AI-suggested similar cases and knowledge articles.
+
+## Task 1: Enable enhanced case forms for multisession apps
 
 1.  Select the **App selector** from the top ribbon.
 
@@ -58,7 +60,7 @@ generated](./media/media24-new/image6.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image7.png)
 
-## Exercise 2: Create a case
+## Task 2: Create a case
 
 1.  Select the **App selector** from the top ribbon.
 
@@ -138,7 +140,7 @@ generated](./media/media24-new/image15.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image16.png)
 
-## Exercise 3: Create a child case
+## Task 3: Create a child case
 
 1.  On the command bar, select the three dots and then select **Create
     Child Case**.
@@ -169,7 +171,7 @@ generated](./media/media24-new/image19.png)
 
 6.  Select **Save & Close**.
 
-## Exercise 4: Associate cases as parent and child
+## Task 4: Associate cases as parent and child
 
 You can set a parent-child relationship between cases where you can set
 one case as parent and set other cases as its child cases.
@@ -204,7 +206,7 @@ generated](./media/media24-new/image22.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image23.png)
 
-## Exercise 5: Convert a case to a Knowledge article
+## Task 5: Convert a case to a Knowledge article
 
 1.  Switch back to **My Active Cases** tab and open a case that has the
     information that you want to convert to a knowledge article.
@@ -226,7 +228,7 @@ generated](./media/media24-new/image26.png)
 
 4.  The knowledge article is created.
 
-## Exercise 6: View AI-suggested similar cases and knowledge articles
+## Task 6: View AI-suggested similar cases and knowledge articles
 
 1.  On Customer Service Workspace, select the **Home** tab and then
     select **Customer Service Agent Dashboard**.
@@ -289,3 +291,5 @@ generated](./media/media24-new/image32.png)
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24-new/image33.png)
+
+**Summary** - You have created Cases, associated cases as parent and child, converted a case to a Knowledge article and viewed AI-suggested similar cases and knowledge articles.

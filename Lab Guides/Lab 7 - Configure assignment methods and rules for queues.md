@@ -124,7 +124,7 @@ generated](./media/media7/image13.png)
 
 32. Click **Create**.
 
-![Graphical user interface, application Description automatically
+    ![Graphical user interface, application Description automatically
 generated](./media/media7/image14.png)
 
 33. The **Contoso assignment rule** is listed under **Decision list**.

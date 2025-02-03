@@ -13,7 +13,7 @@
 2.  Select the **Environments** tab and then select **Customer Service
     Trial** environment.
 
-    ![A screenshot of a computer Description automatically
+   ![A screenshot of a computer Description automatically
 generated](./media/media22/image1.png)
 
 3.  On the **Customer Service Trial environment** page, click on

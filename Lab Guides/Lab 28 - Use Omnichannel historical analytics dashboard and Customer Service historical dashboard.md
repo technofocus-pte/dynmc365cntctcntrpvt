@@ -22,12 +22,12 @@ Conversation dashboard in Omnichannel for Customer Service.
 
 The dashboard includes various charts with graphical views of your organization's key performance indicators (KPIs).
 
-    ![A screenshot of a computer Description automatically
+ ![A screenshot of a computer Description automatically
 generated](./media/media24/image6.png)
 
 -    **Queue** - The Queue dashboard gives you a broad overview of the customer service experience in your organization by providing insights into how specific queues are operating.
 
-    ![A screenshot of a computer Description automatically
+  ![A screenshot of a computer Description automatically
 generated](./media/media24/image7.png)
 
 -    **Agent** - The Agent dashboard shows charts and KPIs that you can use to guide agents and understand overall agent performance.

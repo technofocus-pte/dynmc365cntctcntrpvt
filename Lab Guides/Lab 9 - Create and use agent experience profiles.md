@@ -10,7 +10,7 @@ agents and supervisors can use in their daily tasks to resolve customer
 issues.
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
-    center - https://admin.powerplatform.microsoft.com/ with the
+    center - !!https://admin.powerplatform.microsoft.com/!! with the
     credentials provided to execute the lab in the home tab. Select **> Environments>
     CustomerService Trial environment> Environment URL.**
 
@@ -32,11 +32,11 @@ generated](./media/media9/image2.png)
 3.  Enter the following details on the **Create a new agent experience
     profile** dialog.
 
-    - **Name:**  `Contoso Agent`
+    - **Name:**  !!Contoso Agent!!
 
-    - **Unique name:** `msdyn_custom_chatagent`
+    - **Unique name:** !!msdyn_custom_chatagent!!
 
-    - **Description:** `Contoso Agent`
+    - **Description:** !!Contoso Agent!!
 
     - Select **Create**.
 

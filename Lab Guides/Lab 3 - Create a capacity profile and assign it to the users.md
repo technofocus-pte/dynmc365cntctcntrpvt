@@ -40,18 +40,18 @@ you want to change the reset frequency.
 
     ![](./media/media3/image4.png)
 
-1.  Select the capacity profile created. Select **Users** Tab and Select
+5.  Select the capacity profile created. Select **Users** Tab and Select
     **Add user**
 
   ![A screenshot of a computer Description automatically
 generated](./media/media3/image5.png)
 
-2.  Select the admin user and **Add user**
+6.  Select the admin user and **Add user**
 
   ![A screenshot of a computer Description automatically
 generated](./media/media3/image6.png)
 
-3.  Select **Save and Close.** The capacity profile is assigned to the
+7.  Select **Save and Close.** The capacity profile is assigned to the
     admin user.
 
 ![A screenshot of a computer Description automatically

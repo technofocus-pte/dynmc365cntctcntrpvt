@@ -14,24 +14,24 @@ product, priority, case type, and description.
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image4.png)
 
-6.  Select one of the cases listed on the **Customer Service Agent
+2.  Select one of the cases listed on the **Customer Service Agent
     Dashboard**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image5.png)
 
-7.  The **Case summary** appears as a card on the case form. When you
+3.  The **Case summary** appears as a card on the case form. When you
     open a case, the **Summary** card is collapsed by default.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image6.png)
 
-8.  Expand the **Summary** tab.
+4.  Expand the **Summary** tab.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image7.png)
 
-9.  You can see the generated case summary.
+5.  You can see the generated case summary.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media25/image8.png)
@@ -42,15 +42,15 @@ You can ask free-form questions just as you'd ask your colleague or
 supervisor who might know the answers.
 
 1.  In the **Copilot** pane, which is opened on right side of the
-    screen, type ‘**What is Claudia Mazzanti issue**’ and select
+    screen, type !!What is Claudia Mazzanti issue!! and select
     **Send** icon.
 
 2.  You can now see that **Copilot** has answered your question.
 
 ![](./media/media25/image9.png)
 
-3.  You can ask more questions like, **what is the summary of the above
-    titled case?** and click on **Send** icon. Copilot will give
+3.  You can ask more questions like, !!what is the summary of the above
+    titled case?!! and click on **Send** icon. Copilot will give
     response to your question.
 
 ![](./media/media25/image10.png)

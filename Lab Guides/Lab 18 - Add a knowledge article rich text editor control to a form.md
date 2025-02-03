@@ -3,7 +3,7 @@
 **Objective** - In this Lab, you will be adding a knowledge rich text editor to a form.
 
 1.  Open a tab in the browser, paste the Power Apps URL –
-    <https://make.powerapps.com>
+    !!https://make.powerapps.com!!
 
 2.  Login with the credentials provided to execute the lab.
 

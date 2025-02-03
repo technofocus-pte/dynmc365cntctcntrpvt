@@ -125,17 +125,17 @@ generated](./media/media9/image12.png)
   work on their assigned tasks. The following productivity tool options
   are available:
 
-  - Default mode
+      - Default mode
 
-  - Smart assist
+      - Smart assist
 
-  - Agent scripts
+      - Agent scripts
 
-  - Microsoft Teams
+      - Microsoft Teams
 
-  - Knowledge search
+      - Knowledge search
 
-  - Copilot help pane
+      - Copilot help pane
 
 19. Turn on the toggle against the option in the **Productivity Pane** as per the screnshot to
 enable it for the agent. Select **Save and Close**

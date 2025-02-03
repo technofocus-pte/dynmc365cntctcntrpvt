@@ -145,7 +145,7 @@ generated](./media/media5/image17.png)
     dropdown next to **Select operation hours** and then click **+
     Create new**.
 
-![A screenshot of a computer Description automatically
+     [A screenshot of a computer Description automatically
 generated](./media/media5/image18.png)
     
 11.  On the **New Operating Hour** page, enter **Contoso operation
@@ -154,7 +154,7 @@ generated](./media/media5/image18.png)
 12.  Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.
 
-![A screenshot of a computer Description automatically
+        ![A screenshot of a computer Description automatically
 generated](./media/media5/image19.png)
 
 13. On the **Contoso queue for supervisors** page, click **+** **Set

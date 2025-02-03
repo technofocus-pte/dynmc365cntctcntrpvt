@@ -30,10 +30,10 @@ generated](./media/media21/image3.png)
 
     3.  Select **Save**
 
-    ![](./media/media21/image4.png)
+        ![](./media/media21/image4.png)
 
-It takes 24 hours for the data to be preprocessed for the first time
-use.
+        It takes 24 hours for the data to be preprocessed for the first time
+        use.
 
 5. Select **Save** on the Microsoft Teams collaboration and chat to
 reflect the changes

@@ -236,7 +236,7 @@ generated](./media/media18/image45.jpg)
 
 7.  Select **Save**.
 
-10. Use the trigger phase and run the topic to verify the flow.
+8. Use the trigger phase and run the topic to verify the flow.
 
 **Tip**
 

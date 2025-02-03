@@ -8,7 +8,7 @@
 
 ![](./media/media24/image4.png)
 
-6.  The Dashboard is displayed accordingly.
+2.  The Dashboard is displayed accordingly.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media24/image5.png)

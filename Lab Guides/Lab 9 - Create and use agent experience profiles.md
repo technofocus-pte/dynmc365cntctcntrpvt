@@ -26,7 +26,7 @@ generated](./media/media9/image1.png)
 
 5.  Select **New**
 
-  ![A screenshot of a computer Description automatically
+      ![A screenshot of a computer Description automatically
 generated](./media/media9/image2.png)
 
 6.  Enter the following details on the **Create a new agent experience
@@ -40,11 +40,11 @@ generated](./media/media9/image2.png)
 
     - Select **Create**.
 
-  ![](./media/media9/image3.png)
+      ![](./media/media9/image3.png)
 
 7.  An agent experience profile is created.
 
-  ![A screenshot of a computer Description automatically
+      ![A screenshot of a computer Description automatically
 generated](./media/media9/image4.png)
 
 ## Task 2 - Assign users, templates, configure productivity pane, channels
@@ -89,10 +89,10 @@ generated](./media/media9/image5.png)
 
 12. Select the user **Megan Bowen**. Select **Add.**
 
-  ![A screenshot of a computer Description automatically
+      ![A screenshot of a computer Description automatically
 generated](./media/media9/image6.png)
 
-  ![](./media/media9/image7.png)
+      ![](./media/media9/image7.png)
 
 13. Select **Add entity session template** to link a session template to
   the profile.
@@ -111,14 +111,14 @@ generated](./media/media9/image7.5.png)
         
 16. Select **Add.** Select **Save and Close.**
 
-  ![](./media/media9/image10.png)
+      ![](./media/media9/image10.png)
 
-  ![A screenshot of a computer Description automatically
+      ![A screenshot of a computer Description automatically
 generated](./media/media9/image11.png)
 
 17. In the **Productivity pane**, select **Turn on** 
 
-  ![A screenshot of a computer Description automatically
+      ![A screenshot of a computer Description automatically
 generated](./media/media9/image12.png)
 
 18. To enable the productivity tools that the agents can access when they
@@ -140,9 +140,9 @@ generated](./media/media9/image12.png)
 19. Turn on the toggle against the option in the **Productivity Pane** as per the screnshot to
 enable it for the agent. Select **Save and Close**
 
-  ![](./media/media9/image13.png)
+      ![](./media/media9/image13.png)
 
-  ![A screenshot of a computer Description automatically
+      ![A screenshot of a computer Description automatically
 generated](./media/media9/image14.png)
 
 

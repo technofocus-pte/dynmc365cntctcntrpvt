@@ -34,7 +34,7 @@ The bot user is first created as an application user and then
 the **Omnichannel agent** role is assigned to it.
 
 1.  Open a new tab in the browser and launch the PowerPlatform admin
-    center - https://admin.powerplatform.com/.
+    center - !!https://admin.powerplatform.com/!!.
 
 2.  Select **Environments** on the left navigation pane.
 

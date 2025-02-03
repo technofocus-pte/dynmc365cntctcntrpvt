@@ -194,11 +194,11 @@ generated](./media/media11/image32.png)
 
 4.  On the **New Agent script** page, specify the following:
 
-    1.  Name – `Chat session script`
+    1.  Name – !!Chat session script!!
 
-    2.  Unique Name – `Contoso_script`
+    2.  Unique Name – !!Contoso_script!!
 
-    3.  Description - `This agent script is used for chat sessions.`
+    3.  Description - !!This agent script is used for chat sessions.!!
 
     ![](./media/media11/image33.png)
 
@@ -215,11 +215,11 @@ generated](./media/media11/image35.png)
 
 7.  Specify the following fields in the **New Agent script step** form.
 
-    1.  Name - `Greet the customer`
+    1.  Name - !!Greet the customer!!
 
-    2.  Unique Name - `Greet_script`
+    2.  Unique Name - !!Greet_script!!
 
-    3.  **Order** – `1`
+    3.  **Order** – !!1!!
 
     4.  **Action type – Text**
 

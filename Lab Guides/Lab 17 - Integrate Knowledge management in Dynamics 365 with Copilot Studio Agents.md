@@ -7,7 +7,7 @@
 To set connection references:
 
 1.  Open a new tab and navigate
-    to [make.powerapps.com](https://make.powerapps.com/).
+    to Power Apps portal !!https://make.powerapps.com/!!.
 
 2.  Select **Customer Service Trial** environment on the top right corner of
     the home page.
@@ -94,7 +94,7 @@ generated](./media/media18/image34.jpg)
 ## Task 2 – Create a Copilot Bot
 
 1.  Open a tab in the browser and go to the Copilot Studio home page -
-    <https://copilotstudio.microsoft.com/> . Login with the credentials
+    !!https://copilotstudio.microsoft.com/!! . Login with the credentials
     provided to execute the lab.
 
 2.  Select the Environment as **Customer Service Trial** on top right
@@ -167,15 +167,15 @@ generated](./media/media18/image13.png)
 7.  The **Phrases** secondary panel appears. Under **Add phrases**, Add
     the trigger phrase and click on plus icon. Enter the below phrases.
 
-    - Store hours
+    - !!Store hours!!
 
-    - What time do you open
+    - !!What time do you open!!
 
-    - Is the store open today
+    - !!Is the store open today!!
 
-    - Are you open on Sunday
+    - !!Are you open on Sunday!!
 
-    - Hours of operation
+    - !!Hours of operation!!
 
 8.  Your agent needs 5 to 10 trigger phrases to train the AI model to
     understand your customers' responses. To add more trigger phrases,
@@ -183,8 +183,6 @@ generated](./media/media18/image13.png)
 
     - Select the **Add** icon ![](./media/media18/image14.png) next to the text
       field and enter the desired phrase.
-
-    &nbsp;
 
     - Enter a phrase and select **Enter**.
 

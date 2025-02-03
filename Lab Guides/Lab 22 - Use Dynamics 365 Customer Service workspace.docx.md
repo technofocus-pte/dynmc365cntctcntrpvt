@@ -8,7 +8,7 @@
 
 1.  To navigate to your **Customer Service workspace**, go to
     the **Power Platform admin center** using the given
-    link [https://admin.powerplatform.microsoft.com](https://admin.powerplatform.microsoft.com/).
+    link !!https://admin.powerplatform.microsoft.com/!!.
 
 2.  Select the **Environments** tab and then select **Customer Service
     Trial** environment.

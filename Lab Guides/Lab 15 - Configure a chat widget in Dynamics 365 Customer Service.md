@@ -59,7 +59,7 @@ generated](./media/media16/image15.png)
 
 10.  Select **Confirm**.
 
-     ![A screenshot of a chat Description automatically
+     ![A screenshot of a computer Description automatically
 generated](./media/media16/image18.png)
 
       ![](./media/media16/image19.png)

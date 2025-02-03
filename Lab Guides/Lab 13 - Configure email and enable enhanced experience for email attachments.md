@@ -4,7 +4,7 @@
 
 ## Task 1 - Enable Power Apps free trial
 
-1. Open a tab and paste the link of the Power Apps - https://powerapps.microsoft.com/
+1. Open a tab and paste the link of the Power Apps - !!https://powerapps.microsoft.com/!!
 
 2. Login with the credentials provided to execute the lab. 
 

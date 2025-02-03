@@ -7,7 +7,7 @@
 ### Task 1 – Register an app in Microsoft Entra
 
 1.  Open a new tab and open Microsoft Entra Admin center -
-    <https://entra.microsoft.com/>.
+    !!https://entra.microsoft.com/!!.
 
 2.  Navigate to **Identity \> Applications \> App registration**.
 

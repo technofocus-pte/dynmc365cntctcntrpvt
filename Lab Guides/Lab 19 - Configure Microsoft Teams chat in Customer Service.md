@@ -41,9 +41,9 @@ generated](./media/media19/image6.1.png)
 
 10. Next, set the toggle for **Turn on Confidential Labels** to **Yes**. This setting requires the tenant admin permission.
 
-12. **Accept** the Consent.
+11. **Accept** the Consent.
 
-13. Select **Save**.
+12. Select **Save**.
 
       ![A screenshot of a computer Description automatically
 generated](./media/media19/image19.15.jpg)

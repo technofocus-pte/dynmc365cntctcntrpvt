@@ -106,7 +106,7 @@ generated](./media/media18/image1.png)
 3.  Select **Agents** in the left navigation.
 
      ![A screenshot of a phone Description automatically
- generated](./media/media18/image2.png)
+generated](./media/media18/image2.png)
 
 4.  Select **+ New agent**.
 
@@ -115,13 +115,16 @@ generated](./media/media18/image3.png)
 
 5.  Select **Skip to configure**
 
-    ![](./media/media18/image4.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media18/image4.png)
 
 6.  Select **Create**.
 
-    ![](./media/media18/image5.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media18/image5.png)
 
-    ![](./media/media18/image6.png)
+    ![A screenshot of a computer Description automatically
+generated](./media/media18/image6.png)
 
 7.  Your Agent is created.
 
@@ -186,8 +189,8 @@ generated](./media/media18/image13.png)
 
     - Enter a phrase and select **Enter**.
 
-Note - You can include punctuation in a trigger phrase, but it's best to
-use short phrases rather than long sentences.
+        **Note** - You can include punctuation in a trigger phrase, but it's best to
+        use short phrases rather than long sentences.
 
    ![A screenshot of a computer Description automatically
 generated](./media/media18/image15.png)
@@ -199,7 +202,8 @@ generated](./media/media18/image16.png)
 
 10.  Select **Save**.
 
-        ![](./media/media18/image17.png)
+        ![A screenshot of a computer Description automatically
+generated](./media/media18/image17.png)
 
 ### Task 4 - Add the action to the Copilot Studio topic
 

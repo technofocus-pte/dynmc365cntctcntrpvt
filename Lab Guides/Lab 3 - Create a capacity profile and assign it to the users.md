@@ -6,17 +6,17 @@ delete it.
 
 1.  On the Customer Service admin center, select **User management** under **Customer support**.
 
-  ![A screenshot of a phone Description automatically
+    ![A screenshot of a phone Description automatically
 generated](./media/media3/image1.png)
 
 2.  Select the **Manage** option for **Capacity profile**.
 
-  ![A black text on a white background Description automatically
+    ![A black text on a white background Description automatically
 generated](./media/media3/image2.png)
 
 3.  On the **Capacity profiles** page, select **Create new**.
 
-  ![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media3/image3.png)
 
 4.  On the **Details** tab of the **Create capacity profile** dialog
@@ -31,10 +31,10 @@ generated](./media/media3/image3.png)
       reset for agents. Select **Immediate**
 
       **Note** - Once configured, you must recreate the capacity profile if
-you want to change the reset frequency.
+      you want to change the reset frequency.
 
     - **Assignment blocking**: Set the toggle to **Yes**. When the work item
-  limit is met, the agent isn't assigned a new work item automatically.
+      limit is met, the agent isn't assigned a new work item automatically.
 
     - Select **Save and Close**
 
@@ -43,18 +43,18 @@ you want to change the reset frequency.
 5.  Select the capacity profile created. Select **Users** Tab and Select
     **Add user**
 
-  ![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media3/image5.png)
 
 6.  Select the admin user and **Add user**
 
-  ![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media3/image6.png)
 
 7.  Select **Save and Close.** The capacity profile is assigned to the
     admin user.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media3/image7.png)
 
 **Summary** -  You successfully have created Capacity profile and assigned administrator to the capacity

@@ -59,8 +59,6 @@ generated](./media/media2/image20.jpg)
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image21.jpg)
 
-7.  Select **Save & Close**.
-
 ## Task 3 - Make Copilot available to agents
 
 1.  On the left navigation pane, Under **Agent

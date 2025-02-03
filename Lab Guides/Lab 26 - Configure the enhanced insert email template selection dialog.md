@@ -5,7 +5,7 @@
 ## Task 1 - Enable the enhanced email selection dialog
 
 1. Open a new tab in the browser, navigate to the Power
-    Apps - https://make.preview.powerapps.com/, select the **Customer
+    Apps - !!https://make.preview.powerapps.com/!!, select the **Customer
     Service Trial** environment.
 
 2. Select **Solutions** on the left navigation pane.

@@ -14,25 +14,25 @@ must be a Power Platform administrator or Dynamics 365 administrator.
     center - !!https://admin.powerplatform.microsoft.com/!! with the
     credentials provided to execute the lab in the home tab.
  
-2.  In the left side panel, select **Environments**.
+3.  In the left side panel, select **Environments**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image10.png)
 
-3.  Select your **Customer Service Trial** environment.
+4.  Select your **Customer Service Trial** environment.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image11.png)
 
-4.  You will find the **Environment URL** under **Details**. This will take you to Customer Service page.
+5.  You will find the **Environment URL** under **Details**. This will take you to Customer Service page.
 
-5. On the Power Platform admin center page, scroll down until you see the **Generative AI features** card. Now,
+6. On the Power Platform admin center page, scroll down until you see the **Generative AI features** card. Now,
     select **Edit**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image12.png)
 
-5.  Review the terms of use and select the **Bing Search** checkbox if
+7.  Review the terms of use and select the **Bing Search** checkbox if
     it is not selected. When the **Bing Search** feature is turned on,
     your copilot in Microsoft Copilot Studio can use the data sources
     you provided, but it can use Bing's APIs to index the results better
@@ -41,7 +41,7 @@ generated](./media/media2/image12.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image13.png)
 
-6.  If any changes have been made, select **Save** to confirm them;
+8.  If any changes have been made, select **Save** to confirm them;
     otherwise, select **Cancel**.
 
 ## Task 2 - Set up your Copilot
@@ -53,8 +53,8 @@ generated](./media/media2/image13.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image20.jpg)
 
-5.  Select the checkbox for **Ask a question**.
-6.  Select **Save and close**.
+4.  Select the checkbox for **Ask a question**.
+5.  Select **Save and close**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image21.jpg)

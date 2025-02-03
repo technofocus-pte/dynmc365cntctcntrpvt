@@ -16,20 +16,20 @@ issues.
 
 2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
    
-4.  Select **Customer Service Admin center** from the list of Apps.
+3.  Select **Customer Service Admin center** from the list of Apps.
 
-3.  Go to **Agent experience profiles** in **Agent
+4.  Go to **Agent experience profiles** in **Agent
     experience** \> **Workspaces**.
 
     ![A screenshot of a phone Description automatically
 generated](./media/media9/image1.png)
 
-2.  Select **New**
+5.  Select **New**
 
   ![A screenshot of a computer Description automatically
 generated](./media/media9/image2.png)
 
-3.  Enter the following details on the **Create a new agent experience
+6.  Enter the following details on the **Create a new agent experience
     profile** dialog.
 
     - **Name:**  !!Contoso Agent!!
@@ -42,7 +42,7 @@ generated](./media/media9/image2.png)
 
   ![](./media/media9/image3.png)
 
-4.  An agent experience profile is created.
+7.  An agent experience profile is created.
 
   ![A screenshot of a computer Description automatically
 generated](./media/media9/image4.png)

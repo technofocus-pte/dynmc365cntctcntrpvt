@@ -16,12 +16,12 @@ generated](./media/media1/image0.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image1.png)
 
-2.  Select Country/Region - **United States** and enter your Phone number and **submit**.
+4.  Select Country/Region - **United States** and enter your Phone number and **submit**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image2.png)
 
-3.  You will be navigated to **Customer Service workspace**.
+5.  You will be navigated to **Customer Service workspace**.
 
     **Note** - If you are prompted with a pop-up for using a microphone, click on
     **Allow while visiting the site**. If you are not prompted, you can
@@ -30,7 +30,7 @@ generated](./media/media1/image2.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image3.png)
 
-5.  Now you are on the **Customer Service Workspace** home page by default.
+6.  Now you are on the **Customer Service Workspace** home page by default.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image4.png)

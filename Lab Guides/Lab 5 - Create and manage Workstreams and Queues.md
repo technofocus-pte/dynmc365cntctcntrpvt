@@ -16,20 +16,20 @@ admin center app.
 
 2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
    
-4.  Select **Customer Service Admin center** from the list of Apps.
+3.  Select **Customer Service Admin center** from the list of Apps.
 
-5.  In the site map of admin center,
+4.  In the site map of admin center,
     select **Workstreams** under **Customer support**.
 
     ![A screenshot of a phone Description automatically
 generated](./media/media5/image1.png)
 
-6.  Select **New workstream**.
+5.  Select **New workstream**.
 
     ![A screenshot of a chat Description automatically
 generated](./media/media5/image2.png)
 
-7.  In the **Create a workstream** dialog, enter the following details:
+6.  In the **Create a workstream** dialog, enter the following details:
 
     - **Name**: Enter an intuitive name - `Contoso chat workstream`.
 
@@ -124,7 +124,7 @@ generated](./media/media5/image11.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image15.png)
     
-    The users are added to the queue.
+7.  The users are added to the queue.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image14.png)
@@ -148,25 +148,25 @@ generated](./media/media5/image17.png)
 ![A screenshot of a computer Description automatically
 generated](./media/media5/image18.png)
     
-12.  On the **New Operating Hour** page, enter **Contoso operation
+11.  On the **New Operating Hour** page, enter **Contoso operation
     hours** in the **Name** field and **Description** field.
 
-13.  Click **Save & Close** to navigate back to the **Contoso queue for
+12.  Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.
 
 ![A screenshot of a computer Description automatically
 generated](./media/media5/image19.png)
 
-12. On the **Contoso queue for supervisors** page, click **+** **Set
+13. On the **Contoso queue for supervisors** page, click **+** **Set
     operation hours** again.
 
-13. On the **Set operation hours** pane, search for and select **Contoso
+14. On the **Set operation hours** pane, search for and select **Contoso
     operation hours** and click **Save and close.**
 
     ![A screenshot of a computer screen Description automatically
 generated](./media/media5/image20.png)
 
-14. The operation hours record that you selected is configured for the
+15. The operation hours record that you selected is configured for the
     queue.
 
     ![A screenshot of a computer Description automatically

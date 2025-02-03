@@ -7,8 +7,7 @@
 1.  In the Customer Service workspace, select the **Site Map** and then
     select **Queues**.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media23-new/image1.png)
+    ![A screenshot of a computer Description automatically generated](./media/media23-new/image1.png)
 
 2.  From the dropdown for **Items, I am working on**, select **All
     items**.

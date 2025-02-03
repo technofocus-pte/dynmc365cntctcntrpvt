@@ -27,7 +27,7 @@ generated](./media/media8/image2.png)
 
     **Description** - !!This record is used to define the skill level of the Spanish language!!
 
-4.  Select **Save & Close**.
+5.  Select **Save & Close**.
 
     ![](./media/media8/image3.png)
 
@@ -137,13 +137,13 @@ generated](./media/media8/image14.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image15.png)
 
-7.  Select the **General** tab and then select **Save & Close** to
+9.  Select the **General** tab and then select **Save & Close** to
     navigate back to your admin User page.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image16.png)
 
-8.  On the **MOD Administrator** page, select **Save & Close**.
+10.  On the **MOD Administrator** page, select **Save & Close**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image17.png)

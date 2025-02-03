@@ -21,11 +21,11 @@ generated](./media/media8/image2.png)
 
 4.  Specify the following in the **New Characteristic** page.
 
-    **Name** - !!`Spanish`!!
+    **Name** - !!Spanish!!
 
     **Type** - Skill
 
-    **Description** - !!`This record is used to define the skill level of the Spanish language`!!
+    **Description** - !!This record is used to define the skill level of the Spanish language!!
 
 4.  Select **Save & Close**.
 
@@ -49,11 +49,11 @@ generated](./media/media8/image5.png)
 
 4.  Specify the following in the **New Rating Model** page.
 
-    **Name** - `Language rating model`
+    **Name** - !!Language rating model!!
 
-    **Min Rating Value** - `1`
+    **Min Rating Value** - !!1!!
 
-    **Max Rating Value** - `10`
+    **Max Rating Value** - !!10!!
 
 
 5.  Select **Save**.
@@ -71,9 +71,9 @@ generated](./media/media8/image7.png)
 
 8.  Specify the following.
 
-    **Name** - `Language rating value`
+    **Name** - !!Language rating value!!
 
-    **Value** - `10`
+    **Value** - !!10!!
 
 
 9.  Select **Save & Close** to save and add the rating value to the
@@ -122,7 +122,7 @@ automatically generated](./media/media8/image13.png)
 
 7.  Enter the following details on the **New Bookable Resource** page.
 
-    1.  **Name** – `Mark Brown`
+    1.  **Name** – !!Mark Brown!!
 
     2.  **Time Zone** - Central Time (US & Canada)
 

@@ -11,7 +11,7 @@ must be a Power Platform administrator or Dynamics 365 administrator.
 1.  You can launch the Customer Service Admin center from power platform admin center. 
 
 2. Open a new tab in the browser. Sign in to the Power Platform admin
-    center - https://admin.powerplatform.microsoft.com/ with the
+    center - !!https://admin.powerplatform.microsoft.com/!! with the
     credentials provided to execute the lab in the home tab.
  
 2.  In the left side panel, select **Environments**.

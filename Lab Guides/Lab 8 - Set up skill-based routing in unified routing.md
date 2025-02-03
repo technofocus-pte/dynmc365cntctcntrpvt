@@ -145,7 +145,7 @@ generated](./media/media8/image16.png)
 
 10.  On the **MOD Administrator** page, select **Save & Close**.
 
-    ![A screenshot of a computer Description automatically
+        ![A screenshot of a computer Description automatically
 generated](./media/media8/image17.png)
 
 ## Task 4: Assign agents to skill

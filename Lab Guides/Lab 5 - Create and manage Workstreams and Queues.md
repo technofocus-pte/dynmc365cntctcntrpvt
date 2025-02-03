@@ -139,7 +139,7 @@ generated](./media/media5/image16.png)
 10.  To set the operating hours, in **Operation hours**, select **Set
     operation hours**.
 
-    ![A screenshot of a computer Description automatically
+        ![A screenshot of a computer Description automatically
 generated](./media/media5/image17.png)
 
 11.  On the **Set operation hours** dialog that appears, click the

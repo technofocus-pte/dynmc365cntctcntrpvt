@@ -21,11 +21,11 @@ generated](./media/media8/image2.png)
 
 4.  Specify the following in the **New Characteristic** page.
 
-    **Name** - `Spanish`
+    **Name** - !!`Spanish`!!
 
     **Type** - Skill
 
-    **Description** - `This record is used to define the skill level of the Spanish language`
+    **Description** - !!`This record is used to define the skill level of the Spanish language`!!
 
 4.  Select **Save & Close**.
 

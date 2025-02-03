@@ -123,15 +123,15 @@ generated](./media/media24-new/image15.png)
 10. Enter the following information on the **New Case** page and then
     select **Save**.
 
-    - **Type** – Problem
+    - **Type** – !!Problem!!
 
     - **Customer** – Trey Research
 
-    - **Title** – Minerals level is not maintained
+    - **Title** – !!Minerals level is not maintained!!
 
     - **Product** – Water Filtration System
 
-    - **Subject** – Water supply
+    - **Subject** – !!Water supply!!
 
     - **Origin** – Email
 

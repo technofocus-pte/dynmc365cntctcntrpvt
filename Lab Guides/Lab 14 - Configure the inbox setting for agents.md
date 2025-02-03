@@ -10,11 +10,11 @@ your preferred inbox settings.
 
 1.  On the Customer Service admin center app, under **Agent experience**, select **Workspaces**.
 
-3.  In **Agent experience profiles** section, select **Manage**.
+2.  In **Agent experience profiles** section, select **Manage**.
 
-4. Select the **Contoso Agent** profile.
+3. Select the **Contoso Agent** profile.
 
-5. Scroll down and select **Edit** under **Inbox**.
+4. Scroll down and select **Edit** under **Inbox**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media14/image0.png)

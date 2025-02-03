@@ -139,35 +139,35 @@ generated](./media/media5/image16.png)
 10.  To set the operating hours, in **Operation hours**, select **Set
     operation hours**.
 
-        ![A screenshot of a computer Description automatically
+     ![A screenshot of a computer Description automatically
 generated](./media/media5/image17.png)
 
-11.  On the **Set operation hours** dialog that appears, click the
+12.  On the **Set operation hours** dialog that appears, click the
     dropdown next to **Select operation hours** and then click **+
     Create new**.
 
      [A screenshot of a computer Description automatically
 generated](./media/media5/image18.png)
     
-12.  On the **New Operating Hour** page, enter **Contoso operation
+13.  On the **New Operating Hour** page, enter **Contoso operation
     hours** in the **Name** field and **Description** field.
 
-13.  Click **Save & Close** to navigate back to the **Contoso queue for
+14.  Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.
 
         ![A screenshot of a computer Description automatically
 generated](./media/media5/image19.png)
 
-14. On the **Contoso queue for supervisors** page, click **+** **Set
+15. On the **Contoso queue for supervisors** page, click **+** **Set
     operation hours** again.
 
-15. On the **Set operation hours** pane, search for and select **Contoso
+16. On the **Set operation hours** pane, search for and select **Contoso
     operation hours** and click **Save and close.**
 
     ![A screenshot of a computer screen Description automatically
 generated](./media/media5/image20.png)
 
-16. The operation hours record that you selected is configured for the
+17. The operation hours record that you selected is configured for the
     queue.
 
     ![A screenshot of a computer Description automatically

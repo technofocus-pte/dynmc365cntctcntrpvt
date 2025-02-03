@@ -11,29 +11,29 @@ product, priority, case type, and description.
 
 1. In the Customer Service workspace, select the **Customer Service Agent Dashboard**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media25/image4.png)
 
 2.  Select one of the cases listed on the **Customer Service Agent
     Dashboard**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media25/image5.png)
 
 3.  The **Case summary** appears as a card on the case form. When you
     open a case, the **Summary** card is collapsed by default.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media25/image6.png)
 
 4.  Expand the **Summary** tab.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media25/image7.png)
 
 5.  You can see the generated case summary.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media25/image8.png)
 
 ## Task 2: Draft questions
@@ -47,17 +47,17 @@ supervisor who might know the answers.
 
 2.  You can now see that **Copilot** has answered your question.
 
-![](./media/media25/image9.png)
+    ![](./media/media25/image9.png)
 
 3.  You can ask more questions like, !!what is the summary of the above
     titled case?!! and click on **Send** icon. Copilot will give
     response to your question.
 
-![](./media/media25/image10.png)
+    ![](./media/media25/image10.png)
 
 4.  Enter the case number and view the copilot response
 
-![](./media/media25/image11.png)
+    ![](./media/media25/image11.png)
 
 5.  If you're satisfied with the response Copilot provides, you can use
     the whole response or a part of it to answer the customer's
@@ -67,7 +67,7 @@ supervisor who might know the answers.
   voice conversation. Select the **Copy** icon to copy the entire
   response to the clipboard.
 
-![](./media/media25/image12.png)
+    ![](./media/media25/image12.png)
 
 > **Note**: When you're in an active digital messaging conversation,
 > select **Send to customer** to open an editing window where you can
@@ -79,17 +79,17 @@ supervisor who might know the answers.
 
 1.  Select “**Write an email**” tab on the **Copilot** pane.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
  generated](./media/media25/image13.png)
 
 2.  On the case overview page, select **Related** tab and then select
     **Activities.**
 
-![](./media/media25/image14.png)
+    ![](./media/media25/image14.png)
 
 3.  Select **+New Activity \> Email**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media25/image15.png)
 
 4.  When you start to draft an email, Copilot opens in the right-side
@@ -114,33 +114,33 @@ generated](./media/media25/image15.png)
 
 - **Custom**: Allows you to provide your own prompt for the reply.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media25/image16.png)
 
-![](./media/media25/image17.png)
+    ![](./media/media25/image17.png)
 
 5.  Select **Empathize with feedback** from the predefined prompts list.
 
 6.  You can see, **Copilot** has generated suggestion.
 
-![](./media/media25/image18.png)
+    ![](./media/media25/image18.png)
 
 7.  You can now review the response. Make any necessary changes, and
     then select **Copy to email** to copy the entire response to your
     draft. Or select part of the response and use the right-click menu
     to copy and paste the selection.
 
-![A screenshot of a message Description automatically
+    ![A screenshot of a message Description automatically
 generated](./media/media25/image19.png)
 
 8.  Response is now available in body part on left side.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media25/image20.png)
 
 9.  Now you can send the email or save it.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/media25/image21.png)
 
 **Summary** - You used Copilot to summarize cases, draft email and questions.

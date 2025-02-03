@@ -60,7 +60,7 @@ To configure multiple views for the inbox, complete the following steps.
 
 4.  On the **Add a new view** page, enter the following details:
 
-    - **Name**: Enter – `Multiple View`
+    - **Name**: !!Multiple View!!
 
     - **Agent visibility**: Select **Show**
 

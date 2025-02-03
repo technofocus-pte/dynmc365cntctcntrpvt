@@ -82,7 +82,7 @@ generated](./media/media17/image6.png)
 
     ![](./media/media17/image8.png)
 
-1.  In the **Knowledge search experience** section, enable the following
+5.  In the **Knowledge search experience** section, enable the following
     as required
 
     - **Enable suggest-as-you-type**
@@ -93,13 +93,13 @@ generated](./media/media17/image6.png)
 
     ![](./media/media17/image9.png)
 
-7.  In the **Global search knowledge configuration** section, switch
+6.  In the **Global search knowledge configuration** section, switch
     the **Enable Kb preview mode from global search option** toggle
     to **Yes**.
 
     ![](./media/media17/image10.png)
 
-8.  Scroll up towards the top of the page and select **Save**.
+7.  Scroll up towards the top of the page and select **Save**.
 
 ## Task 3 - Creating Categories 
 

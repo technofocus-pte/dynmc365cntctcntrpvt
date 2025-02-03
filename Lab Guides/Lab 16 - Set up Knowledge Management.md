@@ -7,7 +7,7 @@
 ## Task 1 - Record Types section
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
-    center - https://admin.powerplatform.microsoft.com/ with the
+    center - !!https://admin.powerplatform.microsoft.com/!! with the
     credentials provided to execute the lab in the home tab. Select **> Environments>
     CustomerService Trial environment> Environment URL.**
 
@@ -111,11 +111,11 @@ create and manage a logical structure of categories for your records.
 
 3.  Enter the required information in the **General** section:
 
-    - **Title**: Contoso Demo Category
+    - **Title**: !!Contoso Demo Category!!
 
-    - **Description**: Contoso Demo Category
+    - **Description**: !!Contoso Demo Category!!
 
-    - **Display Order**: 1
+    - **Display Order**: !!1!!
 
     - Select **Save & Close**
 

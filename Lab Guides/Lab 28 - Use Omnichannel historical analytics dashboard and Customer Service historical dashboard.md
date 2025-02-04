@@ -6,7 +6,7 @@
 
 1.  On the **Customer Service workspace** select the Site Map and then select **Omnichannel historical analytic -Insights**.
 
-    ![](./media/media24/image4.png)
+        ![](./media/media24/image4.png)
 
 2.  The Dashboard is displayed accordingly.
 

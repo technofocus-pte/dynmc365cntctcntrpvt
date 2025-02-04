@@ -158,15 +158,15 @@ generated](./media/media18/image34.jpg)
 7.  The **Phrases** secondary panel appears. Under **Add phrases**, Add
     the trigger phrase and click on plus icon. Enter the below phrases.
 
-        - !!Store hours!!
+    - !!Store hours!!
 
-        - !!What time do you open!!
+    - !!What time do you open!!
 
-        - !!Is the store open today!!
+    - !!Is the store open today!!
 
-        - !!Are you open on Sunday!!
+    - !!Are you open on Sunday!!
 
-        - !!Hours of operation!!
+    - !!Hours of operation!!
 
 8.  Your agent needs 5 to 10 trigger phrases to train the AI model to
     understand your customers' responses. To add more trigger phrases,

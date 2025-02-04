@@ -84,8 +84,7 @@ supervisor who might know the answers.
 
     ![](./media/media25/image15.png)
 
-4.  When you start to draft an email, Copilot opens in the right-side
-    panel and presents five predefined prompts and one custom prompt:
+4.  When you start to draft an email, Copilot opens in the right-side  panel and presents five predefined prompts and one custom prompt:
 
     - **Suggest a call**: Drafts a reply that suggests a call with the
   customer today or tomorrow.

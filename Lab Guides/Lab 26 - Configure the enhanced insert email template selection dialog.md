@@ -4,14 +4,11 @@
 
 ## Task 1 - Enable the enhanced email selection dialog
 
-1. Open a new tab in the browser, navigate to the Power
-    Apps - !!https://make.preview.powerapps.com/!!, select the **Customer
-    Service Trial** environment.
+1. Open a new tab in the browser, navigate to the Power Apps - !!https://make.preview.powerapps.com/!!, select the **Customer Service Trial** environment.
 
 2. Select **Solutions** on the left navigation pane.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media23/image1.png)
+    ![A screenshot of a computer Description automatically generated](./media/media23/image1.png)
 
 3.  Click on **New Solution**
 
@@ -25,40 +22,39 @@ generated](./media/media23/image1.png)
 
     3.  Select **Create**
 
-      ![](./media/media23/image14.jpg)
+    ![](./media/media23/image14.jpg)
 
 5.  Select **Add Existing** \> **More** \> **Setting**.
 
-      ![](./media/media23/image4.png)
+    ![](./media/media23/image4.png)
 
 6.  On the **Add existing Setting Definition** pane, search and select
     **Enable the New Insert Template Dialog** option and then
     select **Next**.
 
-     ![](./media/media23/image5.png)
+    ![](./media/media23/image5.png)
 
 7.  Select **Add** on the **Selected Setting Definition**.
 
-      ![](./media/media23/image6.png)
+    ![](./media/media23/image6.png)
 
 8.  The **Enable the New Insert Template Dialog** option is added to
     your solution. Select **Edit**.
 
-      ![](./media/media23/image7.png)
+    ![](./media/media23/image7.png)
 
 9.  Set the **Setting environment value** option to **Yes** on
     the **Edit Enable the New Insert Template Dialog** pane. Select **Save**.    
 
-      ![](./media/media23/image8.png)
+    ![](./media/media23/image8.png)
 
-      ![](./media/media23/image9.png)
+    ![](./media/media23/image9.png)
 
 11. Unselect and Select **Publish All Customizations**.
 
-      ![](./media/media23/image10.png)
+    ![](./media/media23/image10.png)
 
-      ![A screenshot of a computer Description automatically
-generated](./media/media23/image11.png)
+    ![A screenshot of a computer Description automatically generated](./media/media23/image11.png)
 
 ## Task 2 - Disable the enhanced email selection dialog for an app
 
@@ -77,8 +73,7 @@ following steps:
     selection dialog. The app is added to the solution. For this lab, we
     are not selecting any app. Hence select **Cancel**
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media23/image13.png)
+    ![A screenshot of a computer Description automatically generated](./media/media23/image13.png)
 
 **Note** -
 

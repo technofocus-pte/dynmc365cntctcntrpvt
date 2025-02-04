@@ -30,8 +30,7 @@ generated](./media/media21/image3.png)
 
     3.  Select **Save**
 
-        ![A screenshot of a computer Description automatically
-generated](./media/media21/image4.png)
+        ![A screenshot of a computer Description automatically generated](./media/media21/image4.png)
 
         It takes 24 hours for the data to be preprocessed for the first time
         use.

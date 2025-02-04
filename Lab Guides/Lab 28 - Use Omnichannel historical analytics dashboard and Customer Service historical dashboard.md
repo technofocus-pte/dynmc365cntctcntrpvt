@@ -6,11 +6,11 @@
 
 1.  On the **Customer Service workspace** select the Site Map and then select **Omnichannel historical analytic -Insights**.
 
-        ![](./media/media24/image4.png)
+   ![](./media/media24/image4.png)
 
 2.  The Dashboard is displayed accordingly.
 
-        ![A screenshot of a computer Description automatically generated](./media/media24/image5.png)
+   ![A screenshot of a computer Description automatically generated](./media/media24/image5.png)
 
 You have tabs for each category – **Conversation, Queue, Agent, Bot and
 Topics.** You can click on each tab to explore each category.

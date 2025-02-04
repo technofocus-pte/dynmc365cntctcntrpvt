@@ -1,4 +1,4 @@
-# Lab - Use Dynamics 365 Customer Service workspace
+# Lab 22 - Use Dynamics 365 Customer Service workspace
 
 **Objective** - In this lab, you will use Customer Service workspace to help agents increase productivity with a browser-like, tabbed experience. Agents can use the app to work on multiple cases and conversations.
 
@@ -13,7 +13,7 @@
 2.  Select the **Environments** tab and then select **Customer Service
     Trial** environment.
 
-   ![A screenshot of a computer Description automatically generated](./media/media22/image1.png)
+    ![A screenshot of a computer Description automatically generated](./media/media22/image1.png)
 
 3.  On the **Customer Service Trial environment** page, click on
     the **Environment URL**.
@@ -37,23 +37,23 @@
 
     - **Filter**
 
-      - **All** - Displays both read and unread items.
+    - **All** - Displays both read and unread items.
 
-      - **Unread** - Displays only unopened items.
+    - **Unread** - Displays only unopened items.
 
-      - **Read** - Displays only opened items.
+    - **Read** - Displays only opened items.
 
     - **Sort by**
 
-      - **Customer** - Displays items based on the customer record.
+    - **Customer** - Displays items based on the customer record.
 
-      - **Date** - Displays items based on the date they were created.
+    - **Date** - Displays items based on the date they were created.
 
     - **Sort order**
 
-      - **Oldest on top** - Displays oldest items first in the inbox.
+    - **Oldest on top** - Displays oldest items first in the inbox.
 
-      - **Latest on top** - Displays most recent items first in the
+    - **Latest on top** - Displays most recent items first in the
         inbox.
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image5.png)
@@ -71,8 +71,7 @@
     Alternatively, you can open an item in a new tab by selecting
     the **new session** icon.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media22/image7.png)
+    ![A screenshot of a computer Description automatically generated](./media/media22/image7.png)
 
 ## Exercise 2 - Use Timeline
 
@@ -117,7 +116,6 @@ up work in Dynamics 365 Customer Service.
 
 3.  Select **OK**.
 
-![A screenshot of a computer Description automatically
-generated](./media/media22/image13.png)
+    ![A screenshot of a computer Description automatically generated](./media/media22/image13.png)
 
 **Summary** - You have used Customer Service workspace to help view Inbox, Cases, Timeline and Agent presence.

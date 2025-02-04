@@ -172,23 +172,23 @@ generated](./media/media18/image34.jpg)
     understand your customers' responses. To add more trigger phrases,
     you can either:
 
-        - Select the **Add** icon ![](./media/media18/image14.png) next to the text
+    - Select the **Add** icon ![](./media/media18/image14.png) next to the text
       field and enter the desired phrase.
 
-        - Enter a phrase and select **Enter**.
+    - Enter a phrase and select **Enter**.
 
-        **Note** - You can include punctuation in a trigger phrase, but it's best to use short phrases rather than long sentences.
+    **Note** - You can include punctuation in a trigger phrase, but it's best to use short phrases rather than long sentences.
 
-        ![A screenshot of a computer Description automatically generated](./media/media18/image15.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image15.png)
 
-        ![A screenshot of a computer Description automatically generated](./media/media18/image16.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image16.png)
 
 9.  Select **Details** on the toolbar to open the **Topic
     details** panel. Enter the name of the Topic as **Store hours**.
 
 10.  Select **Save**.
 
-        ![A screenshot of a computer Description automatically generated](./media/media18/image17.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image17.png)
 
 ### Task 4 - Add the action to the Copilot Studio topic
 

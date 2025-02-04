@@ -104,7 +104,7 @@ generated](./media/media18/image34.jpg)
 
 3.  Select **Agents** in the left navigation.
 
-     ![A screenshot of a phone Description automatically generated](./media/media18/image2.png)
+    ![A screenshot of a phone Description automatically generated](./media/media18/image2.png)
 
 4.  Select **+ New agent**.
 
@@ -143,7 +143,7 @@ generated](./media/media18/image34.jpg)
 
     ![A screenshot of a computer Description automatically generated](./media/media18/image11.png)
 
-A **Trigger** node appears on an otherwise blank topic authoring canvas.
+    A **Trigger** node appears on an otherwise blank topic authoring canvas.
 
 5.  Select the **More** icon (**…**) of the **Trigger** node, and then
     select **Properties**.
@@ -158,30 +158,30 @@ A **Trigger** node appears on an otherwise blank topic authoring canvas.
 7.  The **Phrases** secondary panel appears. Under **Add phrases**, Add
     the trigger phrase and click on plus icon. Enter the below phrases.
 
-    - !!Store hours!!
+        - !!Store hours!!
 
-    - !!What time do you open!!
+        - !!What time do you open!!
 
-    - !!Is the store open today!!
+        - !!Is the store open today!!
 
-    - !!Are you open on Sunday!!
+        - !!Are you open on Sunday!!
 
-    - !!Hours of operation!!
+        - !!Hours of operation!!
 
 8.  Your agent needs 5 to 10 trigger phrases to train the AI model to
     understand your customers' responses. To add more trigger phrases,
     you can either:
 
-    - Select the **Add** icon ![](./media/media18/image14.png) next to the text
+        - Select the **Add** icon ![](./media/media18/image14.png) next to the text
       field and enter the desired phrase.
 
-    - Enter a phrase and select **Enter**.
+        - Enter a phrase and select **Enter**.
 
-        **Note** - You can include punctuation in a trigger phrase, but it's best to
-        use short phrases rather than long sentences.
+        **Note** - You can include punctuation in a trigger phrase, but it's best to use short phrases rather than long sentences.
 
-       ![A screenshot of a computer Description automatically generated](./media/media18/image15.png)
-       ![A screenshot of a computer Description automatically generated](./media/media18/image16.png)
+        ![A screenshot of a computer Description automatically generated](./media/media18/image15.png)
+
+        ![A screenshot of a computer Description automatically generated](./media/media18/image16.png)
 
 9.  Select **Details** on the toolbar to open the **Topic
     details** panel. Enter the name of the Topic as **Store hours**.

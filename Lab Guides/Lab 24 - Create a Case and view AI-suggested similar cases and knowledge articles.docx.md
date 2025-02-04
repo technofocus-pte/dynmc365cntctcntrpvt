@@ -23,11 +23,11 @@
 
     - To enable the enhanced full case form:
 
-      1.  Set the **Full case form** toggle to **Yes**, for your agents
+        1.  Set the **Full case form** toggle to **Yes**, for your agents
           to see the enhanced full case form when they create a new
           case.
 
-      1.  Select **Configure** to customize the form in Power Apps. The
+        2.  Select **Configure** to customize the form in Power Apps. The
           Power Apps form page opens on a new tab.
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image4.png)
@@ -51,8 +51,7 @@
 10.  Select **Configure** to customize the form in Power Apps. The Power
     Apps form page opens on a new tab.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media24-new/image7.png)
+        ![A screenshot of a computer Description automatically generated](./media/media24-new/image7.png)
 
 ## Task 2: Create a case
 
@@ -81,11 +80,11 @@ generated](./media/media24-new/image7.png)
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image12.png)
 
-7.  To switch back to views, select **Open Views**.
+8.  To switch back to views, select **Open Views**.
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image13.png)
 
-8.  If you select a case record from the case view, you see these
+9.  If you select a case record from the case view, you see these
     additional options on the command bar:
 
     - **Save & Route**
@@ -102,11 +101,11 @@ generated](./media/media24-new/image7.png)
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image14.png)
 
-9.  Switch back to the **My Active Cases** tab and select **New Case**.
+10.  Switch back to the **My Active Cases** tab and select **New Case**.
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image15.png)
 
-10. Enter the following information on the **New Case** page and then
+11. Enter the following information on the **New Case** page and then
     select **Save**.
 
     - **Type** – !!Problem!!
@@ -221,9 +220,7 @@ one case as parent and set other cases as its child cases.
 4.  In the **Knowledge article suggestion** area, do any of the
     following:
 
-    - Select an article title to go through and get relevant
-      information. The selected knowledge article opens in a new
-      application tab.
+    - Select an article title to go through and get relevant information. The selected knowledge article opens in a new application tab.
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image29.png)
 
@@ -241,18 +238,13 @@ one case as parent and set other cases as its child cases.
 
 7.  In the **Similar case suggestions** area, do any of the following:
 
-    - Select a case title to drill through the details of the resolved
-      case.
+    - Select a case title to drill through the details of the resolved case.
 
     - Select more commands to do the following:
 
-      - **Copy resolution:** Select to copy the resolution notes
-        information from the resolved case to the clipboard.
+    - **Copy resolution:** Select to copy the resolution notes information from the resolved case to the clipboard.
 
-      - **Email agent:** Select to open the email compose form to send
-        your questions to the agent who handled the similar case. The
-        mail form opens on a new tab with the pertinent information and
-        link to the resolved case filled in.
+    - **Email agent:** Select to open the email compose form to send your questions to the agent who handled the similar case. The mail form opens on a new tab with the pertinent information and link to the resolved case filled in.
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image32.png)
 

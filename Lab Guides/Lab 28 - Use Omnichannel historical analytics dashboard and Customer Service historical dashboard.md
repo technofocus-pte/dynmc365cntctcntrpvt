@@ -10,8 +10,7 @@
 
 2.  The Dashboard is displayed accordingly.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media24/image5.png)
+        ![A screenshot of a computer Description automatically generated](./media/media24/image5.png)
 
 You have tabs for each category – **Conversation, Queue, Agent, Bot and
 Topics.** You can click on each tab to explore each category.
@@ -47,15 +46,13 @@ generated](./media/media24/image10.png)
 
 ## Task 2 - Customer Service historical analytics - Insights Dashboard
 
-1. Select the three horizontal lines and select **Customer Service
-historical analytics – insights**
+1. Select the three horizontal lines and select **Customer Service historical analytics – insights**
 
-    ![](./media/media24/image11.png)
+   ![](./media/media24/image11.png)
 
 2. The dashboard is displayed. You have tabs for each category – Summary, Agent and Topics. You can click on each tab to explore each category.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media24/image12.png)
+   ![A screenshot of a computer Description automatically generated](./media/media24/image12.png)
 
 -    **Summary dashboard** - The summary dashboard includes various charts with graphical views of key performance indicators (KPIs) in Customer Service.
 

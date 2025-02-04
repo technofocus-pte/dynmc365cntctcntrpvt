@@ -87,17 +87,17 @@
 9.  If you select a case record from the case view, you see these
     additional options on the command bar:
 
-    - **Save & Route**
+        - **Save & Route**
 
-    - **Resolve Case**
+        - **Resolve Case**
 
-    - **Cancel Case**
+        - **Cancel Case**
 
-    - **Assign** 
+        - **Assign** 
 
-    - **Add to Queue** 
+        - **Add to Queue** 
 
-    - **Queue Item Details**
+        - **Queue Item Details**
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image14.png)
 

@@ -109,19 +109,19 @@
 
         - **Type** – !!Problem!!
 
-     - **Customer** – Trey Research
+        - **Customer** – Trey Research
 
-    - **Title** – !!Minerals level is not maintained!!
+        - **Title** – !!Minerals level is not maintained!!
 
-    - **Product** – Water Filtration System
+        - **Product** – Water Filtration System
 
-    - **Subject** – !!Water supply!!
+        - **Subject** – !!Water supply!!
 
-    - **Origin** – Email
+        - **Origin** – Email
 
-    - **Priority** – Normal
+        - **Priority** – Normal
 
-![A screenshot of a computer Description automatically generated](./media/media24-new/image16.png)
+        ![A screenshot of a computer Description automatically generated](./media/media24-new/image16.png)
 
 ## Task 3: Create a child case
 

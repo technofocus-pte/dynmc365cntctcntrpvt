@@ -145,7 +145,7 @@
 
 4.  Select **Details** tab from the command bar and then scroll down.
 
-5.  You will the Child case on the **Child Cases** tile.
+5.  You will view the **Child case** on the **Child Cases** tile.
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image19.png)
 

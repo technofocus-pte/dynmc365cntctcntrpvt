@@ -67,63 +67,61 @@ generated](./media/media16/image15.png)
 
 12.  Enter the details
 
-     -  **Survey question name:** ContosoConsent
+        - **Survey question name:** ContosoConsent
 
-     - **Question text**: We collect demographic data. Please confirm
-      whether you agree to provide the basic information.
+        - **Question text**: We collect demographic data. Please confirm whether you agree to provide the basic information.
 
-     - **Answer type –** User consent
+        - **Answer type –** User consent
 
-     - **Required -** Yes
+        - **Required -** Yes
 
-     - Select **Confirm**.
+        - Select **Confirm**.
 
         ![A screenshot of a computer Description automatically generated](./media/media16/image20.png)
 
 13.  Select **Add** again
 
-     - **Survey question name:** FirstName
+          - **Survey question name:** FirstName
 
-     - **Question text**: FirstName
+          - **Question text**: FirstName
 
-     - **Answer type –** Single line
+          - **Answer type –** Single line
 
-     - **Required -** Yes
+          - **Required -** Yes
 
-     - Select **Confirm**.
+          - Select **Confirm**.
 
-     ![A screenshot of a chat Description automatically
-generated](./media/media16/image21.png)
+             ![A screenshot of a chat Description automatically generated](./media/media16/image21.png)
 
 14.  Select **Add** again
 
-     - **Survey question name:** LastName
+        - **Survey question name:** LastName
 
-     - **Question text**: LastName
+        - **Question text**: LastName
 
-     - **Answer type –** Single line
+        - **Answer type –** Single line
 
-     - **Required -** Yes
+        - **Required -** Yes
 
-     - Select **Confirm**.
+        - Select **Confirm**.
 
-     ![A screenshot of a chat Description automatically generated](./media/media16/image22.png)
+            ![A screenshot of a chat Description automatically generated](./media/media16/image22.png)
 
 15.  Select **Add** again
 
-     - **Survey question name:** Age
+        - **Survey question name:** Age
 
-     - **Question text**: Enter your Age
+        - **Question text**: Enter your Age
 
-     - **Answer type –** Single line
+        - **Answer type –** Single line
 
-     - **Required -** Yes
+        - **Required -** Yes
 
-     - Select **Confirm**.
+        - Select **Confirm**.
 
-     ![A screenshot of a chat Description automatically generated](./media/media16/image23.png)
+        ![A screenshot of a chat Description automatically generated](./media/media16/image23.png)
 
-     ![A screenshot of a chat Description automatically generated](./media/media16/image24.png)
+        ![A screenshot of a chat Description automatically generated](./media/media16/image24.png)
 
 16. Set the toggle for **Post-conversation survey** to **Off**.
 

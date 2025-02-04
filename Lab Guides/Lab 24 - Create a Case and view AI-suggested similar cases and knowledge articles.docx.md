@@ -105,8 +105,7 @@
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image15.png)
 
-11. Enter the following information on the **New Case** page and then
-    select **Save**.
+11.  Enter the following information on the **New Case** page and then select **Save**.
 
     - **Type** – !!Problem!!
 

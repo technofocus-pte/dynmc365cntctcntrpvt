@@ -17,8 +17,7 @@
 
     ![A screenshot of a computer Description automatically generated](./media/media25-new/image3.png)
 
-4.  If you have open activities linked to the case, you see a message
-    with the following actions.
+4.  If you have open activities linked to the case, you see a message with the following actions.
 
     - A link with the number of open activities. You can select the link
       to view the open activities associated with the case on a tab your
@@ -26,20 +25,17 @@
 
     ![A screenshot of a computer Description automatically generated](./media/media25-new/image4.png)
 
-    - **Confirm**: If you select **Confirm** on the warning, the system
-  automatically cancels the open activities when the case is resolved.
+    - **Confirm**: If you select **Confirm** on the warning, the system automatically cancels the open activities when the case is resolved.
 
     ![A blue square with black text Description automatically generated](./media/media25-new/image5.png)
 
 5.  Select **Confirm**.
 
-6.  On the **Resolve Case dialog** box, enter the resolution and then
-    select **Resolve**.
+6.  On the **Resolve Case dialog** box, enter the resolution and then select **Resolve**.
 
     ![A screenshot of a computer Description automatically generated](./media/media25-new/image6.png)
 
-7.  To check if the updated status of the case, select the **My Active
-    Cases** dropdown and then select **All Cases**.
+7.  To check if the updated status of the case, select the **My Active Cases** dropdown and then select **All Cases**.
 
     ![A screenshot of a computer Description automatically generated](./media/media25-new/image7.png)
 
@@ -51,24 +47,19 @@
 
 All case activities must be closed before you can cancel a case.
 
-1.  In the Customer Service workspace, select the **Site Map** and then
-    select **Cases**.
+1.  In the Customer Service workspace, select the **Site Map** and then select **Cases**.
 
     ![A screenshot of a computer Description automatically generated](./media/media25-new/image1.png)
 
-2.  In the list of **My Active Cases**, open the case you want to cancel,
-    and then on the command bar, select **Cancel Case**.
+2.  In the list of **My Active Cases**, open the case you want to cancel, and then on the command bar, select **Cancel Case**.
 
     ![A screenshot of a computer Description automatically generated](./media/media25-new/image9.png)
 
 3.  In the **Confirm Cancellation** dialog box, select the case status:
 
-    - **Canceled**: The case is canceled and is no longer assigned to
-      you.
+    - **Canceled**: The case is canceled and is no longer assigned to you.
 
-    - **Merged**: The case is merged with another case. When the case is
-      merged, the case activities are moved to the case it was merged
-      with.
+    - **Merged**: The case is merged with another case. When the case is merged, the case activities are moved to the case it was merged with.
 
     ![A screenshot of a computer Description automatically generated](./media/media25-new/image10.png)
 
@@ -80,13 +71,11 @@ All case activities must be closed before you can cancel a case.
 
 ## Task 3 - Reassign a case
 
-1.  In the Customer Service workspace, select the **Site Map** and then
-    select **Cases**.
+1.  In the Customer Service workspace, select the **Site Map** and then select **Cases**.
 
     ![A screenshot of a computer Description automatically generated](./media/media25-new/image1.png)
 
-2.  In the list of cases, select the case that you want to reassign, and
-    on the command bar, select **Assign**.
+2.  In the list of cases, select the case that you want to reassign, and on the command bar, select **Assign**.
 
     ![A screenshot of a computer Description automatically generated](./media/media25-new/image12.png)
 

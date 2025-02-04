@@ -188,7 +188,7 @@ generated](./media/media18/image34.jpg)
 
 10.  Select **Save**.
 
-    ![A screenshot of a computer Description automatically generated](./media/media18/image17.png)
+        ![A screenshot of a computer Description automatically generated](./media/media18/image17.png)
 
 ### Task 4 - Add the action to the Copilot Studio topic
 

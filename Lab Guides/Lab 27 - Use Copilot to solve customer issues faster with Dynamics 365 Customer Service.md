@@ -13,12 +13,11 @@ product, priority, case type, and description.
 
     ![](./media/media25/image4.png)
 
-2.  Select one of the cases listed on the **Customer Service Agent
-    Dashboard**.
+2. Select one of the cases listed on the **Customer Service Agent Dashboard**.
 
     ![](./media/media25/image5.png)
 
-3.  The **Case summary** appears as a card on the case form. When you
+3. The **Case summary** appears as a card on the case form. When you
     open a case, the **Summary** card is collapsed by default.
 
     ![](./media/media25/image6.png)

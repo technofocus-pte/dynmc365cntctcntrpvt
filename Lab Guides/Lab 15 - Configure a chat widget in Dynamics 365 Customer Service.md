@@ -81,17 +81,17 @@ generated](./media/media16/image15.png)
 
 13.  Select **Add** again
 
-          - **Survey question name:** FirstName
+        - **Survey question name:** FirstName
 
-          - **Question text**: FirstName
+        - **Question text**: FirstName
 
-          - **Answer type –** Single line
+        - **Answer type –** Single line
 
-          - **Required -** Yes
+        - **Required -** Yes
 
-          - Select **Confirm**.
+        - Select **Confirm**.
 
-             ![A screenshot of a chat Description automatically generated](./media/media16/image21.png)
+        ![A screenshot of a chat Description automatically generated](./media/media16/image21.png)
 
 14.  Select **Add** again
 

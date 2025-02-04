@@ -52,11 +52,9 @@
 
     ![A screenshot of a computer Description automatically generated](./media/media23-new/image8.png)
 
-**Note**
+    **Note**
 
-Remove the items from the queue can't be set for work items in an
-advanced queue. Advanced queues are used in unified routing to which
-work items are routed through workstreams.
+    Remove the items from the queue can't be set for work items in an advanced queue. Advanced queues are used in unified routing to which work items are routed through workstreams.
 
 ## Task 2 - Release an item or case that you’re working on
 
@@ -189,8 +187,7 @@ Save a case record and route it to a queue in a single action.
 
 3.  In the **Route Case** dialog, select **Route**.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media23-new/image24.png)
+    ![A screenshot of a computer Description automatically generated](./media/media23-new/image24.png)
 
 The case will be routed based on the active routing rule set.
 

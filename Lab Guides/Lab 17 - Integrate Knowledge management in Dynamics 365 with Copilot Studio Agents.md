@@ -100,59 +100,48 @@ generated](./media/media18/image34.jpg)
 2.  Select the Environment as **Customer Service Trial** on top right
     corner of the homepage
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image1.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image1.png)
 
 3.  Select **Agents** in the left navigation.
 
-     ![A screenshot of a phone Description automatically
-generated](./media/media18/image2.png)
+     ![A screenshot of a phone Description automatically generated](./media/media18/image2.png)
 
 4.  Select **+ New agent**.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image3.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image3.png)
 
 5.  Select **Skip to configure**
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image4.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image4.png)
 
 6.  Select **Create**.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image5.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image5.png)
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image6.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image6.png)
 
 7.  Your Agent is created.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image7.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image7.png)
 
 ## Task 3 - Create a Topic in Copilot Studio Bot
 
 1.  For better visibility, close the **Test your agent** panel for now.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image8.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image8.png)
 
 2.  On the top menu bar, select **Topics**.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image9.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image9.png)
 
 3.  Select **Add a topic** and select **From blank**.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image10.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image10.png)
 
 4.  Click on **Allow** if you are asked that copilot wants to access
     images and text.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image11.png)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image11.png)
 
 A **Trigger** node appears on an otherwise blank topic authoring canvas.
 
@@ -164,8 +153,7 @@ A **Trigger** node appears on an otherwise blank topic authoring canvas.
 6.  The **On Recognized Intent properties** panel appears. In this
     panel, select the **Phrases** box.
 
-    ![A screenshot of a phone Description automatically
-generated](./media/media18/image13.png)
+    ![A screenshot of a phone Description automatically generated](./media/media18/image13.png)
 
 7.  The **Phrases** secondary panel appears. Under **Add phrases**, Add
     the trigger phrase and click on plus icon. Enter the below phrases.
@@ -192,18 +180,15 @@ generated](./media/media18/image13.png)
         **Note** - You can include punctuation in a trigger phrase, but it's best to
         use short phrases rather than long sentences.
 
-   ![A screenshot of a computer Description automatically
-generated](./media/media18/image15.png)
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image16.png)
+       ![A screenshot of a computer Description automatically generated](./media/media18/image15.png)
+       ![A screenshot of a computer Description automatically generated](./media/media18/image16.png)
 
 9.  Select **Details** on the toolbar to open the **Topic
     details** panel. Enter the name of the Topic as **Store hours**.
 
 10.  Select **Save**.
 
-        ![A screenshot of a computer Description automatically
-generated](./media/media18/image17.png)
+        ![A screenshot of a computer Description automatically generated](./media/media18/image17.png)
 
 ### Task 4 - Add the action to the Copilot Studio topic
 
@@ -214,8 +199,7 @@ articles** action.
 1.  In the **Store hours** topic, create a question node to ask the user to search
     for the input text.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image42.jpg)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image42.jpg)
 
 2.  Provide the sample filter value after you trigger the topic.
 
@@ -226,16 +210,13 @@ generated](./media/media18/image42.jpg)
 5.  Provide the input to the flow. An error might appear if the filter
     isn't provided to the flow.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image43.jpg)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image43.jpg)
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image44.jpg)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image44.jpg)
 
 6.  Add a message node to show the results returned by the flow. 
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media18/image45.jpg)
+    ![A screenshot of a computer Description automatically generated](./media/media18/image45.jpg)
 
 7.  Select **Save**.
 

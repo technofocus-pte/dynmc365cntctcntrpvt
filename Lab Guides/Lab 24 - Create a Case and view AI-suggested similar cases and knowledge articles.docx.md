@@ -103,7 +103,7 @@
 
 10.  Switch back to the **My Active Cases** tab and select **New Case**.
 
-    ![A screenshot of a computer Description automatically generated](./media/media24-new/image15.png)
+        ![A screenshot of a computer Description automatically generated](./media/media24-new/image15.png)
 
 11.  Enter the following information on the **New Case** page and then select **Save**.
 
@@ -121,7 +121,7 @@
 
     - **Priority** – Normal
 
-    ![A screenshot of a computer Description automatically generated](./media/media24-new/image16.png)
+![A screenshot of a computer Description automatically generated](./media/media24-new/image16.png)
 
 ## Task 3: Create a child case
 

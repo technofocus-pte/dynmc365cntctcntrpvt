@@ -59,11 +59,9 @@ generated](./media/media16/image15.png)
 
 10.  Select **Confirm**.
 
-     ![A screenshot of a computer Description automatically
-        generated](./media/media16/image18.png)
+        ![A screenshot of a computer Description automatically generated](./media/media16/image18.png)
 
-      ![A screenshot of a chat Description automatically
-generated](./media/media16/image19.png)
+        ![A screenshot of a chat Description automatically generated](./media/media16/image19.png)
 
 11.  Enable the **Pre-conversation survey.** Select **Add**
 
@@ -80,8 +78,7 @@ generated](./media/media16/image19.png)
 
      - Select **Confirm**.
 
-     ![A screenshot of a chat Description automatically
-generated](./media/media16/image20.png)
+        ![A screenshot of a computer Description automatically generated](./media/media16/image20.png)
 
 13.  Select **Add** again
 
@@ -110,8 +107,7 @@ generated](./media/media16/image21.png)
 
      - Select **Confirm**.
 
-     ![A screenshot of a chat Description automatically
-generated](./media/media16/image22.png)
+     ![A screenshot of a chat Description automatically generated](./media/media16/image22.png)
 
 15.  Select **Add** again
 
@@ -125,11 +121,9 @@ generated](./media/media16/image22.png)
 
      - Select **Confirm**.
 
-     ![A screenshot of a chat Description automatically
-generated](./media/media16/image23.png)
+     ![A screenshot of a chat Description automatically generated](./media/media16/image23.png)
 
-     ![A screenshot of a chat Description automatically
-generated](./media/media16/image24.png)
+     ![A screenshot of a chat Description automatically generated](./media/media16/image24.png)
 
 16. Set the toggle for **Post-conversation survey** to **Off**.
 

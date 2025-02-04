@@ -110,24 +110,24 @@ supervisor who might know the answers.
 
     ![](./media/media25/image17.png)
 
-5.  Select **Empathize with feedback** from the predefined prompts list.
+6.  Select **Empathize with feedback** from the predefined prompts list.
 
-6.  You can see, **Copilot** has generated suggestion.
+7.  You can see, **Copilot** has generated suggestion.
 
     ![](./media/media25/image18.png)
 
-7.  You can now review the response. Make any necessary changes, and
+8.  You can now review the response. Make any necessary changes, and
     then select **Copy to email** to copy the entire response to your
     draft. Or select part of the response and use the right-click menu
     to copy and paste the selection.
 
     ![](./media/media25/image19.png)
 
-8.  Response is now available in body part on left side.
+9.  Response is now available in body part on left side.
 
     ![](./media/media25/image20.png)
 
-9.  Now you can send the email or save it.
+10.  Now you can send the email or save it.
 
     ![](./media/media25/image21.png)
 

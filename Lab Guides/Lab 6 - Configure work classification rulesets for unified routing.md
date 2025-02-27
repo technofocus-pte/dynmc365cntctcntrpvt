@@ -64,7 +64,7 @@ generated](./media/media6/image7.png)
 
 8.  Create the following condition: Customer **Equals** Trey Research
 
-9.  In the **Output** area, enter the following: **Issue (Case)** set to **Gold**
+9.  In the **Output** area, enter the following: **Issue (Case) Service Level** set to **Gold**
 
 10. Click **Create**.
 

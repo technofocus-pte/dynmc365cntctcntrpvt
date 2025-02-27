@@ -34,7 +34,7 @@ generated](./media/media21/image3.png)
 
     3.  Select **Save**
 
-    ![](./media/media21/image4.png)
+    ![](./media/media21/image4-1.png)
 
 5.  In the **Update rules for suggesting contacts** section, reorder or
     disable the rules for suggesting contacts. Users see the suggestions

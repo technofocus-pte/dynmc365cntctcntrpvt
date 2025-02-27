@@ -68,7 +68,7 @@ following steps:
 
     ![](./media/media23/image12.png)
 
-2.   On the **Add existing model-driven apps** pane. Select the app for
+2.   On the **Add existing model-driven apps** pane, select the app for
     which you want to disable the enhanced insert email template
     selection dialog. The app is added to the solution. For this lab, we
     are not selecting any app. Hence select **Cancel**

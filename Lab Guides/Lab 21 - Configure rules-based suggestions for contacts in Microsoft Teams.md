@@ -8,19 +8,19 @@
 
 1.  In the site map of Customer Service admin center, in **Agent experience**, select **Collaboration**.
 
-    ![A screenshot of a phone Description automatically generated](./media/media22/image1.png)
+    ![A screenshot of a phone Description automatically generated](./media/media21/image1.png)
 
 2.  In **Embedded chat using Teams**, select **Manage**.
 
     ![A screenshot of a computer screen Description automatically
-generated](./media/media22/image2.png)
+generated](./media/media21/image2.png)
 
 3.  On the **Microsoft Teams collaboration and chat** page, set the
     toggle for **Turn on the linking of Dynamics 365 records to
     Microsoft Teams channels** to **Yes**.
 
     ![A close-up of a chat Description automatically
-generated](./media/media22/image3.png)
+generated](./media/media21/image3.png)
 
 4.  To get suggested contacts for any record type, perform the following
     steps:
@@ -34,7 +34,7 @@ generated](./media/media22/image3.png)
 
     3.  Select **Save**
 
-    ![](./media/media22/image4.png)
+    ![](./media/media21/image4.png)
 
 5.  In the **Update rules for suggesting contacts** section, reorder or
     disable the rules for suggesting contacts. Users see the suggestions

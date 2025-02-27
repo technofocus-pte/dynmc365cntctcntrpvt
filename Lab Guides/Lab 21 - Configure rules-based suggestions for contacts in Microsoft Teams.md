@@ -36,7 +36,7 @@ generated](./media/media21/image3.png)
 
     ![](./media/media21/image4-1.png)
 
-5.  In the **Update rules for suggesting contacts** section, reorder or
+5.  In the **Update rules for suggesting contacts** section on the **Case** record, reorder or
     disable the rules for suggesting contacts. Users see the suggestions
     in the order we choose.
 

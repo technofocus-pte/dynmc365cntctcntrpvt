@@ -203,7 +203,7 @@ articles** action.
 
 2.  Provide the sample filter value after you trigger the topic.
 
-3.  Select **Add node** (**+**) and select **Call an action**.
+3.  Select **Add node** (**+**) and select **Add an action**.
 
 4.  Select **Search Dynamics 365 knowledge article flow** action.
 

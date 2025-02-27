@@ -210,7 +210,7 @@ articles** action.
 5.  Provide the input to the flow. An error might appear if the filter
     isn't provided to the flow.
 
-    ![A screenshot of a computer Description automatically generated](./media/media18/image43-1.png)
+    ![A screenshot of a computer Description automatically generated](./media/media17/image43-1.png)
 
     ![A screenshot of a computer Description automatically generated](./media/media18/image44.jpg)
 

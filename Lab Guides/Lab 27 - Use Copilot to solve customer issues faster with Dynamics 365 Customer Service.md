@@ -128,6 +128,6 @@ supervisor who might know the answers.
 
 10.  Now you can send the email or save it.
 
-    ![](./media/media25/image21.png)
+   ![](./media/media25/image21.png)
 
 **Summary** - You used Copilot to summarize cases, draft email and questions.

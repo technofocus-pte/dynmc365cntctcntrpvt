@@ -37,23 +37,23 @@
 
     - **Filter**
 
-    - **All** - Displays both read and unread items.
+        - **All** - Displays both read and unread items.
 
-    - **Unread** - Displays only unopened items.
+        - **Unread** - Displays only unopened items.
 
-    - **Read** - Displays only opened items.
+        - **Read** - Displays only opened items.
 
     - **Sort by**
 
-    - **Customer** - Displays items based on the customer record.
+        - **Customer** - Displays items based on the customer record.
 
-    - **Date** - Displays items based on the date they were created.
+        - **Date** - Displays items based on the date they were created.
 
     - **Sort order**
 
-    - **Oldest on top** - Displays oldest items first in the inbox.
+        - **Oldest on top** - Displays oldest items first in the inbox.
 
-    - **Latest on top** - Displays most recent items first in the
+        - **Latest on top** - Displays most recent items first in the
         inbox.
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image5.png)

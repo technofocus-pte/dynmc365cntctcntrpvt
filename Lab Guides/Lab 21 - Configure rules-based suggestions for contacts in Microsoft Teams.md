@@ -44,14 +44,14 @@ generated](./media/media21/image3.png)
       down arrow to move the rules up or down, respectively.
 
     - To disable a rule, hover over a rule, and then
-      select ![](./media/media22/image5.png) . When the rule is disabled, a
+      select ![](./media/media21/image5.png) . When the rule is disabled, a
       check mark is displayed when you hover over the disabled rule.
 
     - To delete a rule, hover over the rule, and then
-      select ![](./media/media22/image6.png) . Deleting a rule removes it
+      select ![](./media/media21/image6.png) . Deleting a rule removes it
       entirely so it won't influence suggested contacts in the future.
 
-        ![](./media/media22/image7.png)
+        ![](./media/media21/image7.png)
 
 6.  Select **Save**.
 
@@ -61,16 +61,16 @@ generated](./media/media21/image3.png)
     contacts** section, Select the 4^(th) rule that says – **Updates a
     timeline activity.** Delete the rule.
 
-    ![A screenshot of a computer Description automatically generated](./media/media22/image8.png)
+    ![A screenshot of a computer Description automatically generated](./media/media21/image8.png)
 
 2.  select **+** **Add rule**.
 
-    ![](./media/media22/image9.png)
+    ![](./media/media21/image9.png)
 
 3.  The **Add rule** pane is displayed for the record type you selected.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media22/image10.png)
+generated](./media/media21/image10.png)
 
 4.  Enter the information as mentioned below.
 
@@ -82,12 +82,12 @@ generated](./media/media22/image10.png)
 
     - Select **Save**
 
-    ![](./media/media22/image11.png)
+    ![](./media/media21/image11.png)
 
 5.  A new rule is created. Select **Save** again.
 
 6.  Select **Save** on **Microsoft Teams collaboration and chat**
 
-    ![A screenshot of a computer Description automatically generated](./media/media22/image12.png)
+    ![A screenshot of a computer Description automatically generated](./media/media21/image12.png)
 
 **Summary** - You have successfully configure rules-based suggestions for contacts in Microsoft Teams

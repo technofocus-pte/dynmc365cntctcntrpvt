@@ -71,7 +71,7 @@ supervisor who might know the answers.
 
 ## Task 3: Draft emails
 
-1.  Select “**Write an email**” tab on the **Copilot** pane.
+1.  Select **Write an email** tab on the **Copilot** pane.
 
     ![](./media/media25/image13.png)
 

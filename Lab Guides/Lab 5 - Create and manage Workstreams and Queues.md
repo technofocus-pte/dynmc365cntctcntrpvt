@@ -115,7 +115,7 @@ generated](./media/media5/image11.png)
 
     - Select **Create**
 
-    ![Graphical user interface, table Description automatically generated](./media/media5/image13.png)
+    ![Graphical user interface, table Description automatically generated](./media/media5/image13-1.png)
 
 5.  The queue that you created is displayed.
 

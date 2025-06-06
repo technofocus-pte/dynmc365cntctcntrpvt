@@ -140,8 +140,8 @@ generated](./media/media5/image17.png)
      ![A screenshot of a computer Description automatically
 generated](./media/media5/image18.png)
     
-11.  On the **New Operating Hour** page, enter **Contoso operation
-    hours** in the **Name** field and **Description** field.
+11.  On the **New Operating Hour** page, enter !!**Contoso operation
+    hours**!! in the **Name** field and !!**Description**!! field.
 
 12.  Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.
@@ -166,22 +166,12 @@ generated](./media/media5/image21.png)
 
 ### Task 2 - Manage queues for unified routing
 
-1.  On the **Queues** page, select the **Contoso queue for supervisors**
-    to edit the users, assignment methods, or operating hour record.
-
-    ![](./media/media5/image22.png)
-
-2.  Select **Contoso queue for supervisors** on the **Queues** page,
-    select **Copy** on the command menu.
-
-    ![](./media/media5/image23.png)
-
-3.  Select **Copy** in the ***Copy Queue*** dialog.
+1.  Select **Copy** in the ***Copy Queue*** dialog.
 
     ![A screenshot of a computer screen Description automatically
 generated](./media/media5/image24.png)
 
-4.  The queue is copied and inherits the settings of the queue you
+2.  The queue is copied and inherits the settings of the queue you
     copied from, including its name, prefixed with **Copy of Contoso
     queue for supervisors**.
 
@@ -189,4 +179,4 @@ generated](./media/media5/image24.png)
 generated](./media/media5/image25.png)
 
 
-**Summary** - You have created workstream and Queue in the Copilot Service admin center. You will also navigate through how we manage them in the Copilot Service admin center.
+**Summary** - You should have created workstream and Queue in the Copilot Service admin center. You should also have navigated through how we manage them in the Copilot Service admin center.

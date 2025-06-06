@@ -27,8 +27,8 @@ generated](./media/media7/image3.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media7/image4.png)
 
-6.  In the **Create work assignment** dialog, enter **Contoso work
-    assignment** in the **Name** field and **Description** field and
+6.  In the **Create work assignment** dialog, enter !!**Contoso work
+    assignment**!! in the **Name** field and **Description** field and
     then select **Create**.
 
     ![A screenshot of a computer Description automatically
@@ -39,8 +39,8 @@ generated](./media/media7/image5.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media7/image6.png)
 
-8.  On the **Create Prioritization Ruleset** dialog, enter **Contoso
-    prioritization ruleset** in the **Name** field and **Description**
+8.  On the **Create Prioritization Ruleset** dialog, enter !!**Contoso
+    prioritization ruleset**!! in the **Name** field and **Description**
     field.
 
 9.  Select **Create**.
@@ -54,8 +54,8 @@ generated](./media/media7/image7.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media7/image8.png)
 
-11. On the **Create prioritization rule** dialog, enter **Contoso
-    prioritization rule** in the **Name** field.
+11. On the **Create prioritization rule** dialog, enter !!**Contoso
+    prioritization rule**!! in the **Name** field.
 
 12. Select **+ Add** and then select **Add related entity**.
 
@@ -85,8 +85,8 @@ automatically generated](./media/media7/image10.png)
     ![Graphical user interface, text, application Description automatically
 generated](./media/media7/image11.png)
 
-20. On the **Create Assignment Ruleset** dialog, enter **Contoso
-    assignment ruleset** in the **Name** field and **Description**
+20. On the **Create Assignment Ruleset** dialog, enter !!**Contoso
+    assignment ruleset**!! in the **Name** field and **Description**
     field.
 
 21. Click **Create**.
@@ -112,7 +112,7 @@ generated](./media/media7/image13.png)
 
 27. Select **+ Add** and then select **Add group**.
 
-28. Create the following condition in the group: Present status
+28. Create the following condition in the group: Presence status
     **Equals** Available, Busy.
 
 29. Select **+ Add** in the group and then select **Add row**.
@@ -132,5 +132,5 @@ generated](./media/media7/image14.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media7/image15.png)
 
-**Summary** - You have created an assignment method and assignment rulesets comprising rules in admin center
+**Summary** - You have created an assignment method and assignment rulesets comprising rules in the admin center.
  

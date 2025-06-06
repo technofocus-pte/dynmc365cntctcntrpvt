@@ -10,7 +10,7 @@ set the output attributes to certain values." You can create conditions
 to define rules based on multiple entity attributes. Routing rules are
 written as rulesets that consist of rule items.
 
-1.  In **Customer Service admin center**, navigate to
+1.  In **Copilot Service admin center**, navigate to
     **Workstreams** under **Customer support** group and select
     **Contoso chat workstream**.
 
@@ -36,9 +36,9 @@ generated](./media/media6/image4.png)
     **Logical rules** under **Rule type** and then enter the following
     details.
 
-    - **Name –** Contoso ruleset
+    - **Name –** !!Contoso ruleset!!
 
-    - **Description –** Contoso ruleset
+    - **Description –** !!Contoso ruleset!!
 
     - Click **Create**
 
@@ -53,7 +53,7 @@ generated](./media/media6/image6.png)
 6.  On the **Create work classification rule** dialog, enter the
     following details in the **Conditions** area.
 
-    - **Rule Name** - Set service level
+    - **Rule Name** - !!Set service level!!
 
     - Select **+ Add** and then select **Add related entity**.
 
@@ -78,7 +78,7 @@ generated](./media/media6/image9.png)
 
 ## Task 2: Configure route-to-queues rulesets and rules
 
-1.  In Dynamics 365 Customer Service admin center, select **Contoso chat
+1.  In Dynamics 365 Copilot Service admin center, select **Contoso chat
     workstream**, and in the **Routing rules** area, select **+**
     **Create ruleset** next to **Route to queues.**
 
@@ -86,8 +86,8 @@ generated](./media/media6/image9.png)
 generated](./media/media6/image10.png)
 
 2.  On the **Create route-to-queues ruleset** pane, in the **Name**
-    field enter **Based on Gold Level**. In the **Description** field
-    enter **Rule based on Gold level**.
+    field enter !!**Based on Gold Level**!!. In the **Description** field
+    enter !!**Rule based on Gold level**!!.
 
 3.  Select **Create**.
 
@@ -102,7 +102,7 @@ generated](./media/media6/image12.png)
 5.  On the **Create route to queue rule** dialog, enter the following
     details.
 
-    - **Name** – Based on Gold level
+    - **Name** – !!Based on Gold level!!
 
     - Select **+ Add** and then select **Add related entity**.
 
@@ -126,4 +126,4 @@ generated](./media/media6/image14.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media6/image15.png)
 
-**Summary** - You have created configured the ruleset in the admin center for worksteam
+**Summary** - You have configured the ruleset in the admin center for worksteam

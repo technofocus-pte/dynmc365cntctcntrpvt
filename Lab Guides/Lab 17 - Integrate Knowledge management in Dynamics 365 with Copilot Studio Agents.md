@@ -9,7 +9,7 @@ To set connection references:
 1.  Open a new tab and navigate
     to Power Apps portal !!https://make.powerapps.com/!!.
 
-2.  Select **Customer Service Trial** environment on the top right corner of
+2.  Select the **Customer Service Trial** environment on the top right corner of
     the home page.
 
 3.  Select **More** from the left navigation and then select **Connections**.
@@ -27,7 +27,7 @@ generated](./media/media18/image28.jpg)
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image29.jpg)
 
-6.  Sign in and then select **Create**. Sign in with your credentials if prompted.
+6.  Select **Create**. Sign in with your credentials if prompted.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image30.jpg)
@@ -42,7 +42,7 @@ generated](./media/media18/image35.jpg)
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image36.jpg)
 
-9.  Sign in and then select **Create**. Sign in with your credentials if prompted.
+9.  Select **Create**. Sign in with your credentials if prompted.
 
      ![A screenshot of a computer Description automatically
 generated](./media/media18/image37.jpg)
@@ -184,7 +184,7 @@ generated](./media/media18/image34.jpg)
     ![A screenshot of a computer Description automatically generated](./media/media18/image16.png)
 
 9.  Select **Details** on the toolbar to open the **Topic
-    details** panel. Enter the name of the Topic as **Store hours**.
+    details** panel. Enter the name of the Topic as !!**Store hours**!!.
 
 10.  Select **Save**.
 
@@ -227,4 +227,4 @@ articles** action.
 If your search doesn’t return any results, modify the search terms or
 filter conditions. You can also add a filter condition if required.
 
-**Summary** - You have created a Copilot bot, added Topics to it and then added the action to the Copilot Studio topic.
+**Summary** - You have created a Copilot Studio Agent, added Topics to it and then added the action to the Copilot Studio topic.

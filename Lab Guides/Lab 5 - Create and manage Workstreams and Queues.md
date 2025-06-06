@@ -178,4 +178,4 @@ generated](./media/media5/image24.png)
 generated](./media/media5/image25.png)
 
 
-**Summary** - You should have created workstream and Queue in the Copilot Service admin center. You should also have navigated through how we manage them in the Copilot Service admin center.
+**Summary** - You have created a Workstream and a Queue in the Copilot Service admin center. You also have learned to manage them in the Copilot Service admin center.

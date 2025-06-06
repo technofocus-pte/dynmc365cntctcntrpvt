@@ -1,27 +1,27 @@
 # Lab 22 - Use Dynamics 365 Customer Service workspace
 
-**Objective** - In this lab, you will use Customer Service workspace to help agents increase productivity with a browser-like, tabbed experience. Agents can use the app to work on multiple cases and conversations.
+**Objective** - In this lab, you will use the Copilot Service workspace to help agents increase productivity with a browser-like, tabbed experience. Agents can use the app to work on multiple cases and conversations.
 
 ## Exercise 1 - Use the inbox
 
 ### Task 1 - View and filter your inbox
 
-1.  To navigate to your **Customer Service workspace**, go to
+1.  To navigate to your **Copilot Service workspace**, go to
     the **Power Platform admin center** using the given
     link !!https://admin.powerplatform.microsoft.com/!!.
 
-2.  Select the **Environments** tab and then select **Customer Service
+2.  Select the **Environments** tab and then select **Copilot Service
     Trial** environment.
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image1.png)
 
-3.  On the **Customer Service Trial environment** page, click on
+3.  On the **Copilot Service Trial environment** page, click on
     the **Environment URL**.
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image2.png)
 
-4.  You will be navigated to your **Customer Service workspace**. If you
-    are navigated to Published app page, select **Customer Service
+4.  You will be navigated to your **Copilot Service workspace**. If you
+    are navigated to Published app page, select **Copilot Service
     workspace.**
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image3.png)
@@ -60,7 +60,7 @@
 
 ### Task 2 – View Cases
 
-1.  In the Customer Service workspace or Contact Center workspace,
+1.  In the Copilot Service workspace or Contact Center workspace,
     select the site map.
 
 2.  Select **Cases**.
@@ -94,7 +94,7 @@
 Presence is an indication of your agent’s availability or status to take
 up work in Dynamics 365 Customer Service.
 
-1.  In **Customer Service workspace** you can view your presence status
+1.  In **Copilot Service workspace** you can view your presence status
     on the navigation bar.
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image11.png)
@@ -118,4 +118,4 @@ up work in Dynamics 365 Customer Service.
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image13.png)
 
-**Summary** - You have used Customer Service workspace to help view Inbox, Cases, Timeline and Agent presence.
+**Summary** - You have used the Copilot Service workspace to help view Inbox, Cases, Timeline and the Agent presence.

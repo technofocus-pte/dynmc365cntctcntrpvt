@@ -111,7 +111,7 @@ generated](./media/media5/image11.png)
 
     - **Type**: Select **Messaging**
 
-    - **Queue Priority**: **1**
+    - **Queue Priority**: !!**1**!!
 
     - Select **Create**
 

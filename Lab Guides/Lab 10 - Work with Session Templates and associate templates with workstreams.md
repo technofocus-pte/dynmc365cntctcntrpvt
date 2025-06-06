@@ -1,10 +1,10 @@
-# Lab 10 - Work with Session Templates and associate templates with workstreams
+# Lab 10 - Work with Session Templates and associate template with workstreams
 
 **Objective** - In this Lab, you will create session templates and associate scripts to this session templates
 
 ## Task 1 - Create a session template
 
-1.  In the site map of Customer Service admin center,
+1.  In the site map of Copilot Service admin center,
     select **Workspaces** in **Agent experience** group.
 
 2.  On the **Workspaces** page, select **Manage** for **Session
@@ -40,14 +40,12 @@
 We will associate application tabs that need to open when a session is
 started. Agents can't close these application tabs.
 
-1.  On the session template page.
-
-2.  In the **Additional Tab** section, Select **Add Existing Application
+1.  On the session template page in the **Additional Tab** section, Select **Add Existing Application
     Tab Template**.
 
     ![](./media/media10/image2.png)
 
-3.  The **Lookup Records** pane appears. Search for and select **Customer
+2.  The **Lookup Records** pane appears. Search for and select **Customer
     Summary**. Select **Add**. The application tabs are added to
     the session template.
 
@@ -57,20 +55,20 @@ generated](./media/media10/image3.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media10/image4.png)
 
-4.  Select the **Agent scripts** tab and set the **Enable build
+3.  Select the **Agent scripts** tab and set the **Enable build
     expression** toggle to **Yes** to define the expression to set an
     agent script as default for a particular session template.
 
     ![](./media/media10/image5.png)
 
-5.  Select **Save and close**.
+4.  Select **Save and close**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media10/image6.png)
 
 ## Task 3 - Associate or modify templates with workstreams
 
-1.  In the Customer Service Admin Center site map,
+1.  In the Copilot Service Admin Center site map,
     select **Workstreams**.
 
     ![A screenshot of a computer Description automatically

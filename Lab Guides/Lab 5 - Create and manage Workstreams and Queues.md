@@ -1,12 +1,12 @@
 # Lab 5 - Create and manage Workstreams and Queues
 
-**Objective** - In this Lab, you will create workstream and Queue in the customer service admin center. You will also navigate through how we manage them in the Customer Service admin center.
+**Objective** - In this Lab, you will create workstream and Queue in the Copilot Service admin center. You will also navigate through how we manage them in the Copilot Service admin center.
 
 ## Exercise 1 - Create and Manage Workstream
 
 ### Task 1 - Create a workstream
 
-You can create workstreams for unified routing in the Customer Service
+You can create workstreams for unified routing in the Copilot Service
 admin center app.
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
@@ -16,7 +16,7 @@ admin center app.
 
 2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
    
-3.  Select **Customer Service Admin center** from the list of Apps.
+3.  Select **Copilot Service Admin center** from the list of Apps.
 
 4.  In the site map of admin center,
     select **Workstreams** under **Customer support**.
@@ -89,7 +89,7 @@ automatically generated](./media/media5/image8.png)
 
 ### Task 1 - Create a queue for unified routing
 
-1.  In the site map of **Customer Service admin center**,
+1.  In the site map of **Copilot Service admin center**,
     select **Queues** in **Customer support**.
 
     ![A screenshot of a computer Description automatically
@@ -198,4 +198,4 @@ generated](./media/media5/image24.png)
 generated](./media/media5/image25.png)
 
 
-**Summary** - You have created workstream and Queue in the customer service admin center. You will also navigate through how we manage them in the Customer Service admin center.
+**Summary** - You have created workstream and Queue in the Copilot Service admin center. You will also navigate through how we manage them in the Copilot Service admin center.

@@ -61,11 +61,8 @@ generated](./media/media2/image21.jpg)
 
 ## Task 3 - Make Copilot available to agents
 
-1.  On the left navigation pane, Under **Agent
+1.  On the left navigation pane, Under **Support
     experience** select **Workspaces.**
-
-    ![A screenshot of a phone Description automatically
-generated](./media/media2/image14.png)
 
 2.  Select **Manage** under **Experience profiles.**
 

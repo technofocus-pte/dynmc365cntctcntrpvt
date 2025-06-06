@@ -1,6 +1,6 @@
-## Lab 4 - Manage Personas and custom security roles in Customer Service
+## Lab 4 - Manage Personas and custom security roles in Customer Service app
 
-**Objective** - In this Lab, you will check the personas in the Customer service and configure the roles
+**Objective** - In this Lab, you will check the personas in the Customer service app and configure the roles
 
 1.  On the left navigation pane, select **User
     management** in **Customer support** again.
@@ -27,4 +27,4 @@ persona
 
 5.  Select **Save and Close** after you have made any changes.
 
-    **Summary** - You checked the personas and different roles that can be assigned in the Customer service 
+    **Summary** - You checked the personas and different roles that can be assigned in the Customer service app

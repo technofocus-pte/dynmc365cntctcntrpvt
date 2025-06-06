@@ -107,7 +107,7 @@ generated](./media/media5/image11.png)
 
 4.  In the **Create a queue** dialog, enter the following details:
 
-    - **Name**: **Contoso queue for supervisors**
+    - **Name**: !!**Contoso queue for supervisors**!!
 
     - **Type**: Select **Messaging**
 

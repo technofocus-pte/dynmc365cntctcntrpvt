@@ -2,7 +2,7 @@
 
 **Objective** - You will create an agent experience profile and configure parameters to the profile in the Copilot Service service center
 
-## Task 1 - Create agent experience profiles in Customer Service admin center
+## Task 1 - Create agent experience profiles in Copilot Service admin center
 
 By using agent profiles, you can create targeted app experiences for
 agents and supervisors. Profiles help access the features that your
@@ -16,14 +16,14 @@ issues.
 
 2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
    
-3.  Select **Customer Service Admin center** from the list of Apps.
+3.  Select **Copilot Service Admin center** from the list of Apps.
 
-4.  Go to **Agent experience profiles** in **Support
+4.  Go to **Experience profiles** in **Support
     experience** \> **Workspaces**.
 
 5.  Select **New**
 
-6.  Enter the following details on the **Create a new agent experience
+6.  Enter the following details on the **Create a new experience
     profile** dialog.
 
     - **Name:**  !!Contoso Agent!!
@@ -34,9 +34,9 @@ issues.
 
     - Select **Create**.
 
-      ![](./media/media9/image3.png)
+      ![](./media/media9/new-pr.png)
 
-7.  An agent experience profile is created.
+7.  An Experience profile is created.
 
       ![A screenshot of a computer Description automatically
 generated](./media/media9/image4.png)
@@ -74,7 +74,7 @@ generated](./media/media9/image15.jpg)
     ![A screenshot of a computer Description automatically
 generated](./media/media9/image16.jpg)
    
-9. Switch back to Customer Service admin center tab. Go to **Agent experience profiles** in **Agent experience > Workspaces**.
+9. Switch back to Customer Service admin center tab. Go to **Experience profiles** in **Support experience > Workspaces**.
 10. Select **Contoso Agent** profile.
 11. In the **Users** section, specify the agents this profile must be associated with. Select **Add Users.**
 
@@ -140,4 +140,4 @@ enable it for the agent. Select **Save and Close**
 generated](./media/media9/image14.png)
 
 
-**Summary** - You created an agent experience profile and configure parameters to the profile in the Customer Admin service center.
+**Summary** - You created an experience profile and configure parameters to the profile in the Copilot Admin service center.

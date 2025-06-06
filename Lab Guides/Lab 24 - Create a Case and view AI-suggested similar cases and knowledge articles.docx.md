@@ -37,7 +37,7 @@
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image5.png)
 
-7.  Switch back to the **Customer Service admin center** tab. To enable
+7.  Switch back to the **Copilot Service admin center** tab. To enable
   the enhanced quick case form:
 
 8.  Switch the **Quick case form** toggle to **Yes**.
@@ -61,7 +61,7 @@
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image8.png)
 
-3.  In the Customer Service workspace, select the **Site Map** and then
+3.  In the Copilot Service workspace, select the **Site Map** and then
     select **Cases**.
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image9.png)
@@ -204,7 +204,7 @@ one case as parent and set other cases as its child cases.
 ## Task 6: View AI-suggested similar cases and knowledge articles
 
 1.  On Copilot Service Workspace, select the **Home** tab and then
-    select **Customer Service Agent Dashboard**.
+    select **Copilot Service Agent Dashboard**.
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image27.png)
 

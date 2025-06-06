@@ -83,11 +83,7 @@ generated](./media/media2/image16.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image17.png)
 
-5.  Scroll down to **Copilot AI features** section, you will see
-    features **Ask a question**, **Scan customer conversation and
-    suggest a response**, **Write an email**, **Case summary**, **Live
-    conversation summary**, you want to enable for that profile. are
-    enabled
+5.  Scroll down to **Copilot AI features** section. Make sure that all the Copilot AI features are enables.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image18.png)

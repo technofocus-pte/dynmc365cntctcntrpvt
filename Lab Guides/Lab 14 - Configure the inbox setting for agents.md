@@ -1,16 +1,16 @@
 # Lab 14 - Configure the inbox setting for agents
 
-**Objective** - In this Lab, you configure the inbox in Customer Service admin center by editing the agent experience profile to meet your preferred inbox settings.
+**Objective** - In this Lab, you configure the inbox in Copilot Service admin center by editing the agent experience profile to meet your preferred inbox settings.
 
 ## Task 1 - Exploring the inbox setting for agents
 
-You can configure the inbox in Contact Center admin center or Customer
+You can configure the inbox in Contact Center admin center or Copilot
 Service admin center by editing the agent experience profile to meet
 your preferred inbox settings.
 
 1.  On the Customer Service admin center app, under **Agent experience**, select **Workspaces**.
 
-2.  In **Agent experience profiles** section, select **Manage**.
+2.  In **Experience profiles** section, select **Manage**.
 
 3. Select the **Contoso Agent** profile.
 
@@ -87,4 +87,4 @@ To configure multiple views for the inbox, complete the following steps.
     ![A screenshot of a computer Description automatically
 generated](./media/media14/image6.png)
 
-**Summary** - You configured the inbox in Customer Service admin center by editing the agent experience profile to meet your preferred inbox settings.
+**Summary** - You configured the inbox in Copilot Service admin center by editing the agent experience profile to meet your preferred inbox settings.

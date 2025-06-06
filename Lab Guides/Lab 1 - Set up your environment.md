@@ -50,7 +50,7 @@ generated](./media/media1/image5.png)
 2.  Select **Customer Service admin center** from the list of apps.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media1/image6.png)
+generated](./media/media1/admin_center.png)
 
 3.  Select **Channels** under **Customer Support** on the left
     navigation pane.

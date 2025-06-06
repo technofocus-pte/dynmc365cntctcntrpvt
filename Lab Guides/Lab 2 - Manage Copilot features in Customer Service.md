@@ -67,7 +67,7 @@ generated](./media/media2/image21.jpg)
 2.  Select **Manage** under **Experience profiles.**
 
     ![A screenshot of a computer Description automatically
-generated](./media/media2/image15.png)
+generated](./media/media2/exp-pr.png)
 
 3.  Select the **Customer Service Trial profile** agent experience
     profile from the list.

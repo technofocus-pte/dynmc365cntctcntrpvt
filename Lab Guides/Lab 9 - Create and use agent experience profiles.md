@@ -1,6 +1,6 @@
 # Lab 9 - Create and use agent experience profiles
 
-**Objective** - You will create an agent experience profile and configure parameters to the profile in the Customer Admin service center
+**Objective** - You will create an agent experience profile and configure parameters to the profile in the Copilot Service service center
 
 ## Task 1 - Create agent experience profiles in Customer Service admin center
 
@@ -18,16 +18,10 @@ issues.
    
 3.  Select **Customer Service Admin center** from the list of Apps.
 
-4.  Go to **Agent experience profiles** in **Agent
+4.  Go to **Agent experience profiles** in **Support
     experience** \> **Workspaces**.
 
-    ![A screenshot of a phone Description automatically
-generated](./media/media9/image1.png)
-
 5.  Select **New**
-
-      ![A screenshot of a computer Description automatically
-generated](./media/media9/image2.png)
 
 6.  Enter the following details on the **Create a new agent experience
     profile** dialog.

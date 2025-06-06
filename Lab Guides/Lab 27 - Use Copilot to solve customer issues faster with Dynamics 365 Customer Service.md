@@ -9,11 +9,11 @@ case and resolve customer issues more efficiently. The case summary
 includes key information such as the case title, customer, subject,
 product, priority, case type, and description.
 
-1. In the Customer Service workspace, select the **Customer Service Agent Dashboard**.
+1. In the Copilot Service workspace, select the **Copilot Service Agent Dashboard**.
 
     ![](./media/media25/image4.png)
 
-2. Select one of the cases listed on the **Customer Service Agent Dashboard**.
+2. Select one of the cases listed on the **Copilot Service Agent Dashboard**.
 
     ![](./media/media25/image5.png)
 
@@ -35,7 +35,7 @@ product, priority, case type, and description.
 You can ask free-form questions just as you'd ask your colleague or
 supervisor who might know the answers.
 
-1.  In the **Copilot** pane, which is opened on right side of the
+1.  In the **Copilot** pane, which is opened on the right side of the
     screen, type !!What is Claudia Mazzanti issue!! and select
     **Send** icon.
 

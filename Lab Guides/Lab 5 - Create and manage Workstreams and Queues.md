@@ -9,27 +9,18 @@
 You can create workstreams for unified routing in the Copilot Service
 admin center app.
 
-1.  Open a new tab in the browser. Sign in to the Power Platform admin
-    center - !!https://admin.powerplatform.microsoft.com/!! with the
-    credentials provided to execute the lab in the home tab. Select **> Environments>
-    CustomerService Trial environment> Environment URL.**
-
-2.  You will be navigated to **Customer Service workspace**. Click on **App selector** to display the list of apps.
-   
-3.  Select **Copilot Service Admin center** from the list of Apps.
-
-4.  In the site map of admin center,
+1.  In the site map of **Copilot Service Admin center**,
     select **Workstreams** under **Customer support**.
 
     ![A screenshot of a phone Description automatically
 generated](./media/media5/image1.png)
 
-5.  Select **New workstream**.
+2.  Select **New workstream**.
 
     ![A screenshot of a chat Description automatically
 generated](./media/media5/image2.png)
 
-6.  In the **Create a workstream** dialog, enter the following details:
+3.  In the **Create a workstream** dialog, enter the following details:
 
     - **Name**: Enter an intuitive name - `Contoso chat workstream`.
 

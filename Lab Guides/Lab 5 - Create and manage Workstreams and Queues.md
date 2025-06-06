@@ -110,13 +110,12 @@ generated](./media/media5/image11.png)
 
 5.  The queue that you created is displayed.
 
-6.  Select **Add users**, and in the flyout menu, select the users who
-    should be part of the queue, and then select **Add**.
+6.  Select **Add users**, and in the flyout menu, select the **MOD Administrator**, and then select **Add**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image15.png)
     
-7.  The users are added to the queue.
+7.  The **MOD Administrator** is added to the queue.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media5/image14.png)

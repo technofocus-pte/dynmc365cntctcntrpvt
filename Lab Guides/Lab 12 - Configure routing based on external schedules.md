@@ -7,7 +7,7 @@
 To enable Workforce Management, complete the following steps:
 
 1. Navigate to your environment in Power Platform admin
-    center - !!https://admin.powerplatform.microsoft.com/!! with the
+    center - !!**https://admin.powerplatform.microsoft.com/**!! with the
     credentials provided to execute the labs.
 
 2. On the command bar, select **Resources** \> **Dynamics 365 apps**.
@@ -16,7 +16,7 @@ To enable Workforce Management, complete the following steps:
     ![A screenshot of a computer Description automatically generated](./media/media13/image1.png)
 
 3. Search for **Workforce Management for Customer Service**, and then
-    select **Install** from the list of apps.
+    click **Install app**.
 
     ![](./media/media13/image2.png)
 
@@ -35,7 +35,7 @@ To enable Workforce Management, complete the following steps:
 
 ## Task 2 - Enable shift-based routing
 
-1.  Switch back to the Customer Service admin center site map, refresh the portal and then select **Workforce
+1.  Switch back to the Copilot Service admin center site map, refresh the portal and then select **Workforce
     management** under **Operations**.
 
     ![](./media/media13/image6.png)

@@ -1,12 +1,12 @@
-# Lab 8 - Set up skill-based routing in unified routing
+# Lab 8 - Set up Skill-based routing in unified routing
 
 
 **Objective** - You will set up skill-based routing in unified routing.
 
-## Task 1: Create skills
+## Task 1: Create Skills
 
-1.  In the **Customer Service admin center** navigate to the site map
-    and select **User management** under **Customer support** group.
+1.  In the **Copilot Service admin center** navigate to the site map
+    and select **User management** under the **Customer support** group.
 
 2.  On the **User management** page, select **Manage** next to
     **Skills**.
@@ -33,8 +33,8 @@ generated](./media/media8/image2.png)
 
 ## Task 2: Create a rating model and rating value
 
-1.  In the **Customer Service admin center** navigate to the site map
-    and select **Routing** under **Customer support** group.
+1.  In the **Copilot Service admin center** navigate to the site map
+    and select **Routing** under the **Customer support** group.
 
 2.  Select **Manage** next to the **Skill-based routing**.
 
@@ -95,8 +95,8 @@ automatically generated](./media/media8/image10.png)
 
 ## Task 3: Add agent as bookable resource
 
-1.  In **Dynamics 365 Customer Service admin center**, in the site map,
-    select **User management** under **Customer support** group.
+1.  In **Dynamics 365 Copilot Service admin center**, in the site map,
+    select **User management** under the **Customer support** group.
 
 2.  On the **User management** page, select **Manage** next
     to **Users**.
@@ -150,8 +150,8 @@ generated](./media/media8/image17.png)
 
 ## Task 4: Assign agents to skill
 
-1.  In the **Customer Service admin center** navigate to the site map
-    and select **User management** under **Customer support** group.
+1.  In the **Copilot Service admin center** navigate to the site map
+    and select **User management** under the **Customer support** group.
 
 2.  On the **User management** page, select **Manage** next
     to **Skills**.

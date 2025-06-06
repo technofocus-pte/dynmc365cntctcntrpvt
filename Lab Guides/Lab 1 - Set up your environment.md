@@ -82,7 +82,7 @@ generated](./media/media1/image10.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image11.png)
 
-3.  Hover the pointer over the rows of your admin users that you want to
+3.  Hover the pointer over the rows of your **MOD Administrator** users that you want to
     update and select the check boxes.
 
     ![A screenshot of a computer Description automatically
@@ -94,7 +94,7 @@ generated](./media/media1/image12.png)
 
     ![](./media/media1/image13.png)
 
-5.  **Update skills**: On the dialog box that appears, do the following:
+5.  **Update skills**: On the dialog box that appears, review and note the options available:
 
     1.  **Add skills to users:** In the **Skills** box, select the
         skills that you want to add, select a proficiency, and then
@@ -122,8 +122,7 @@ generated](./media/media1/image14.png)
     queues**.
 
 8.  **Update queues**: On the dialog box that appears, in
-    the **Queues** box, select the queues to add or remove, and then
-    select **Add to all** or **Remove from all**. Save your changes.
+    the **Queues** box, review and note the options available.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image15.png)
@@ -133,8 +132,7 @@ generated](./media/media1/image15.png)
 10. Now perform step 7 again and select **Update capacity profile**.
 
 11. On this dialog box , in the **Capacity profiles** box, select the
-    profiles that you want to add or remove, and then select **Add to
-    all** or **Remove from all**. Save your changes.
+    profiles, review and note the options available.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media1/image16.png)

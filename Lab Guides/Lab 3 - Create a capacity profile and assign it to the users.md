@@ -4,7 +4,7 @@
 except reset frequency. If you no longer require the profile, you can
 delete it.
 
-1.  On the Customer Service admin center, select **User management** under **Customer support**.
+1.  On the Copilot Service admin center, select **User management** under **Customer support**.
 
     ![A screenshot of a phone Description automatically
 generated](./media/media3/image1.png)
@@ -40,7 +40,7 @@ generated](./media/media3/image3.png)
 
     ![](./media/media3/image4.png)
 
-5.  Select the capacity profile created. Select **Users** Tab and Select
+5.  Select the capacity profile created. Select the **Users** Tab and Select
     **Add user**
 
     ![A screenshot of a computer Description automatically
@@ -57,4 +57,4 @@ generated](./media/media3/image6.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media3/image7.png)
 
-**Summary** -  You successfully have created Capacity profile and assigned administrator to the capacity
+**Summary** -  You successfully have created Capacity profile and assigned the administrator to the capacity

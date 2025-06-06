@@ -74,8 +74,8 @@ generated](./media/media9/image15.jpg)
     ![A screenshot of a computer Description automatically
 generated](./media/media9/image16.jpg)
    
-9. Switch back to Customer Service admin center tab. Go to **Experience profiles** in **Support experience > Workspaces**.
-10. Select **Contoso Agent** profile.
+9. Switch back to the Copilot Service admin center tab. Go to **Experience profiles** in **Support experience > Workspaces**.
+10. Select the **Contoso Agent** profile.
 11. In the **Users** section, specify the agents this profile must be associated with. Select **Add Users.**
 
     ![A screenshot of a computer Description automatically
@@ -115,7 +115,7 @@ generated](./media/media9/image11.png)
       ![A screenshot of a computer Description automatically
 generated](./media/media9/image12.png)
 
-18. To enable the productivity tools that the agents can access when they
+18. Enable the productivity tools that the agents can access when they
   work on their assigned tasks. The following productivity tool options
   are available:
 
@@ -140,4 +140,4 @@ enable it for the agent. Select **Save and Close**
 generated](./media/media9/image14.png)
 
 
-**Summary** - You created an experience profile and configure parameters to the profile in the Copilot Admin service center.
+**Summary** - You have created an experience profile and configured parameters to the profile in the Copilot Admin service center.

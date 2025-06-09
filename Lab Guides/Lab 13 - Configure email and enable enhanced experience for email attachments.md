@@ -78,14 +78,9 @@ users to access and use the features.
     ![A screenshot of a computer Description automatically
 generated](./media/media12/image10.png)
 
-3.  Select **System** \> **Administration**.
+3.  Select **System** \> **Email Configuration**.
 
-    ![](./media/media12/image11.png)
-
-4.  On the **System Settings** page select **Email** tab.
-
-    ![A screenshot of a computer Description automatically
-generated](./media/media12/image12.png)
+4.  On the **Email Configuration** page select **Email Tracking** tab.
 
 5.  Scroll down to the **Enhanced email for Timeline** section, and then
     select the check box.

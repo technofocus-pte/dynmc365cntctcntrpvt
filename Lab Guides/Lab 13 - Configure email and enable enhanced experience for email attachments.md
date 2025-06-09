@@ -141,9 +141,7 @@ generated](./media/media12/image18.png)
 3.  On the **General** tab, scroll down to **Set blocked file extensions
     for attachments**.
 
-4.  Type one or more file extensions you want to block. Users who try to
-    upload a blocked file type see an error message that tells them the
-    attachment is blocked. For Now, Select **OK**
+4.  You can type one or more file extensions you want to block. Don't make any change for this scenario, Select **OK**
 
     ![](./media/media12/image20.png)
 

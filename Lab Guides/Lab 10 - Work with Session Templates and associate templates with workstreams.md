@@ -10,8 +10,6 @@
 2.  On the **Workspaces** page, select **Manage** for **Session
     templates**.
 
-    ![](./media/media10/image0.png)
-
 3.  Select **New** on the **Active Session Templates** page.
 
 4.  Specify the following on the **New Session Templates** page on the
@@ -32,8 +30,6 @@
     7.  **Apply session title to anchor tab** – Yes
 
     8.  Select **Save**
-
-    ![](./media/media10/image1.png)
 
 ## Task 2 - Associate application tabs, agents scripts with session templates
 

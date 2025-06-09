@@ -182,18 +182,14 @@ You can add multiple bots to a workstream based on your requirements.
 1.  On the **Copilot Service admin center**,
     select **Productivity** in **Support experience**.
 
-    ![A screenshot of a phone Description automatically
-generated](./media/media11/image31.png)
-
-2.  On the **Productivity** page, select **Manage** for **Agent
-    scripts**.
+2.  On the **Productivity** page, select **Manage** for **Scripts**.
 
     ![A close up of a text Description automatically
 generated](./media/media11/image32.png)
 
-3.  On the **Agent scripts** page, select **New**.
+3.  On the **Scripts** page, select **New**.
 
-4.  On the **New Agent script** page, specify the following:
+4.  On the **New Script** page, specify the following:
 
     1.  Name – !!Chat session script!!
 
@@ -201,20 +197,14 @@ generated](./media/media11/image32.png)
 
     3.  Description - !!This agent script is used for chat sessions.!!
 
-    ![](./media/media11/image33.png)
+    ![](./media/media11/new-script.png)
 
-5.  Select **Save**. The **Agent script steps** appear.
+5.  Select **Save**. The **Script steps** appear.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media11/image34.png)
-
-6.  In the **Agent script steps** section, select **New Agent script
+6.  In the **Script steps** section, select **New Script
     step**. 
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media11/image35.png)
-
-7.  Specify the following fields in the **New Agent script step** form.
+7.  Specify the following fields in the **New Script step** form.
 
     1.  Name - !!Greet the customer!!
 
@@ -222,7 +212,7 @@ generated](./media/media11/image35.png)
 
     3.  **Order** – !!1!!
 
-    4.  **Action type – Text**
+    4.  **Action type** – Text
 
     5.  **Text instructions** - `Greet the customer with the welcome message`
 
@@ -230,7 +220,7 @@ generated](./media/media11/image35.png)
     form.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media11/image36.png)
+generated](./media/media11/Script_step.png)
 
 9.  Select **Save & Close** to save the changes.
 

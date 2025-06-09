@@ -5,7 +5,7 @@
 ## Task 1 - Create a session template
 
 1.  In the site map of Copilot Service admin center,
-    select **Workspaces** in **Agent experience** group.
+    select **Workspaces** in **Support experience** group.
 
 2.  On the **Workspaces** page, select **Manage** for **Session
     templates**.
@@ -41,11 +41,7 @@ We will associate application tabs that need to open when a session is
 started. Agents can't close these application tabs.
 
 1.  On the session template page in the **Additional Tab** section, Select **Add Existing Application
-    Tab Template**.
-
-    ![](./media/media10/image2.png)
-
-2.  The **Lookup Records** pane appears. Search for and select **Customer
+    Tab Template**. The **Lookup Records** pane appears. Search for and select **Customer
     Summary**. Select **Add**. The application tabs are added to
     the session template.
 
@@ -55,13 +51,13 @@ generated](./media/media10/image3.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media10/image4.png)
 
-3.  Select the **Agent scripts** tab and set the **Enable build
+2.  Select the **Scripts** tab and set the **Enable build
     expression** toggle to **Yes** to define the expression to set an
     agent script as default for a particular session template.
 
     ![](./media/media10/image5.png)
 
-4.  Select **Save and close**.
+3.  Select **Save and close**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media10/image6.png)

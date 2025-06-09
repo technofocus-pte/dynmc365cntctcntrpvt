@@ -29,7 +29,7 @@ generated](./media/media16/image13.png)
     - Select **Next.**
 
     ![A screenshot of a computer Description automatically
-generated](./media/media16/chat_channel.png)
+generated](./media/media15/chat_channel.png)
 
 5.  On the workstream details page.
 

@@ -39,9 +39,6 @@ generated](./media/media15/chat_channel.png)
 
     - Select **Next**
 
-    ![A screenshot of a chat Description automatically
-generated](./media/media16/image15.png)
-
 6.  On the **Color Settings** page, select the **Cobalt** theme and then select **Next**.
 7.  Select **Next** on the **Header** page.
 8.  On the **Chat Widget** page, leave the details as it is. Enable the

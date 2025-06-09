@@ -86,26 +86,12 @@ generated](./media/media10/image10.png)
 
 6.  Select **Save and close**.
 
-7.  Select **Edit** beside **Agent notifications**
+7.  Select **Edit** beside **Customer service representative notifications**
 
-    ![A screenshot of a computer Description automatically generated](./media/media10/image11.png)
+    ![A screenshot of a computer Description automatically generated](./media/media10/notification.png)
 
-8.  On the **Agent notifications** panel that appears, select a template
-    for each of the following types of notifications:
-
-    - Incoming unauthenticated
-
-    - Incoming authenticated
-
-    - Consult
-
-    - Transfer
-
-    - Supervisor assign
+8.  On the **Customer service representative notifications** panel that appears, you can select the templates based on your requirements.
 
 9.  Select **Save and close**.
-
-    ![A screenshot of a chat Description automatically
-generated](./media/media10/image12.png)
 
 **Summary** - You created session templates and associate scripts to this session templates

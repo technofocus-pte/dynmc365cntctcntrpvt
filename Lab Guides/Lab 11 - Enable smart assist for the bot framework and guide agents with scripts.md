@@ -104,12 +104,9 @@ generated](./media/media11/image16.png)
 
     ![](./media/media11/image17.png)
 
-15. Select **System\ > Security** from the left navigation pane.
+15. Select **System > Security (Preview)** from the left navigation pane.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media11/image18.png)
-
-16. Select **Manage users in Dynamics 365** from the ribbon.
+16. Select **Users > Manage users in Dynamics 365** from the ribbon.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media11/image19.png)

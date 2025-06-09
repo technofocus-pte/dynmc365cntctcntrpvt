@@ -41,20 +41,19 @@ the **Omnichannel agent** role is assigned to it.
 1.  Open a new tab in the browser and launch the PowerPlatform admin
     center - !!https://admin.powerplatform.com/!!.
 
-2.  Select **Environments** on the left navigation pane.
+2.  Select **Manage > Environments** on the left navigation pane.
 
     ![A screenshot of a computer Description automatically
-generated](./media/media11/image5.png)
+generated](./media/media11/env.png)
 
 3.  Select the **Customer Service Trial** environment
     and then select **Settings**.
 
-    ![](./media/media11/image6.png)
+    ![](./media/media11/settings.png)
 
 4.  On the **Settings** page, select **Users + permissions**, and then
     select **Application users**.
 
-    ![](./media/media11/image7.png)
 
 5.  On the **Application users** page, select **New app user**.
 

@@ -68,36 +68,20 @@ generated](./media/media11/image9.png)
 
 7.  Select the **Contoso App** and then select **Add**.
 
-    ![](./media/media11/image10.png)
-
 8.  Select your trial environment **Business unit**.
 
-    ![](./media/media11/image11.png)
-
 9.  Select Edit on the **Security roles** field.
-
-    ![](./media/media11/image12.png)
 
 10. On the **Add security roles** page, select **Omnichannel
     agent** from the dropdown list and select **Save** to go back to
     **Create a new app user** dialog.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media11/image13.png)
-
 11. Select **Save**.
-
-    ![A screenshot of a computer screen Description automatically
-generated](./media/media11/image14.png)
 
 12. Select **Create**.
 
-    ![](./media/media11/image15.png)
-
 13. The App is successfully added.
 
-    ![A screenshot of a computer Description automatically
-generated](./media/media11/image16.png)
 
 14. Switch back to Customer Service Admin center. Select **Settings\ >
     Advanced Settings**

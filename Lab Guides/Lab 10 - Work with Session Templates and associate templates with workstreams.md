@@ -55,12 +55,9 @@ generated](./media/media10/image4.png)
     expression** toggle to **Yes** to define the expression to set an
     agent script as default for a particular session template.
 
-    ![](./media/media10/image5.png)
+    ![](./media/media10/script.png)
 
 3.  Select **Save and close**.
-
-    ![A screenshot of a computer Description automatically
-generated](./media/media10/image6.png)
 
 ## Task 3 - Associate or modify templates with workstreams
 

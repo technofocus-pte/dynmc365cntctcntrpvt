@@ -23,11 +23,13 @@ generated](./media/media16/image13.png)
     - Name – !!**Contoso Chat Widget**!!
 
     - Language – **English – United States**
+  
+    - Keep the default values for the rest of the settings. 
 
     - Select **Next.**
 
     ![A screenshot of a computer Description automatically
-generated](./media/media16/image14.png)
+generated](./media/media16/chat_channel.png)
 
 5.  On the workstream details page.
 
@@ -40,32 +42,28 @@ generated](./media/media16/image14.png)
     ![A screenshot of a chat Description automatically
 generated](./media/media16/image15.png)
 
-6.  On the **Chat Widget** page, leave the details as it is. Enable the
+6.  On the **Color Settings** page, select the **Cobalt** theme and then select **Next**.
+7.  Select **Next** on the **Header** page.
+8.  On the **Chat Widget** page, leave the details as it is. Enable the
     **Proactive chat** toggle to **Yes.** Select **Next.**
 
-    ![](./media/media16/image16.png)
-
-7.  On the **Behaviors** page, under **Custom automated messages** –
+9.  On the **Behaviors** page, under **Custom automated messages** –
     Select **Add a message**
 
-    ![](./media/media16/image17.png)
-
-8.  On **Add automated message** pane, select a trigger – **Agent
+10.  On **Add automated message** pane, select a trigger – **Agent
     assigned to conversation** from the **Message trigger** dropdown
     list.
 
-9.  In the **Automated message** box, type the message – !!**Hi, how can I
+11.  In the **Automated message** box, type the message – !!**Hi, how can I
     help you?**!! to be displayed.
 
-10.  Select **Confirm**.
+12.  Select **Confirm**.
 
         ![A screenshot of a computer Description automatically generated](./media/media16/image18.png)
 
-        ![A screenshot of a chat Description automatically generated](./media/media16/image19.png)
+13.  Enable the **Pre-conversation survey.** Select **Add**
 
-11.  Enable the **Pre-conversation survey.** Select **Add**
-
-12.  Enter the details
+14.  Enter the details
 
         - **Survey question name:** !!ContosoConsent!!
 
@@ -79,7 +77,7 @@ generated](./media/media16/image15.png)
 
         ![A screenshot of a computer Description automatically generated](./media/media16/image20.png)
 
-13.  Select **Add** again
+15.  Select **Add** again
 
         - **Survey question name:** FirstName
 
@@ -93,7 +91,7 @@ generated](./media/media16/image15.png)
 
         ![A screenshot of a chat Description automatically generated](./media/media16/image21.png)
 
-14.  Select **Add** again
+16.  Select **Add** again
 
         - **Survey question name:** LastName
 
@@ -107,7 +105,7 @@ generated](./media/media16/image15.png)
 
             ![A screenshot of a chat Description automatically generated](./media/media16/image22.png)
 
-15.  Select **Add** again
+17.  Select **Add** again
 
         - **Survey question name:** Age
 
@@ -121,9 +119,8 @@ generated](./media/media16/image15.png)
 
         ![A screenshot of a chat Description automatically generated](./media/media16/image23.png)
 
-        ![A screenshot of a chat Description automatically generated](./media/media16/image24.png)
 
-16. Set the toggle for **Post-conversation survey** to **Off**.
+18. Set the toggle for **Post-conversation survey** to **Off**.
 
 **Note - Authentication settings** option is enabled by default. Select
 drop-down under **Authentication name** and select **Create

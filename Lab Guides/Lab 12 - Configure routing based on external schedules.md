@@ -15,8 +15,7 @@ To enable Workforce Management, complete the following steps:
 
     ![A screenshot of a computer Description automatically generated](./media/media13/d365app.png)
 
-3. Search for **Workforce Management for Customer Service**, and then
-    click **Install app**.
+3. Select **Install app** for **Workforce Management for Customer Service** app.
 
 
 4. Select your Customer Service Trial environment. Agree to the terms of service, and

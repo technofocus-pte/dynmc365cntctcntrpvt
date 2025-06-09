@@ -13,7 +13,7 @@ To enable Workforce Management, complete the following steps:
 2. On the command bar, select **Resources** \> **Dynamics 365 apps**.
     The Dynamics 365 apps page is displayed.
 
-    ![A screenshot of a computer Description automatically generated](./media/media13/d365app.png)
+    ![A screenshot of a computer Description automatically generated](./media/media12/d365app.png)
 
 3. Select **Install app** for **Workforce Management for Customer Service** app.
 

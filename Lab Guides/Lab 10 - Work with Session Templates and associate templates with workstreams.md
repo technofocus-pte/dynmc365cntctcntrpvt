@@ -1,6 +1,6 @@
 # Lab 10 - Work with Session Templates and associate template with workstreams
 
-**Objective** - In this Lab, you will create session templates and associate scripts to this session templates
+**Objective** - In this Lab, you will create a session template and associate scripts to this session template
 
 ## Task 1 - Create a session template
 

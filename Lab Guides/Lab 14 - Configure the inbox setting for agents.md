@@ -24,8 +24,7 @@ generated](./media/media14/image0.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media14/image1.png)
 
-6.  Select a view and **Edit** to modify an existing view or create a
-    view, and configure the following fields:
+6.  Select a **Closed work items** view and select **Edit** to explore the existing view:
 
     - **Name:** Specify a name that shows in the inbox. Alphanumeric
       values are valid names.

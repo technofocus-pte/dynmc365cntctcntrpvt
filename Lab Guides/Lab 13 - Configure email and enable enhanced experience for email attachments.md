@@ -111,8 +111,7 @@ generated](./media/media12/image15.png)
 generated](./media/media12/image16.png)
 
 4.  Scroll down to the **Set file size limit for attachments** section,
-    set the file size you want to use for attachment, and then
-    select **OK**.
+    the default value is 5,120. Keep the default value and select **OK**.
 
     ![](./media/media12/image17.png)
 

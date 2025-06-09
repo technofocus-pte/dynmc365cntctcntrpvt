@@ -90,4 +90,4 @@ generated](./media/media10/image10.png)
 
 9.  Select **Save and close**.
 
-**Summary** - You created session templates and associate scripts to this session templates
+**Summary** - You created session template and associate scripts to this session template

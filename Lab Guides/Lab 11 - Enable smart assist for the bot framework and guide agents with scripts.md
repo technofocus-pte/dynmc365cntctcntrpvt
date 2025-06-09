@@ -7,23 +7,28 @@
 ### Task 1 – Register an app in Microsoft Entra
 
 1.  Open a new tab and open Microsoft Entra Admin center -
-    !!https://entra.microsoft.com/!!.
+    !!https://entra.microsoft.com/!!. Select **Postpone MFA** on the **Portal MFA Enforcement**.
 
-2.  Navigate to **Identity \> Applications \> App registration**.
+    ![](./media/media11/mfa.png)
+
+    Select **Confirm postponement**.
+    Select **Continue sign-in without MFA**.   
+
+3.  Navigate to **Identity \> Applications \> App registration**.
 
     ![](./media/media11/image1.png)
 
-3.  Select **New Registration**.
+4.  Select **New Registration**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media11/image2.png)
 
-4.  Enter the name of the app as `Contoso App` and click on
+5.  Enter the name of the app as `Contoso App` and click on
     **Register**.
 
     ![](./media/media11/image3.png)
 
-5.  You will be navigated to the **Contoso App** page.
+6.  You will be navigated to the **Contoso App** page.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media11/image4.png)

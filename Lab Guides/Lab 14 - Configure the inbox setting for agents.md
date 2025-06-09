@@ -8,7 +8,7 @@ You can configure the inbox in Contact Center admin center or Copilot
 Service admin center by editing the agent experience profile to meet
 your preferred inbox settings.
 
-1.  On the Customer Service admin center app, under **Agent experience**, select **Workspaces**.
+1.  On the Copilot Service admin center app, under **Support experience**, select **Workspaces**.
 
 2.  In **Experience profiles** section, select **Manage**.
 
@@ -19,7 +19,7 @@ your preferred inbox settings.
     ![A screenshot of a computer Description automatically
 generated](./media/media14/image0.png)
 
-5.  On the **Inbox Settings** page, turn on the **Enable Inbox** toggle.
+5.  On the **Inbox Settings** page, check if the **Enable Inbox** toggle is already enabled. If not, enable the toggle.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media14/image1.png)

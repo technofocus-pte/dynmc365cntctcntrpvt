@@ -13,25 +13,19 @@ To enable Workforce Management, complete the following steps:
 2. On the command bar, select **Resources** \> **Dynamics 365 apps**.
     The Dynamics 365 apps page is displayed.
 
-    ![A screenshot of a computer Description automatically generated](./media/media13/image1.png)
+    ![A screenshot of a computer Description automatically generated](./media/media13/d365app.png)
 
 3. Search for **Workforce Management for Customer Service**, and then
     click **Install app**.
 
-    ![](./media/media13/image2.png)
 
 4. Select your Customer Service Trial environment. Agree to the terms of service, and
     then select **Install**.
 
-    ![](./media/media13/image3.png)
 
 5. Wait until the **Workforce Management for Customer Service** is installed on the **Dynamics 365 apps** page.
 
     **Note** – The installation approximately takes 10 minutes to complete.
-
-    ![](./media/media13/image4.png)
-
-    ![](./media/media13/image5.png)
 
 ## Task 2 - Enable shift-based routing
 

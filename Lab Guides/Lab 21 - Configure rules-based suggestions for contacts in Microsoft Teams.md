@@ -15,28 +15,20 @@
     ![A screenshot of a computer screen Description automatically
 generated](./media/media21/image2.png)
 
-3.  On the **Microsoft Teams collaboration and chat** page, set the
-    toggle for **Turn on the linking of Dynamics 365 records to
-    Microsoft Teams channels** to **Yes**.
-
-    ![A close-up of a chat Description automatically
-generated](./media/media21/image3.png)
-
-4.  To get suggested contacts for any record type, perform the following
+3.  To get suggested contacts for any record type, perform the following
     steps:
 
     1.  In **Connect chat to Dynamics 365 records**, select record type-
         **Case** which we want to enable rules-based suggested contacts.
         The relative settings pane appears on the right.
 
-    2.  In **Suggest contacts**, turn on the toggle for **Rules-based
-        suggested contacts**.
+    2.  In **Suggest contacts**, ensure the toggle for **Rules-based suggested contacts** is turned on if it is not already enabled.
 
     3.  Select **Save**
 
     ![](./media/media21/image4-1.png)
 
-5.  In the **Update rules for suggesting contacts** section on the **Case** record, reorder or
+4.  In the **Update rules for suggesting contacts** section on the **Case** record, reorder or
     disable the rules for suggesting contacts. Users see the suggestions
     in the order we choose.
 
@@ -44,7 +36,7 @@ generated](./media/media21/image3.png)
       down arrow to move the rules up or down, respectively.
 
     - To disable a rule, hover over a rule, and then
-      select ![](./media/media21/image5.png) . When the rule is disabled, a
+      select the icon to disable the rule ![](./media/media21/image5.png) . When the rule is disabled, a
       check mark is displayed when you hover over the disabled rule.
 
     - To delete a rule, hover over the rule, and then
@@ -53,7 +45,7 @@ generated](./media/media21/image3.png)
 
         ![](./media/media21/image7.png)
 
-6.  Select **Save**.
+5.  Select **Save**.
 
 ## Exercise 2 - Adding a new rule
 

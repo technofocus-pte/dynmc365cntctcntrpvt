@@ -43,4 +43,4 @@ To enable Workforce Management, complete the following steps:
     ![](./media/media13/image8.png)
 
 
-**Summary** - You enabled workforce management and shift based routing in Customer Service Admin center.
+**Summary** - You enabled workforce management and shift based routing in Copilot Service Admin center.

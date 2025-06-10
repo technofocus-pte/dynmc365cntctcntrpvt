@@ -1,6 +1,6 @@
 # Lab 1 - Set up your environment
 
-**Objective** -  In this lab, you will activate the Customer Service trial, configure Channels, and manage user access within the Customer Service admin center.
+**Objective** -  In this lab, you will activate the Customer Service trial, configure Channels, and manage user access within the Copilot Service admin center.
 
 ## Task 1 - Enabling Customer Service Trial License 
 

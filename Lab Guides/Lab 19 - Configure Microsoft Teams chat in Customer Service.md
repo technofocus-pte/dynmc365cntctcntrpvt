@@ -52,7 +52,7 @@ generated](./media/media19/image19.15.jpg)
 
 1.	In the Copilot Service admin center or Contact Center admin center, go to **Support experience**, select **Collaboration**.
 2.	In **Embedded chat using Teams**, select **Manage**.
-3.	Under **Connect chats to Dynamics 365 records**, select the record type you want to configure.
+3.	Under **Connect chats to Dynamics 365 records**, select the record type you want to configure. For example, select Case record.
 4.	Select **Save**.
 
       ![A screenshot of a computer Description automatically
@@ -64,7 +64,7 @@ generated](./media/media19/image7.1.png)
       ![A screenshot of a computer Description automatically
 generated](./media/media19/image8.1.png)
  
-2.	On the **Allow chats to be connected to this record type** page, in **Choose record type**, select the name of the record type you want to use.
+2.	On the **Allow chats to be connected to this record type** page, in **Choose record type**, select the name of the record type you want to use. For example, select **Available Times**.
 3.	Select **Save**.
 
       ![A screenshot of a computer Description automatically

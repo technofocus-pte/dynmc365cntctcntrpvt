@@ -37,7 +37,7 @@ generated](./media/media1/image4.png)
 
 ## Task 2 - Set up channels
 
-You can set up channels in the Customer Service admin center
+You can set up channels in the Copilot Service admin center
 application. In the Power Platform admin center, while you can view
 existing environments and channels, you can't enable, edit, or delete
 channels.
@@ -139,4 +139,4 @@ generated](./media/media1/image16.png)
 
 12. Click on **Close.**
 
-**Summary** - In this lab, you activated the Customer Service trial, configured Channels, and managed user access within the Customer Service Admin Center.
+**Summary** - In this lab, you activated the Customer Service trial, configured Channels, and managed user access within the Copilot Service Admin Center.

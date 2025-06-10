@@ -8,7 +8,7 @@ To use copilots and generative AI features, you must consent to the
 terms of use in the Power Platform admin center. To grant consent, you
 must be a Power Platform administrator or Dynamics 365 administrator.
 
-1.  You can launch the Customer Service Admin center from the power platform admin center. 
+1.  You can launch the Copilot Service Admin center from the power platform admin center. 
 
 2. Open a new tab in the browser. Sign in to the Power Platform admin
     center - !!https://admin.powerplatform.microsoft.com/!! with the
@@ -46,7 +46,7 @@ generated](./media/media2/image13.png)
 
 ## Task 2 - Set up your Copilot
 
-1.  Switch back to **Customer Service admin center** tab.
+1.  Switch back to **Copilot Service admin center** tab.
 2.  Select **Productivity** under **Agent experience**.
 3.  Select **Manage** for **Copilot for questions and emails**.
 
@@ -69,7 +69,7 @@ generated](./media/media2/image21.jpg)
     ![A screenshot of a computer Description automatically
 generated](./media/media2/exp-pr.png)
 
-3.  Select the **Customer Service Trial profile** agent experience
+3.  Select the **Copilot Service Trial profile** agent experience
     profile from the list.
 
     ![A screenshot of a computer Description automatically
@@ -88,4 +88,4 @@ generated](./media/media2/image17.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media2/image18.png)
 
-**Summary** -  In this lab, you configured the available copilot features available in Customer service for the agents
+**Summary** -  In this lab, you configured the available copilot features available in Copilot service for the agents

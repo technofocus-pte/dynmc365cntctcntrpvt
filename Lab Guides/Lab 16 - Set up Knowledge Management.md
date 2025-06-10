@@ -127,7 +127,7 @@ generated](./media/media17/image12.png)
 1.  Go back and select **Knowledge**. In the **Filters** section,
 select **Manage**.
 
-2.  Set the **Enable search filters** toggle to **Yes**.
+2.  Make sure that the **Enable search filters** toggle is set to **Yes**.
 
 3.  Set the **Allow agent to personalize** toggle to **Yes**. This
     allows the service representatives to save the search filters

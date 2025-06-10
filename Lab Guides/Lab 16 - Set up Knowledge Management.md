@@ -15,11 +15,8 @@
    
 3.  Select **Copilot Service Admin center** from the list of Apps.
 4.  In the site map of Customer Service admin center,
-    select **Knowledge** in **Agent experience**. The **Knowledge** page
+    select **Knowledge** in **Support experience**. The **Knowledge** page
     appears.
-
-    ![A screenshot of a phone Description automatically
-generated](./media/media17/image1.png)
 
 5.  In the **Record types** section, select **Manage**.
 

@@ -82,11 +82,11 @@ generated](./media/media17/image6.png)
 5.  In the **Knowledge search experience** section, enable the following
     as required
 
-    - **Enable suggest-as-you-type**
+    - **Enable suggest as you type**
 
     - **Set search mode as all**
 
-    - **Show recently accessed knowledge articles for cases**
+    - **Show recently accessed knowledge articles**
 
     ![](./media/media17/image9.png)
 

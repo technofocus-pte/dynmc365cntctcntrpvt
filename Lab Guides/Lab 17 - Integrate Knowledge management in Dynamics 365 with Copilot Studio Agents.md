@@ -95,7 +95,7 @@ generated](./media/media18/image34.jpg)
 
 1.  Open a tab in the browser and go to the Copilot Studio home page -
     !!https://copilotstudio.microsoft.com/!! . Login with the credentials
-    provided to execute the lab.
+    provided to execute the lab. Accept the free trial, select United States for country/region.
 
 2.  Select the Environment as **Customer Service Trial** on top right
     corner of the homepage
@@ -145,48 +145,10 @@ generated](./media/media18/image34.jpg)
 
     A **Trigger** node appears on an otherwise blank topic authoring canvas.
 
-5.  Select the **More** icon (**…**) of the **Trigger** node, and then
-    select **Properties**.
-
-    ![](./media/media18/image12.png)
-
-6.  The **On Recognized Intent properties** panel appears. In this
-    panel, select the **Phrases** box.
-
-    ![A screenshot of a phone Description automatically generated](./media/media18/image13.png)
-
-7.  The **Phrases** secondary panel appears. Under **Add phrases**, Add
-    the trigger phrase and click on plus icon. Enter the below phrases.
-
-    - !!Store hours!!
-
-    - !!What time do you open!!
-
-    - !!Is the store open today!!
-
-    - !!Are you open on Sunday!!
-
-    - !!Hours of operation!!
-
-8.  Your agent needs 5 to 10 trigger phrases to train the AI model to
-    understand your customers' responses. To add more trigger phrases,
-    you can either:
-
-    - Select the **Add** icon ![](./media/media18/image14.png) next to the text
-      field and enter the desired phrase.
-
-    - Enter a phrase and select **Enter**.
-
-    **Note** - You can include punctuation in a trigger phrase, but it's best to use short phrases rather than long sentences.
-
-    ![A screenshot of a computer Description automatically generated](./media/media18/image15.png)
-
-    ![A screenshot of a computer Description automatically generated](./media/media18/image16.png)
-
-9.  Select **Details** on the toolbar to open the **Topic
+5.  Select **Details** on the toolbar to open the **Topic
     details** panel. Enter the name of the Topic as !!**Store hours**!!.
 
-10.  Select **Save**.
+6.  Select **Save**.
 
         ![A screenshot of a computer Description automatically generated](./media/media18/image17.png)
 
@@ -196,31 +158,24 @@ Perform the following steps to ensure that flow is properly configured
 and can now be replaced with **Search Dynamics 365 knowledge
 articles** action.
 
-1.  In the **Store hours** topic, create a question node to ask the user to search
-    for the input text.
+1.  Select **Add node** (**+**) and select **Add an action**.
 
-    ![A screenshot of a computer Description automatically generated](./media/media18/image42.jpg)
+2.  Select **Search Dynamics 365 knowledge article flow** action.
 
-2.  Provide the sample filter value after you trigger the topic.
-
-3.  Select **Add node** (**+**) and select **Add an action**.
-
-4.  Select **Search Dynamics 365 knowledge article flow** action.
-
-5.  Provide the input to the flow. An error might appear if the filter
+3.  Provide the input to the flow. An error might appear if the filter
     isn't provided to the flow.
 
     ![A screenshot of a computer Description automatically generated](./media/media17/image43-1.png)
 
     ![A screenshot of a computer Description automatically generated](./media/media18/image44.jpg)
 
-6.  Add a message node to show the results returned by the flow. 
+3.  Select **Add node** (**+**) and select **Send a message** node to show the results returned by the flow. 
 
     ![A screenshot of a computer Description automatically generated](./media/media18/image45.jpg)
 
-7.  Select **Save**.
+4.  Select **Save**.
 
-8. Use the trigger phase and run the topic to verify the flow.
+5. Use the trigger phase and run the topic to verify the flow.
 
 **Tip**
 

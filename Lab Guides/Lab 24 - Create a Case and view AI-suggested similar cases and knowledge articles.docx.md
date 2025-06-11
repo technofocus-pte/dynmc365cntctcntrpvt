@@ -212,9 +212,8 @@ one case as parent and set other cases as its child cases.
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image27.png)
 
-2.  In the **My Active Cases** list, select the **Fluctuations in
-    electric supply** case that you have created. The case opens in a
-    session tab, and the **Smart assist** pane appears on the right.
+2.  In the **My Active Cases** list, select the **A Mineral Build Up in Water Supply** case. The case opens in a
+    session tab. Select **Smart assist** tab from the right bar.
 
 3.  The **Smart assist** pane lists the knowledge articles and similar cases suggested by AI based on the case context.
 

@@ -99,8 +99,7 @@ up work in Dynamics 365 Customer Service.
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image11.png)
 
-2.  Select the presence icon to launch the presence dialog and update
-    your presence. You can select any of the following statuses.
+2.  Select the presence icon on the upper ribbon. Select the appropriate status from the available list of status.
 
     - Available
 
@@ -112,10 +111,6 @@ up work in Dynamics 365 Customer Service.
 
     - Offline
 
-    ![A screenshot of a computer Description automatically generated](./media/media22/image12.png)
-
-3.  Select **OK**.
-
-    ![A screenshot of a computer Description automatically generated](./media/media22/image13.png)
+    ![A screenshot of a computer Description automatically generated](./media/media22/presence.png)
 
 **Summary** - You have used the Copilot Service workspace to help view Inbox, Cases, Timeline and the Agent presence.

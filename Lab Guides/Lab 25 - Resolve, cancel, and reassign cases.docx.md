@@ -81,8 +81,7 @@ All case activities must be closed before you can cancel a case.
 
 3.  In the **Assign to Team or User** dialog box, in the **Assign
     To** field, select **User or Team**, and then in the **User or
-    team** field, select who you want to assign the case to. For this
-    scenario, select your organization.
+    team** field, select your organization.
 
 4.  Select **Assign**.
 

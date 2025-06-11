@@ -91,4 +91,4 @@ product, priority, case type, and description.
 
    ![](./media/media25/image21.png)
 
-**Summary** - You used Copilot to summarize cases, draft email and questions.
+**Summary** - You used Copilot to summarize cases and draft email.

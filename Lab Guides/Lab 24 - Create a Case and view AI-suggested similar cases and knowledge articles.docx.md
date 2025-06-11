@@ -134,16 +134,14 @@
 
     ![A screenshot of a computer Description automatically generated](./media/media24-new/image17.png)
 
-2.  On the **New Case** pane that appears on the right side, enter the
-    following information and then select **Save**.
+2.  On the **Quick Create: Case** pane that appears on the right side, enter the
+    following information and then select **Save and Close**.
 
-    - **Type** – !!Request!!
+    - **Case Type** – !!Request!!
 
     - **Customer** – !!Trey Research!!
 
-    - **Title** – !!Share a quotation for replacement!!
-
-    ![A screenshot of a computer Description automatically generated](./media/media24-new/image18.png)
+    - **Case Title** – !!Share a quotation for replacement!!
 
 3.  Select **Save & Close**.
 
@@ -217,26 +215,18 @@ one case as parent and set other cases as its child cases.
 
 3.  The **Smart assist** pane lists the knowledge articles and similar cases suggested by AI based on the case context.
 
-    ![A screenshot of a computer Description automatically generated](./media/media24-new/image28.png)
-
 4.  In the **Knowledge article suggestion** area, do any of the
     following:
 
     - Select an article title to go through and get relevant information. The selected knowledge article opens in a new application tab.
-
-    ![A screenshot of a computer Description automatically generated](./media/media24-new/image29.png)
 
 5.  Select more commands to do the following:
 
     - **Email Content:** Select to open the email compose form with the
     contents of the knowledge article pasted in the mail body.
 
-    ![A screenshot of a computer screen Description automatically generated](./media/media24-new/image30.png)
-
 6. Select the link icon to associate the article with the case as a
   related article.
-
-    ![A screenshot of a computer Description automatically generated](./media/media24-new/image31.png)
 
 7.  In the **Similar case suggestions** area, do any of the following:
 
@@ -248,10 +238,6 @@ one case as parent and set other cases as its child cases.
 
     - **Email agent:** Select to open the email compose form to send your questions to the agent who handled the similar case. The mail form opens on a new tab with the pertinent information and link to the resolved case filled in.
 
-    ![A screenshot of a computer Description automatically generated](./media/media24-new/image32.png)
-
 8. Select the link icon to link or clear the link with the similar case.
-
-    ![A screenshot of a computer Description automatically generated](./media/media24-new/image33.png)
 
 **Summary** - You have created Cases, associated cases as parent and child, converted a case to a Knowledge article and viewed AI-suggested similar cases and knowledge articles.

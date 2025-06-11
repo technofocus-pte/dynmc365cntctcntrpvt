@@ -134,13 +134,15 @@
 
 2.  Select the activity you want, and then select **Add to Queue**.
 
+    **Note**: If **Add to Queue** button is not seen on the ribbon, select the ellises (...) and then select **Add to Queue**.
+
     ![A screenshot of a computer Description automatically generated](./media/media23-new/image18.png)
 
-3.  The **Queue** field displays the queue the activity belongs to. The
+4.  The **Queue** field displays the queue the activity belongs to. The
     queue lookup displays only the queues that the activity can be added
     to.
 
-4.  Select the queue you want to route the activity to, and then
+5.  Select the queue you want to route the activity to, and then
     select **Add**.
 
     ![A screenshot of a computer Description automatically generated](./media/media23-new/image19.png)

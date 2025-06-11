@@ -30,46 +30,7 @@ product, priority, case type, and description.
 
     ![](./media/media25/image8.png)
 
-## Task 2: Draft questions
-
-You can ask free-form questions just as you'd ask your colleague or
-supervisor who might know the answers.
-
-1.  In the **Copilot** pane, which is opened on the right side of the
-    screen, type !!What is Claudia Mazzanti issue!! and select
-    **Send** icon.
-
-2.  You can now see that **Copilot** has answered your question.
-
-    ![](./media/media25/image9.png)
-
-3.  You can ask more questions like, !!what is the summary of the above
-    titled case?!! and click on **Send** icon. Copilot will give
-    response to your question.
-
-    ![](./media/media25/image10.png)
-
-4.  Enter the case number and view the copilot response
-
-    ![](./media/media25/image11.png)
-
-5.  If you're satisfied with the response Copilot provides, you can use
-    the whole response or a part of it to answer the customer's
-    question:
-
-- Copy part of Copilot's reply into your chat or read from it during a
-  voice conversation. Select the **Copy** icon to copy the entire
-  response to the clipboard.
-
-    ![](./media/media25/image12.png)
-
-> **Note**: When you're in an active digital messaging conversation,
-> select **Send to customer** to open an editing window where you can
-> revise the response and send it to the customer. You can also change
-> customer keywords to prompt Copilot to generate a more accurate
-> response.
-
-## Task 3: Draft emails
+## Task 2: Draft emails
 
 1.  Select **Write an email** tab on the **Copilot** pane.
 

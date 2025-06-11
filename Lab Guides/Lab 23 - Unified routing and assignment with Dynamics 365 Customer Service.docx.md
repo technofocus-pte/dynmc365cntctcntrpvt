@@ -121,7 +121,7 @@
 
 3.  In the **Assign To** field select **User or team**, and then select
     the user or team you want to assign the activity to. For this
-    scenario, select your organization for the User or team field.
+    scenario, select the organization your Admin tenant belongs to.
 
 4.  Select **Assign**.
 

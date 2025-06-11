@@ -65,13 +65,13 @@
 
 2.  Select **Cases**.
 
-    ![A screenshot of a computer Description automatically generated](./media/media22/image6.png)
+    ![A screenshot of a computer Description automatically generated](./media/media22/cases.png)
 
 3.  Select any of the cases to work on. It opens in a new tab.
     Alternatively, you can open an item in a new tab by selecting
     the **new session** icon.
 
-    ![A screenshot of a computer Description automatically generated](./media/media22/image7.png)
+    ![A screenshot of a computer Description automatically generated](./media/media22/new-case.png)
 
 ## Exercise 2 - Use Timeline
 

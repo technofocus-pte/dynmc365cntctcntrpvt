@@ -88,6 +88,6 @@ generated](./media/media10/image10.png)
 
 8.  On the **Customer service representative notifications** panel that appears, you can select the templates based on your requirements.
 
-9.  Select **Save and close**.
+9.  Select **Save and close**. If the **Save and close** button is disabled, select **Close**.
 
 **Summary** - You created session template and associate scripts to this session template

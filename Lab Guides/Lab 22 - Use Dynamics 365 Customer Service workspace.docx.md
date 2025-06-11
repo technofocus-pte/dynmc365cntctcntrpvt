@@ -99,7 +99,7 @@ up work in Dynamics 365 Customer Service.
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image11.png)
 
-2.  Select the presence icon on the upper ribbon. Select the appropriate status from the available list of status.
+2.  Select the presence icon. Select the appropriate status from the available list of status.
 
     - Available
 

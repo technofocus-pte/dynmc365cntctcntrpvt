@@ -51,6 +51,8 @@
 10.  Select **Configure** to customize the form in Power Apps. The Power
     Apps form page opens on a new tab.
 
+    **Note**: Do not close the tab.
+
         ![A screenshot of a computer Description automatically generated](./media/media24-new/image7.png)
 
 ## Task 2: Create a case
@@ -105,23 +107,25 @@
 
         ![A screenshot of a computer Description automatically generated](./media/media24-new/image15.png)
 
-11.  Enter the following information on the **New Case** page and then select **Save**.
+11.  Enter the following information on the **Summary** tab and then select **Save**.
 
-        - **Type** – !!Problem!!
-
-        - **Customer** – Trey Research
-
-        - **Title** – !!Minerals level is not maintained!!
-
-        - **Product** – Water Filtration System
+        - **Case Title** – !!Minerals level is not maintained!!
+   
+        -  **Customer** – Trey Research
 
         - **Subject** – !!Water supply!!
 
-        - **Origin** – Email
-
         - **Priority** – Normal
+   
+        - **Case Status** - In Progress
+   
+        - **Product** – !!Water Filtration System!!
 
         ![A screenshot of a computer Description automatically generated](./media/media24-new/image16.png)
+
+12. Select the **Details** tab and enter the following information and then select **Save**.
+
+   -  **Type** – !!Problem!!
 
 ## Task 3: Create a child case
 

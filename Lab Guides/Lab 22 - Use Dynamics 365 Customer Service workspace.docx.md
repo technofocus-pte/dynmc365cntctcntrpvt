@@ -15,7 +15,7 @@
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image1.png)
 
-3.  On the **Copilot Service Trial environment** page, click on
+3.  On the **Customer Service Trial environment** page, click on
     the **Environment URL**.
 
     ![A screenshot of a computer Description automatically generated](./media/media22/image2.png)
@@ -60,7 +60,7 @@
 
 ### Task 2 – View Cases
 
-1.  In the Copilot Service workspace or Contact Center workspace,
+1.  In the Customer Service workspace or Contact Center workspace,
     select the site map.
 
 2.  Select **Cases**.

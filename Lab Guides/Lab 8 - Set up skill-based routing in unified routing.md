@@ -114,25 +114,12 @@ generated](./media/media8/image11.png)
 
 5.  Select the **Omnichannel** tab.
 
-6.  Select **+** **New Bookable Resource** under the **Skills
+6.  Select **Trial User** under the **Skills
     Configuration** section.
 
-    ![Graphical user interface, text, application, email Description
-automatically generated](./media/media8/image13.png)
+7. Select **Edit**.
 
-    Note: If the "Trial User" is already created, open it and change the name to "Mark Brown"
-
-
-8.  Enter the following details on the **New Bookable Resource** page.
-
-    1.  **Name** – !!Mark Brown!!
-
-    2.  **Time Zone** - Central Time (US & Canada)
-
-    3.  Select **Save**.
-
-    ![A screenshot of a computer Description automatically
-generated](./media/media8/image14.png)
+8.  On the **New Bookable Resource** page, change the **Name** to !!Mark Brown!!. Select **Save**.
 
 9.  Click the **Work Hours** tab to see the details of the agent **Mark
     Brown**.

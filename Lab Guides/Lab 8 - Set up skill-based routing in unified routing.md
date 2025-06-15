@@ -130,7 +130,7 @@ generated](./media/media8/image15.png)
 10.  Select the **General** tab and then select **Save & Close** to
     navigate back to your admin User page.
 
-    ![A screenshot of a computer Description automatically
+        ![A screenshot of a computer Description automatically
 generated](./media/media8/image16.png)
 
 11.  On the **MOD Administrator** page, select **Save & Close**.

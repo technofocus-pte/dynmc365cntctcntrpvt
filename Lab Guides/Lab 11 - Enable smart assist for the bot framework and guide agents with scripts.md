@@ -83,14 +83,7 @@ generated](./media/media11/image9.png)
 13. The App is successfully added.
 
 
-14. Switch back to Customer Service Admin center. Select **Settings\ >
-    Advanced Settings**
-
-    ![](./media/media11/image17.png)
-
-15. Select **System > Security (Preview)** from the left navigation pane.
-
-16. Select **Users > Manage users in Dynamics 365** from the ribbon.
+14. Go to **Copilot Service Admin Center > User Management**. Click **Manage** at **Users**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media11/image19.png)

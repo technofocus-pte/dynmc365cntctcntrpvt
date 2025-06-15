@@ -115,24 +115,13 @@ generated](./media/media9/image11.png)
       ![A screenshot of a computer Description automatically
 generated](./media/media9/image12.png)
 
-18. Enable the productivity tools that the agents can access when they
-  work on their assigned tasks. The following productivity tool options
-  are available:
+18. Turn on the toggle against the option in the **Productivity Pane** as per the screnshot to
+enable it for the agent.
 
-      - Default mode
+19. Enable the available productivity tools that the agents can access when they
+  work on their assigned tasks. 
 
-      - Smart assist
-
-      - Agent scripts
-
-      - Microsoft Teams
-
-      - Knowledge search
-
-      - Copilot help pane
-
-19. Turn on the toggle against the option in the **Productivity Pane** as per the screnshot to
-enable it for the agent. Select **Save and Close**
+20. Select **Save and Close**
 
       ![](./media/media9/image13.png)
 

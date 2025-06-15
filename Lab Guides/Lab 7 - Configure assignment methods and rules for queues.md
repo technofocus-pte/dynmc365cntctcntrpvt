@@ -27,8 +27,7 @@ generated](./media/media7/image3.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media7/image4.png)
 
-6.  In the **Create work assignment** dialog, enter `Contoso work
-    assignment` in the **Name** field and **Description** field and
+6.  In the **Create work assignment** dialog, enter `Contoso work assignment` in the **Name** field and **Description** field and
     then select **Create**.
 
     ![A screenshot of a computer Description automatically

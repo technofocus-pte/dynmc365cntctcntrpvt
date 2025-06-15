@@ -20,7 +20,12 @@ generated](./media/media5/image1.png)
     ![A screenshot of a chat Description automatically
 generated](./media/media5/image2.png)
 
-3.  In the **Create a workstream** dialog, enter the following details:
+3. On the **Create a workstream** dialoge, select Inbound and then select **Next**.
+
+    ![A screenshot of a chat Description automatically
+generated](./media/media5/create.png)
+
+5.  Enter the following details:
 
     - **Name**: Enter an intuitive name - `Contoso chat workstream`.
 

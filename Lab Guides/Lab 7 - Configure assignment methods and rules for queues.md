@@ -38,8 +38,7 @@ generated](./media/media7/image5.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media7/image6.png)
 
-8.  On the **Create Prioritization Ruleset** dialog, enter `Contoso
-    prioritization ruleset` in the **Name** field and **Description**
+8.  On the **Create Prioritization Ruleset** dialog, enter `Contoso prioritization ruleset` in the **Name** field and **Description**
     field.
 
 9.  Select **Create**.
@@ -53,8 +52,7 @@ generated](./media/media7/image7.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media7/image8.png)
 
-11. On the **Create prioritization rule** dialog, enter `Contoso
-    prioritization rule` in the **Name** field.
+11. On the **Create prioritization rule** dialog, enter `Contoso prioritization rule` in the **Name** field.
 
 12. Select **+ Add** and then select **Add related entity**.
 
@@ -84,8 +82,7 @@ automatically generated](./media/media7/image10.png)
     ![Graphical user interface, text, application Description automatically
 generated](./media/media7/image11.png)
 
-20. On the **Create Assignment Ruleset** dialog, enter `Contoso
-    assignment ruleset` in the **Name** field and **Description**
+20. On the **Create Assignment Ruleset** dialog, enter `Contoso assignment ruleset` in the **Name** field and **Description**
     field.
 
 21. Click **Create**.
@@ -99,8 +96,7 @@ generated](./media/media7/image12.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media7/image13.png)
 
-23. **On the Create Assignment rule** page, enter `Contoso assignment
-    rule`  in the **Name** field.
+23. **On the Create Assignment rule** page, enter `Contoso assignment rule`  in the **Name** field.
 
 24. Delete the rules that are already added.
 

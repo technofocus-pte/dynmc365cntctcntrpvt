@@ -102,12 +102,12 @@ generated](./media/media7/image13.png)
 23. **On the Create Assignment rule** page, enter `Contoso assignment
     rule`  in the **Name** field.
 
-24. Select **+ Add** and then select **Add row**.
+24. Delete the rules that are already added.
 
-25. Create the following condition in the first row: User skills **Exact
+25. Select **+ Add** and then select **Add row**.
+
+26. Create the following condition in the first row: User skills **Exact
     match** Skill.
-
-26. Delete the other rules if you see them.
 
 27. Select **+ Add** and then select **Add group**.
 

@@ -109,7 +109,7 @@ generated](./media/media8/image11.png)
 
     ![](./media/media8/image12.png)
 
-4.  On the **Omnichannel Users** page, select your admin from the
+4.  On the **Omnichannel Users** page, select **MOD Administrator** from the
     list.
 
 5.  Select the **Omnichannel** tab.
@@ -120,7 +120,10 @@ generated](./media/media8/image11.png)
     ![Graphical user interface, text, application, email Description
 automatically generated](./media/media8/image13.png)
 
-7.  Enter the following details on the **New Bookable Resource** page.
+    Note: If the "Trial User" is already created, open it and change the name to "Mark Brown"
+
+
+8.  Enter the following details on the **New Bookable Resource** page.
 
     1.  **Name** – !!Mark Brown!!
 
@@ -131,19 +134,19 @@ automatically generated](./media/media8/image13.png)
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image14.png)
 
-8.  Click the **Work Hours** tab to see the details of the agent **Mark
+9.  Click the **Work Hours** tab to see the details of the agent **Mark
     Brown**.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image15.png)
 
-9.  Select the **General** tab and then select **Save & Close** to
+10.  Select the **General** tab and then select **Save & Close** to
     navigate back to your admin User page.
 
     ![A screenshot of a computer Description automatically
 generated](./media/media8/image16.png)
 
-10.  On the **MOD Administrator** page, select **Save & Close**.
+11.  On the **MOD Administrator** page, select **Save & Close**.
 
         ![A screenshot of a computer Description automatically
 generated](./media/media8/image17.png)

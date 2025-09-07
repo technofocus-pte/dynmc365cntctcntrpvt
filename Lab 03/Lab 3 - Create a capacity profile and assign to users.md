@@ -41,7 +41,7 @@ workload management and efficient distribution of tasks among agents.
     - **Assignment blocking**: Set the toggle to **Yes**. When the work
       item limit is met, the agent isn’t assigned a new work item
       automatically.
-
+  
       ![](./media/image4.png)
 
 5.  Select the capacity profile created. Select the **Users** Tab and
@@ -63,3 +63,4 @@ workload management and efficient distribution of tasks among agents.
 By completing this lab, you created a capacity profile and successfully
 assigned it to a user. This setup helps control workload distribution,
 prevents over-assignment, and improves overall agent productivity.
+

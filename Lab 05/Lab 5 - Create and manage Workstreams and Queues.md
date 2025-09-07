@@ -61,7 +61,7 @@ interactions are efficiently routed and handled by the right agents.
 1.  Select **Workstreams** on the left navigation pane under **Customer
     Support**.
 
-2.  Select **Contoso chat workstream** on the **All workstreams** page
+2.  TO edit, select **Contoso chat workstream** on the **All workstreams** page
     and select **Edit** on the command menu to edit the workstream.
 
     ![](./media/image6.png)
@@ -150,8 +150,7 @@ interactions are efficiently routed and handled by the right agents.
     ![A screenshot of a computer Description automatically
   generated](./media/image19.png)
 
-11. On the **New Operating Hour** page, enter !!**Contoso operation
-    hours**!! in the **Name** field and !!**Description**!! field.
+11. On the **New Operating Hour** page, enter !!Contoso operation hours!! in the **Name** field and !!Description!! field.
 
 12. Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.
@@ -196,3 +195,4 @@ interactions are efficiently routed and handled by the right agents.
 ### Conclusion
 
 By completing this lab, you created and managed workstreams and queues, enabling structured routing of customer interactions. This setup helps improve operational efficiency, ensures timely responses, and supports better workload management for agents.
+

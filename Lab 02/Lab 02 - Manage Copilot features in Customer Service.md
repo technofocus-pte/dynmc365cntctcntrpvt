@@ -50,7 +50,7 @@ must be a Power Platform administrator or Dynamics 365 administrator.
 
 ## Task 2 - Set up your Copilot
 
-1.  Switch back to **Copilot Service admin center** tab. Select **Productivity** under **Support experience** nd then select **Manage** for **Copilot for questions and emails**.
+1.  Switch back to **Copilot Service admin center** tab. Select **Productivity** under **Support experience** and then select **Manage** for **Copilot for questions and emails**.
 
     ![](./media/image5.png)
 
@@ -61,7 +61,7 @@ must be a Power Platform administrator or Dynamics 365 administrator.
 
 3.  Scroll up and then Select the checkbox for **Ask a question**.
 
-4.  Select **Save and close**.
+4.  From the top command bar select **Save and close**.
 
     ![](./media/image7.png)
 
@@ -101,3 +101,4 @@ configured Copilot with knowledge sources, and made it available for
 agents. This setup enhances agent productivity by equipping them with
 intelligent tools that streamline customer interactions and improve
 service quality.
+

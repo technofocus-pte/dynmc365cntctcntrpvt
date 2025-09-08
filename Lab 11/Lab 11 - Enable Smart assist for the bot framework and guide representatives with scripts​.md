@@ -22,14 +22,14 @@ repeatable guidance during customer sessions.
 
 1.  Open a new tab and open Microsoft Entra Admin center -
     !!https://entra.microsoft.com!!. Select **Postpone MFA** on the
-    **Portal MFA Enforcement**. Select **Confirm** postponement. Select
+    **Portal MFA Enforcement**. Select **Confirm postponement**. Select
     Continue **sign-in without MFA**.
 
     ![](./media/image1.png)
 
     ![](./media/image2.png)
 
-2. Select Continue sign-in without MFA
+2. Select **Continue sign-in without MFA**.
 
     ![](./media/image3.png)
 
@@ -182,7 +182,7 @@ You can add multiple bots to a workstream based on your requirements.
 
     3.  Description - !!This agent script is used for chat sessions.!!
 
-5.  Select **Save**. The **Script steps** appear.
+5.  Select **Save**. The **Script steps** appear. If the option is not visible click on the ellipsis icon and then select the option.
 
     ![](./media/image28.png)
 
@@ -231,7 +231,7 @@ opened.
 3.  Select the **scripts** tab.
 
 4.  In the **scripts** section, select **Add Existing script**.
-    The **Lookup Records** pane appears.
+    The **Lookup Records** pane appears. If the option is not appear click on the ellipsis icon on the scripts and then select the option.
 
     ![](./media/image34.png)
 

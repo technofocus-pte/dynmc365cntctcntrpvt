@@ -18,8 +18,7 @@ case and resolve customer issues more efficiently. The case summary
 includes key information such as the case title, customer, subject,
 product, priority, case type, and description.
 
-1.  In the Copilot Service workspace, select the **Copilot Service Agent
-    Dashboard**.
+1.  In the Copilot Service workspace, select the **Dashboard** under services.
 
 - ![](./media/image1.png)
 
@@ -28,8 +27,7 @@ product, priority, case type, and description.
 
 > ![](./media/image2.png)
 
-3.  Select one of the cases listed on the **Copilot Service Agent
-    Dashboard**.
+3.  Select one of the cases listed on the **Dashboard**.
 
 - ![](./media/image3.png)
 

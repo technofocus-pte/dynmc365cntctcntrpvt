@@ -57,7 +57,7 @@ deliver personalized support.
     ![](./media/image6.png)
 
 8.  On the **Chat Widget** page, leave the details as it is. Enable the
-    **Proactive chat** toggle to **Yes.** Select **Next.**
+    **Proactive chat** toggle to **On** Select **Next.**
 
     ![](./media/image7.png)
 
@@ -70,8 +70,7 @@ deliver personalized support.
     assigned to conversation** from the **Message trigger** dropdown
     list.
 
-11. In the **Automated message** box, type the message – !!**Hi, how can
-    I help you?**!! to be displayed.
+11. In the **Automated message** box, type the message – !!Hi, how can I help you?!! to be displayed.
 
 12. Select **Confirm**.
 
@@ -86,8 +85,7 @@ deliver personalized support.
 
     - **Survey question name:** !!ContosoConsent!!
 
-    - **Question text**: !!We collect demographic data. Please confirm
-      whether you agree to provide the basic information.!!
+    - **Question text**: !!We collect demographic data. Please confirm whether you agree to provide the basic information.!!
 
     - **Answer type –** !!User consent!!
 
@@ -100,9 +98,9 @@ deliver personalized support.
 
 15. Select **Add** again
 
-    - **Survey question name:** FirstName
+    - **Survey question name:** !!FirstName!!
 
-    - **Question text**: FirstName
+    - **Question text**: !!FirstName!!
 
     - **Answer type –** Single line
 
@@ -115,9 +113,9 @@ deliver personalized support.
 
 16. Select **Add** again
 
-    - **Survey question name:** LastName
+    - **Survey question name:** !!LastName!!
 
-    - **Question text**: LastName
+    - **Question text**: !!LastName!!
 
     - **Answer type –** Single line
 
@@ -130,9 +128,9 @@ deliver personalized support.
 
 17. Select **Add** again
 
-    - **Survey question name:** Age
+    - **Survey question name:** !!Age!!
 
-    - **Question text**: Enter your Age
+    - **Question text**: !!Enter your Age!!
 
     - **Answer type –** Single line
 

@@ -104,8 +104,8 @@ generated](./media/image7.jpg)
   ![A screenshot of a computer Description automatically
 generated](./media/image17.jpg)
 
-17. Go back to **Default Solution** \> **Cloud flows** and turn
-    on **Search Dynamics 365 knowledge article flow** flow.
+17. Go back to **Default Solution** \> **Cloud flows** and 
+    select **Search Dynamics 365 knowledge article flow** check box and then select Turn on from top bar.
 
   ![A screenshot of a computer Description automatically
   generated](./media/image18.jpg)
@@ -130,8 +130,7 @@ generated](./media/image17.jpg)
 4.  In the descriptive field enter below given prompt and the click on
     the **Execute** button.
 
-  !!Create an agent name as Contoso Agent which use the Search Dynamic 365
-  Knowledge article flow.!!
+    !!Create an agent name as Contoso Agent which use the Search Dynamic 365 Knowledge article flow.!!
 
   ![](./media/image21.png)
 
@@ -155,13 +154,11 @@ generated](./media/image17.jpg)
 
     ![](./media/image25.png)
 
-3.  In the top left corner, Enter the name of the Topic as !!**Store
-    hours**!!
+3.  In the top left corner, Enter the name of the Topic as !!Store hours!!
 
     ![](./media/image26.png)
 
-4.  In the describe field of trigger node, enter !!Store hours, what
-    time do you open?, Are you open on Sunday!! in the field.
+4.  In the describe field of trigger node, enter !!Store hours, what time do you open?, Are you open on Sunday!! in the field.
 
     ![](./media/image27.png)
 

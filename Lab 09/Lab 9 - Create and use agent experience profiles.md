@@ -39,7 +39,7 @@ issues.
 
     [](./media/image5.png)
 
-5. Click on the + new from top bar to create new experience profile.
+6. Click on the + new from top bar to create new experience profile.
 
     ![](./media/image6.png)
 
@@ -172,3 +172,4 @@ session templates to the profile. Additionally, you enabled the
 productivity pane and related tools, ensuring that agents have access to
 the right resources and streamlined experiences to perform their tasks
 efficiently.
+

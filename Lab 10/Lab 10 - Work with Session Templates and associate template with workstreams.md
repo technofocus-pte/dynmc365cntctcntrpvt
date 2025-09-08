@@ -37,7 +37,7 @@ daily tasks to resolve customer issues.
 
     ![](./media/image4.png)
 
-4.  On the **Workspaces** page, select **Manage** for **Session
+4.  Select **Workspaces** under Support experience  and then select **Manage** for **Session
     templates**.
 
     ![](./media/image5.png)
@@ -63,7 +63,7 @@ daily tasks to resolve customer issues.
 
     7.  **Apply session title to anchor tab** – Yes
 
-    8.  Select **Save**
+    8.  Select **Save** from top command bar.
 
     ![](./media/image7.png)
 
@@ -74,11 +74,11 @@ started. Agents can’t close these application tabs.
 
 1.  On the session template page in the **Additional Tab** section,
     Select **Add Existing Application Tab Template**. The **Lookup
-    Records** pane appears.
+    Records** pane appears. if option is not visible click on the ellipsis icon and select the option.
 
     ![](./media/image8.png)
 
-2.  Search for and select **Customer Summary**. Select **Add**. The
+2.  Search for and select !!Customer Summary!!. Select **Add**. The
     application tabs are added to the session template.
 
     ![A screenshot of a computer Description automatically
@@ -93,12 +93,12 @@ started. Agents can’t close these application tabs.
 
     ![](./media/image11.png)
 
-4.  Select **Save and close**.
+4.  Select **Save and close** from top command bar.
 
 ## Task 3 - Associate or modify templates with workstreams
 
 1.  In the Copilot Service Admin Center site map,
-    select **Workstreams**.
+    select **Workstreams** under customer support.
 
 2.  Select the **Contoso Chat workstream**
 

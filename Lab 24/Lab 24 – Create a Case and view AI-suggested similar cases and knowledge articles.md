@@ -62,16 +62,16 @@ faster and more accurately.
   generated](./media/image6.png)
 
 10. Select **Configure** to customize the form in Power Apps. The Power
-    Apps form page opens on a new tab.
+    Apps form page opens on a new tab. Navigate back to copilot service adminc center and select save and close from the top command bar.
 
-  > Note: Do not close the tab.
+    > Note: Do not close the tab.
  
 
 ## Task 2: Create a case
 
 1.  Select the **App selector** from the top ribbon.
 
-2.  Select **Copilot Service workspace** from the **Apps** page.
+2.  Select **Copilot Service workspace** from the **Apps selector**.
 
     ![](./media/image7.png)
 
@@ -142,10 +142,7 @@ faster and more accurately.
       ![A screenshot of a computer Description automatically
   generated](./media/image15.png)
 
-11. Select the **Details** tab and enter the following information and
-    then select **Save**.
-
-    - **Type** – !!Problem!!
+11. Select  **Type** field and enter !!Problem!!.
 
     ![](./media/image16.png)
 

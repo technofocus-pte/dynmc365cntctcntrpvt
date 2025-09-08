@@ -102,7 +102,7 @@ productivity tools.
     ![](./media/image14.png)
 
 9.  Switch back to the Copilot Service admin center tab. Navigate to
-    **Support experience \> Workspaces** and then click on the Manage
+    **Support experience > Workspaces** and then click on the **Manage**
     option in **Experience** Profile section.
 
     ![](./media/image15.png)
@@ -154,8 +154,7 @@ productivity tools.
 18. Turn on the toggle against the option in the **Productivity
     Pane** as per the screnshot to enable it for the agent.
 
-19. Enable the available productivity tools that the agents can access
-    when they work on their assigned tasks.
+19. Enable the available productivity tools that the agents can access (**Copilot, Agent Script, Smart assist**)when they work on their assigned tasks.
 
 20. Select **Save and Close**
 

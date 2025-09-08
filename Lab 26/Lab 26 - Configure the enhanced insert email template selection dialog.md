@@ -42,14 +42,12 @@ balance modern functionality with tailored application needs.
 
 > ![](./media/image4.png)
 
-- 
-
 5.  Select **Add Existing** \> **More** \> **Setting**.
 
 - ![](./media/image5.png)
 
 6.  On the **Add existing Setting Definition** pane, search and select
-    **Enable the New Insert Template Dialog** option and then
+    !!Enable the New Insert Template Dialog!! option and then
     select **Next**.
 
 - ![](./media/image6.png)

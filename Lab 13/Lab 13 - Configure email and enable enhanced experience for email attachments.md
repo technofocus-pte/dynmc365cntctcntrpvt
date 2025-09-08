@@ -42,11 +42,11 @@ Email must be enabled for users so they can view and access it. When
 email is enabled, it shows as an option on the command bar.
 
 
-1.  In Power Apps, go to **Settings** \> **Advanced Settings**.
+1.  In Power Apps, From top right side of the window go to **Settings** > **Advanced Settings**.
 
     ![](./media/image4.png)
 
-2.  From the top menu, select **Settings** \> **Customizations\>
+2.  From the top menu, select **Settings** **drop down** > **Customizations\>
     Customizations.**
 
     ![](./media/image5.png)
@@ -77,7 +77,7 @@ email is enabled, it shows as an option on the command bar.
     ![](./media/image10.png)
 
 8.  When you complete your updates, select **Publish All
-    Customizations** in the top-left corner to display the changes.
+    Customizations** from the top-left corner to display the changes.
 
     ![](./media/image11.png)
 
@@ -87,11 +87,11 @@ Enhanced email is the default setting, but you must enable email for
 users to access and use the features.
 
 1.  Open your **Copilot Service Admin Center** App. In the app, go
-    to **Settings** \> **Advanced Settings**.
+    to **Settings** from the top right side > **Advanced Settings**.
 
     ![](./media/image12.png)
 
-2.  Select **System** \> **Email Configuration**. On the **Email
+2.  Select **System** > **Email Configuration**. On the **Email
     Configuration** page select **Email Tracking** tab.
 
     ![](./media/image13.png)
@@ -110,12 +110,11 @@ users to access and use the features.
 You can manage file size limits for email file attachments by completing
 the following steps:
 
-1.  In Power Apps portal, select **Settings \> Advanced Settings.**
+1.  In Power Apps portal, select from top right side **Settings > Advanced Settings.**
 
     ![](./media/image15.png) 
 
-2.  Click on the down arrow next to **Settings**, select **System \>
-    Email Configuration.**
+2.  Click on the down arrow next to **Settings**, select **System > Email Configuration.**
     
     ![](./media/image16.png)
 

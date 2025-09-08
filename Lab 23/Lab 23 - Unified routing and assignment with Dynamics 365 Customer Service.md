@@ -151,14 +151,9 @@ are efficiently assigned to the right agents or teams.
 
     ![](./media/image18.png)
 
-3.  In the **Assign To** field select **User or team**, and then select
-    the user or team you want to assign the activity to. For this
-    scenario, select the organization your Admin tenant belongs to.
+3.  In the **Assign To** field , forthis lab guide select **me**, and then Select **Assign**.
 
-4.  Select **Assign**.
-
-    ![A screenshot of a computer Description automatically
-  generated](./media/image19.png)
+  ![](./media/imagea.png)
 
 ## Task 5 - Add to queue
 
@@ -177,7 +172,7 @@ are efficiently assigned to the right agents or teams.
     queue lookup displays only the queues that the activity can be added
     to.
 
-4.  Select the queue you want to route the activity to, and then
+4.  Select the Default entity queue and then
     select **Add**.
 
     ![A screenshot of a computer Description automatically
@@ -197,13 +192,12 @@ you can move the case to a queue so that someone else can pick it up.
 2.  In the list of cases, select the case that you want to add to a
     queue.
 
-3.  On the command bar, select **Add to Queue**.
+3.  On the command bar, select **Add to Queue**. If option is not vissible click on the ellipsis icoa and select the option.
 
     ![A screenshot of a computer Description automatically
   generated](./media/image23.png)
 
-4.  In the **Queue** field, select the queue that you want to add the
-    case to, and then select **Add**.
+4.  In the **Queue** field, select the Default queue, and then select **Add**.
 
     ![A screenshot of a computer Description automatically
   generated](./media/image24.png)

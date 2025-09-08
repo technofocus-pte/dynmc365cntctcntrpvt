@@ -48,7 +48,7 @@ language proficiency or other required competencies.
 
 3.  On the **Omnichannel Configuration** page, set the toggle for
     **Enable update skill control** to **Yes**. In the **Rating
-    Model** section, select **+ New Rating Model**.
+    Model** section, Click on the ellipsis icon on the rating model and select **+ New Rating Model**.
 
     ![Graphical user interface, application Description automatically
   generated](./media/image5.png)
@@ -117,7 +117,7 @@ language proficiency or other required competencies.
 
     ![](./media/image13.png)
 
-5.  Select the **Omnichannel** tab.
+5.  Select the **Omnichannel** tab from top commnad bar. If the option is not visible click on the ellipsis icon and select the option.
 
     ![](./media/image14.png)
 
@@ -125,8 +125,7 @@ language proficiency or other required competencies.
 
     ![](./media/image15.png)
 
-7.  On the **New Bookable Resource** page, change the **Name** to !!Mark
-    Brown!!. Select **Save**.
+7.  On the **New Bookable Resource** page, change the **Name** to !!Mark Brown!!. Select **Save**.
 
     ![](./media/image16.png)
 
@@ -161,8 +160,8 @@ language proficiency or other required competencies.
     ![A screenshot of a computer Description automatically
   generated](./media/image20.png)
 
-4.  Select **+ New Bookable Resource Characteristic** in the **Users
-    (Agents)** section.
+4.  Select **+ New Bookable Resource Characteristic** from the right side of the screen in the **Users
+    (Agents)** section. If the option is not visible click on the elipsis icon and select the option.
 
     ![Graphical user interface, application, chat or text message
   Description automatically generated](./media/image21.png)
@@ -188,6 +187,7 @@ defining skills, creating rating models, and assigning agents to those
 skills. This ensures that customer cases are directed to the most
 qualified agents, improving resolution quality and enhancing the overall
 customer experience.
+
 
 
 

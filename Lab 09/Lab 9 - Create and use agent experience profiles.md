@@ -37,7 +37,7 @@ issues.
 4.  Navigate to **Workspaces** under **Support experience**. In the
     **Experience profile** section click on the **Manage** option.
 
-    [](./media/image5.png)
+    ![](./media/image5.png)
 
 6. Click on the + new from top bar to create new experience profile.
 
@@ -172,4 +172,5 @@ session templates to the profile. Additionally, you enabled the
 productivity pane and related tools, ensuring that agents have access to
 the right resources and streamlined experiences to perform their tasks
 efficiently.
+
 

@@ -31,7 +31,7 @@ language proficiency or other required competencies.
 
     - **Type** - Skill
 
-    - **Description** - !!!This record is used to define the skill level of the Spanish language!!!
+    - **Description** - !!This record is used to define the skill level of the Spanish language!!
 !
 5.  Select **Save & Close** from top bar.
 
@@ -188,5 +188,6 @@ defining skills, creating rating models, and assigning agents to those
 skills. This ensures that customer cases are directed to the most
 qualified agents, improving resolution quality and enhancing the overall
 customer experience.
+
 
 

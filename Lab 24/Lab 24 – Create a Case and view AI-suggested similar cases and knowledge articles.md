@@ -124,12 +124,12 @@ faster and more accurately.
     ![A screenshot of a computer Description automatically
   generated](./media/image14.png)
 
-10. Enter the following information on the **Summary** tab and then
+10. Enter the following information on the **Basic Detail** tab and then
     select **Save**.
 
     - **Case Title** – !!Minerals level is not maintained!!
 
-    - **Customer** – Trey Research
+    - **Customer** – !!Trey Research!!
 
     - **Subject** – !!Water supply!!
 
@@ -138,24 +138,23 @@ faster and more accurately.
     - **Case Status** - In Progress
 
     - **Product** – !!Water Filtration System!!
+    
+      ![A screenshot of a computer Description automatically  generated](./media/imageb.png)
 
-      ![A screenshot of a computer Description automatically
-  generated](./media/image15.png)
+12. Select  **Type** field and select **Problem** and then click on the **Save** button from top.
 
-11. Select  **Type** field and enter !!Problem!!.
-
-    ![](./media/image16.png)
+    ![](./media/imagec.png)
 
 ## Task 3: Create a child case
 
 1.  On the command bar, select the three dots and then select **Create
     Child Case**.
 
-    ![A screenshot of a computer Description automatically
-  generated](./media/image17.png)
+    ![](./media/imaged.png)
 
-2.  On the **Quick Create: Case** pane that appears on the right side,
-    enter the following information and then select **Save and Close**.
+
+2.  On the **New Case** pane that appears on the right side,
+    enter the following information and then click on the vertical ellipsis icon from top and select **Save and Close**.
 
     - **Case Type** – !!Request!!
 
@@ -163,11 +162,14 @@ faster and more accurately.
 
     - **Case Title** – !!Share a quotation for replacement!!
 
-3.  Select **Save & Close**.
+    ![](./media/imagee.png)
 
-    ![](./media/image18.png)
 
-4.  Select **Details** tab from the command bar and then scroll down.
+3.  Again, click on  **Save & Close**.
+
+    ![](./media/imagef.png)
+
+4.  Reopen **Minerals level is not maintained** case and Select **Details** tab from the command bar and then scroll down.
 
 5.  You will view the **Child case** on the **Child Cases** tile.
 
@@ -306,3 +308,4 @@ and knowledge articles can support agents with relevant insights during
 case resolution. These capabilities improve efficiency, enhance
 collaboration, and empower agents to deliver a more effective and
 informed customer service experience.
+

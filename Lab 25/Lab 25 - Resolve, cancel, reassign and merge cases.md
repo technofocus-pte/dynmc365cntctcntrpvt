@@ -122,7 +122,7 @@ All case activities must be closed before you can cancel a case.
     To** field, select **User or Team**, and then in the **User or
     team** field, select your organization.
 
-4.  Select **Assign**.
+4.  Select **Assign**. For this lab click on the **Cancel** button.
 
     ![A screenshot of a computer Description automatically
   generated](./media/image13.png)
@@ -147,20 +147,22 @@ All case activities must be closed before you can cancel a case.
     the case the other cases will be merged into, and then
     select **Merge**.
 
+    > **Note:** If give error related to child parent please select different case. 
+
     ![A screenshot of a computer Description automatically
   generated](./media/image16.png)
 
-5.  Select **OK**.
+6.  Select **OK**.
 
     ![A white background with black text Description automatically
   generated](./media/image17.png)
 
-6.  To see the merged case, open the case it was merged into.
+7.  To see the merged case, open the case it was merged into.
 
     ![A screenshot of a computer Description automatically
   generated](./media/image18.png)
 
-7.  Select the **Details** tab, scroll down and you’ll find the merged
+8.  Select the **Details** tab, scroll down and you’ll find the merged
     case listed in the **Merged Cases** section.
 
     ![A white screen with black text Description automatically
@@ -211,3 +213,4 @@ or duplicate cases also streamlines case management and prevents
 redundancy. Overall, this lab highlights how structured case handling
 supports better organization, improves agent productivity, and enhances
 the quality of customer service delivery.
+

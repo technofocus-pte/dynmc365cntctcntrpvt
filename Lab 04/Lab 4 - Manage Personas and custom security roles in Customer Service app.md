@@ -1,4 +1,4 @@
-## Lab 4 - Manage Personas and custom security roles in Customer Service app
+## Lab 4 - Manage Personas and custom security roles in Customer Service
 
 ### Introduction
 
@@ -42,3 +42,4 @@ Customer Service app and explored how security roles can be managed.
 This process ensures that users have the right permissions aligned with
 their responsibilities, enhancing security and role-based access
 control.
+

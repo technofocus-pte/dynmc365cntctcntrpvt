@@ -1,4 +1,4 @@
-## Lab 3 - Create a capacity profile and assign to users
+## Lab 3 - Create a capacity profile and assign it to the users
 
 ### Introduction
 
@@ -63,4 +63,5 @@ workload management and efficient distribution of tasks among agents.
 By completing this lab, you created a capacity profile and successfully
 assigned it to a user. This setup helps control workload distribution,
 prevents over-assignment, and improves overall agent productivity.
+
 

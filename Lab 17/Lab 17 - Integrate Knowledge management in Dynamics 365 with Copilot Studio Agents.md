@@ -1,4 +1,4 @@
-# Lab 17 - Integrate Knowledge management in Dynamics 365 with Copilot Studio Agents
+# Lab 17 - Integrate Knowledge management in Dynamics 365 with Copilot Agents
 
 ### Introduction
 
@@ -219,3 +219,4 @@ agents and customers to find relevant information efficiently, improving
 resolution times and overall service quality.
 
 - 
+

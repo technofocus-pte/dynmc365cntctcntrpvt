@@ -4,9 +4,9 @@
 
 This lab focuses on configuring **skill-based routing** in unified
 routing for Dynamics 365 Customer Service. You will create new skills,
-build rating models with defined rating values, and set up agents as
-bookable resources. Finally, you will assign agents to the skills with
-rating values to ensure cases are routed to the right agents based on
+build rating models with defined rating values, and set up representatives as
+bookable resources. Finally, you will assign representatives to the skills with
+rating values to ensure cases are routed to the right representatives based on
 language proficiency or other required competencies.
 
 ## Task 1: Create Skills
@@ -96,7 +96,7 @@ language proficiency or other required competencies.
     ![Graphical user interface, text, application, email Description
   automatically generated](./media/image10.png)
 
-## Task 3: Add agent as bookable resource
+## Task 3: Add representative as bookable resource
 
 1.  In **Dynamics 365 Copilot Service admin center**, in the site map,
     select **User management** under the **Customer support** group.
@@ -129,7 +129,7 @@ language proficiency or other required competencies.
 
     ![](./media/image16.png)
 
-8.  Click the **Work Hours** tab to see the details of the agent **Mark
+8.  Click the **Work Hours** tab to see the details of the representative **Mark
     Brown**.
 
     ![A screenshot of a computer Description automatically
@@ -144,7 +144,7 @@ language proficiency or other required competencies.
 
     ![](./media/image19.png)
 
-## Task 4: Assign agents to skill
+## Task 4: Assign representatives to skill
 
 1.  In the **Copilot Service admin center** navigate to the site map and
     select **User management** under the **Customer support** group.
@@ -155,7 +155,7 @@ language proficiency or other required competencies.
     ![](./media/image1.png)
 
 3.  Select a skill **Spanish** from the list for which you want to
-    assign the agents.
+    assign the representatives.
 
     ![A screenshot of a computer Description automatically
   generated](./media/image20.png)
@@ -183,10 +183,11 @@ language proficiency or other required competencies.
 ### Conclusion
 
 By completing this lab, you successfully set up skill-based routing by
-defining skills, creating rating models, and assigning agents to those
+defining skills, creating rating models, and assigning representatives to those
 skills. This ensures that customer cases are directed to the most
-qualified agents, improving resolution quality and enhancing the overall
+qualified representatives, improving resolution quality and enhancing the overall
 customer experience.
+
 
 
 

@@ -2,44 +2,47 @@
 
 **Introduction**
 
-In this lab, you will create and configure an Experience Profile in the
-Copilot Service workspace. Experience profiles help define the agent
-workspace settings, assign users, and enable productivity tools that
-support efficient service operations. You will create a new profile
-named Contoso Agent and assign a user to this profile to enable tailored
-agent experiences.
+In this lab, you will learn how to create and configure **Experience
+Profiles** in the **Copilot Service Admin Center**. Experience Profiles
+help organizations customize the agent experience by defining roles,
+permissions, and productivity tools available to users.
 
-## Task 1 - Create a New Experience Profile
+You will perform tasks such as creating a new Experience Profile, adding
+users, enabling productivity tools, and setting rank and roles to define
+agent access and capabilities.
 
-In this task, you will access the Copilot Service admin center through
-the Power Platform admin center and create a new Experience Profile
-named Contoso Agent. You will define its name, unique identifier, and
-description to establish a workspace configuration for agents.
+## Task 1 – Create an Experience Profile
+
+In this task, you will create a new Experience Profile in the Copilot
+Service Admin Center. This profile will define the settings and
+characteristics of agents who will use the Copilot system.
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
     center - !!https://admin.powerplatform.microsoft.com/!! with the
-    credentials provided to execute the lab in the home tab. Select
-    **Environments > ContactCenter Trial environment > Environment URL.**
+    credentials provided to execute the lab in the home tab. Select **\>
+    Environments\> ContactCenter Trial environment\> Environment URL.**
 
     ![](./media/image1.png)
+
     ![](./media/image2.png)
 
 2.  You will be navigated to the **Copilot** **Service admin center.**
 
-    > Note: If you do not navigate to the Copilot service admin center.
-Click on **App selector** from the top and then select the app.
+    > Note: If you do not navigate to the Copilot service admin center. Click on **App selector** from the top and then select the app.
 
     ![](./media/image3.png)
 
 3.  Navigate to **Workspaces** under **Support experience**. In the
     **Experience profile** section click on the **Manage** option.
-![](./media/image4.png)
 
-5. Click on the + new from top bar to create new experience profile.
+    ![](./media/image4.png)
 
-    ![](./media/image5.png)
+4.  Click on the **+ New** from top bar to create new experience
+    profile.
 
-4.  Enter the following details on the **Create a new experience
+    [](./media/image5.png)
+
+5.  Enter the following details on the **Create a new experience
     profile** dialog.
 
     - **Name:**  !!Contoso Agent!!
@@ -50,20 +53,20 @@ Click on **App selector** from the top and then select the app.
 
     - Select **Create**.
 
-    ![](./media/image6.png)
+    &nbsp;
 
-5.  An Experience profile is created.
+    - ![](./media/image6.png)
 
-    ![A screenshot of a computer Description automatically
+6.  An Experience profile is created.
+
+- ![A screenshot of a computer Description automatically
   generated](./media/image7.png)
 
-## Task 2 - Add Users and Configure the Experience Profile
+## Task 2 – Assign a User and Enable Productivity Tools
 
-In this task, you will add a new user (Megan Bowen) to your environment,
-assign the necessary security roles, and link the user to the Contoso
-Agent Experience Profile. You will also associate a session template
-with the profile and enable productivity pane tools to optimize the
-agent’s workspace.
+In this task, you will assign a user to the Experience Profile and
+enable productivity tools. Assigning users helps ensure that the right
+agents have access to the right tools and permissions.
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
     center - !!https://admin.powerplatform.microsoft.com/!! with the
@@ -71,7 +74,7 @@ agent’s workspace.
 
 2.  In the left side panel, select **Environments**.
 
-3.  Select your **CopilotService Trial** environment.
+3.  Select your **ContactCenter Trial** environment.
 
     ![](./media/image8.png)
 
@@ -86,7 +89,7 @@ agent’s workspace.
 
 6.  From the upper menu, select **Add user**.
 
-    ![](./media/image11.png)
+>   ![](./media/image11.png)
 
 7.  In the Add user pane, search for and select **Megan Bowen**. Select
     **Add**.
@@ -99,7 +102,7 @@ agent’s workspace.
     ![](./media/image13.png)
 
 9.  Switch back to the Copilot Service admin center tab. Navigate to
-    **Support experience \Workspaces** and then click on the Manage
+    **Support experience \> Workspaces** and then click on the Manage
     option in **Experience** Profile section.
 
     ![](./media/image14.png)
@@ -134,15 +137,48 @@ agent’s workspace.
 16. Select **Save and Close**
 
     ![](./media/image20.png)
-
+    
     ![A screenshot of a computer Description automatically
   generated](./media/image21.png)
 
-### Conclusion
+## Task 3 - Set Rank and Roles
 
-In this lab, you successfully created and configured an Experience
-Profile in Copilot Service. You created a custom profile for Contoso
-agents, added a user, assigned security roles, and enabled productivity
-features. This configuration ensures agents receive a tailored workspace
-with the tools needed for efficient case handling and improved service
-performance.
+In this task, you will define the rank and roles for the Experience
+Profile. Ranking helps prioritize agent profiles, while roles determine
+their level of access and permissions.
+
+1.  Navigate back to the Experience Profile page – to access all created
+    profiles for configuration.
+
+2.  Select the Contoso Agent Experience Profile – to modify its specific
+    rank and role settings.
+
+3.  Click on Set Rank and Roles from the top bar – to open the
+    configuration panel for ranking and role assignment.
+
+    ![A screenshot of a computer AI-generated content may be incorrect.](./media/image22.png)
+
+4.  **Enter the rank number, select the security role, and click *Save
+    and Close*** – to define profile priority and assign the appropriate
+    permissions.
+
+    ![A screenshot of a computer AI-generated content may be
+    incorrect.](./media/image23.png)
+
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](./media/image24.png)
+
+**Conclusion**
+
+In this lab, you learned how to create and configure an Experience
+Profile in the Copilot Service Admin Center. You started by creating a
+new profile called **Contoso Agent**, defining its name, description,
+and unique identifier. Next, you assigned a user to the profile, granted
+appropriate security roles, and enabled productivity tools to enhance
+agent efficiency. Finally, you set the rank and roles to determine the
+priority and access permissions associated with the profile. By
+completing this lab, you gained a clear understanding of how Experience
+Profiles help manage user access, define agent capabilities, and
+streamline the overall support experience within the Copilot
+environment.
+
